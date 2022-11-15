@@ -1,0 +1,17308 @@
+	Charmander	
+4
+	Scratch	1
+5
+	Growl	1
+6
+	Ember	4
+7
+	Smokescreen	8
+8
+	Dragon Breath	12
+9
+	Fire Fang	17
+10
+	Slash	20
+11
+	Flamethrower	24
+12
+	Scary Face	28
+13
+	Fire Spin	32
+14
+	Inferno	36
+15
+	Flare Blitz	40
+16
+	
+	Charmeleon	
+17
+	Scratch	1
+18
+	Growl	1
+19
+	Ember	1
+20
+	Smokescreen	1
+21
+	Dragon Breath	12
+22
+	Fire Fang	19
+23
+	Slash	24
+24
+	Flamethrower	30
+25
+	Scary Face	37
+26
+	Inferno	48
+27
+	Flare Blitz	54
+28
+	
+	Charizard	
+29
+	Air Slash	-3
+30
+	Scratch	1
+31
+	Growl	1
+32
+	Ember	1
+33
+	Smokescreen	1
+34
+	Heat Wave	1
+35
+	Dragon Claw	1
+36
+	Dragon Breath	12
+37
+	Fire Fang	19
+38
+	Slash	24
+39
+	Flamethrower	30
+40
+	Scary Face	39
+41
+	Fire Spin	46
+42
+	Inferno	54
+43
+	Flare Blitz	62
+44
+	
+	Pikachu	
+45
+	Nuzzle	1
+46
+	Nasty Plot	1
+47
+	Charm	1
+48
+	Sweet Kiss	1
+49
+	Play Nice	1
+50
+	Quick Attack	1
+51
+	Tail Whip	1
+52
+	Thunder Shock	1
+53
+	Growl	1
+54
+	Thunder Wave	4
+55
+	Double Team	8
+56
+	Electro Ball	12
+57
+	Feint	16
+58
+	Spark	20
+59
+	Agility	24
+60
+	Iron Tail	28
+61
+	Discharge	32
+62
+	Thunderbolt	36
+63
+	Light Screen	40
+64
+	Thunder	44
+65
+	
+	Raichu	
+66
+	Thunder Punch	-3
+67
+	Electro Ball	1
+68
+	Discharge	1
+69
+	Nasty Plot	1
+70
+	Feint	1
+71
+	Iron Tail	1
+72
+	Spark	1
+73
+	Charm	1
+74
+	Sweet Kiss	1
+75
+	Play Nice	1
+76
+	Nuzzle	1
+77
+	Quick Attack	1
+78
+	Agility	1
+79
+	Thunder	1
+80
+	Thunder Wave	1
+81
+	Thunder Shock	1
+82
+	Growl	1
+83
+	Tail Whip	1
+84
+	Double Team	1
+85
+	Light Screen	1
+86
+	Thunderbolt	5
+87
+	
+	Raichu-Alola	
+88
+	Psychic	-3
+89
+	Nuzzle	1
+90
+	Electro Ball	1
+91
+	Discharge	1
+92
+	Nasty Plot	1
+93
+	Feint	1
+94
+	Iron Tail	1
+95
+	Spark	1
+96
+	Charm	1
+97
+	Sweet Kiss	1
+98
+	Light Screen	1
+99
+	Double Team	1
+100
+	Quick Attack	1
+101
+	Agility	1
+102
+	Thunder	1
+103
+	Thunder Wave	1
+104
+	Thunder Shock	1
+105
+	Growl	1
+106
+	Play Nice	1
+107
+	Tail Whip	1
+108
+	Thunderbolt	5
+109
+	
+	Jigglypuff	
+110
+	Disarming Voice	1
+111
+	Copycat	1
+112
+	Sweet Kiss	1
+113
+	Defense Curl	1
+114
+	Charm	1
+115
+	Sing	1
+116
+	Disable	1
+117
+	Pound	1
+118
+	Echoed Voice	4
+119
+	Covet	8
+120
+	Stockpile	12
+121
+	Spit Up	12
+122
+	Swallow	12
+123
+	Round	16
+124
+	Rest	20
+125
+	Body Slam	24
+126
+	Mimic	28
+127
+	Gyro Ball	32
+128
+	Hyper Voice	36
+129
+	Double-Edge	44
+130
+	
+	Wigglytuff	
+131
+	Stockpile	1
+132
+	Echoed Voice	1
+133
+	Round	1
+134
+	Copycat	1
+135
+	Gyro Ball	1
+136
+	Covet	1
+137
+	Hyper Voice	1
+138
+	Swallow	1
+139
+	Spit Up	1
+140
+	Disarming Voice	1
+141
+	Pound	1
+142
+	Sweet Kiss	1
+143
+	Rest	1
+144
+	Defense Curl	1
+145
+	Mimic	1
+146
+	Disable	1
+147
+	Sing	1
+148
+	Double-Edge	1
+149
+	Body Slam	1
+150
+	Charm	1
+151
+	Play Rough	5
+152
+	
+	Venonat	
+153
+	Tackle	1
+154
+	Disable	1
+155
+	Supersonic	5
+156
+	Confusion	11
+157
+	Poison Powder	13
+158
+	Psybeam	17
+159
+	Stun Spore	23
+160
+	Bug Buzz	25
+161
+	Sleep Powder	29
+162
+	Leech Life	35
+163
+	Zen Headbutt	37
+164
+	Poison Fang	41
+165
+	Psychic	47
+166
+	
+	Venomoth	
+167
+	Air Slash	-3
+168
+	Tackle	1
+169
+	Supersonic	1
+170
+	Disable	1
+171
+	Quiver Dance	1
+172
+	Confusion	11
+173
+	Poison Powder	13
+174
+	Psybeam	17
+175
+	Stun Spore	23
+176
+	Bug Buzz	25
+177
+	Sleep Powder	29
+178
+	Leech Life	37
+179
+	Zen Headbutt	41
+180
+	Poison Fang	47
+181
+	Psychic	55
+182
+	
+	Diglett	
+183
+	Scratch	1
+184
+	Sand Attack	1
+185
+	Growl	4
+186
+	Astonish	8
+187
+	Mud-Slap	12
+188
+	Bulldoze	16
+189
+	Sucker Punch	20
+190
+	Slash	24
+191
+	Sandstorm	28
+192
+	Dig	32
+193
+	Earth Power	36
+194
+	Earthquake	40
+195
+	Fissure	44
+196
+	
+	Diglett-Alola	
+197
+	Sand Attack	1
+198
+	Metal Claw	1
+199
+	Growl	4
+200
+	Astonish	8
+201
+	Mud-Slap	12
+202
+	Bulldoze	16
+203
+	Sucker Punch	20
+204
+	Iron Head	24
+205
+	Sandstorm	28
+206
+	Dig	32
+207
+	Earth Power	36
+208
+	Earthquake	40
+209
+	Fissure	44
+210
+	
+	Dugtrio	
+211
+	Sand Tomb	-3
+212
+	Scratch	1
+213
+	Sand Attack	1
+214
+	Growl	1
+215
+	Tri Attack	1
+216
+	Astonish	1
+217
+	Night Slash	1
+218
+	Mud-Slap	12
+219
+	Bulldoze	16
+220
+	Sucker Punch	20
+221
+	Slash	24
+222
+	Sandstorm	30
+223
+	Dig	36
+224
+	Earth Power	42
+225
+	Earthquake	48
+226
+	Fissure	54
+227
+	
+	Dugtrio-Alola	
+228
+	Sand Tomb	-3
+229
+	Sand Attack	1
+230
+	Growl	1
+231
+	Tri Attack	1
+232
+	Metal Claw	1
+233
+	Astonish	1
+234
+	Night Slash	1
+235
+	Mud-Slap	12
+236
+	Bulldoze	16
+237
+	Sucker Punch	20
+238
+	Iron Head	24
+239
+	Sandstorm	30
+240
+	Dig	36
+241
+	Earth Power	42
+242
+	Earthquake	48
+243
+	Fissure	54
+244
+	
+	Meowth	
+245
+	Growl	1
+246
+	Fake Out	1
+247
+	Feint	4
+248
+	Scratch	8
+249
+	Pay Day	12
+250
+	Bite	16
+251
+	Taunt	20
+252
+	Assurance	24
+253
+	Fury Swipes	29
+254
+	Screech	32
+255
+	Slash	36
+256
+	Nasty Plot	40
+257
+	Play Rough	44
+258
+	
+	Meowth-Alola	
+259
+	Growl	1
+260
+	Fake Out	1
+261
+	Feint	4
+262
+	Scratch	8
+263
+	Pay Day	12
+264
+	Bite	16
+265
+	Taunt	20
+266
+	Assurance	24
+267
+	Fury Swipes	29
+268
+	Screech	32
+269
+	Night Slash	36
+270
+	Nasty Plot	40
+271
+	Play Rough	44
+272
+	
+	Meowth-Galar	
+273
+	Growl	1
+274
+	Fake Out	1
+275
+	Hone Claws	4
+276
+	Scratch	8
+277
+	Pay Day	12
+278
+	Metal Claw	16
+279
+	Taunt	20
+280
+	Swagger	24
+281
+	Fury Swipes	29
+282
+	Screech	32
+283
+	Slash	36
+284
+	Metal Sound	40
+285
+	Thrash	44
+286
+	
+	Persian	
+287
+	Power Gem	-3
+288
+	Scratch	1
+289
+	Growl	1
+290
+	Fake Out	1
+291
+	Feint	1
+292
+	Switcheroo	1
+293
+	Pay Day	12
+294
+	Bite	16
+295
+	Taunt	20
+296
+	Assurance	24
+297
+	Fury Swipes	31
+298
+	Screech	36
+299
+	Slash	42
+300
+	Nasty Plot	48
+301
+	Play Rough	54
+302
+	
+	Persian-Alola	
+303
+	Power Gem	-3
+304
+	Scratch	1
+305
+	Growl	1
+306
+	Fake Out	1
+307
+	Feint	1
+308
+	Switcheroo	1
+309
+	Quash	1
+310
+	Pay Day	12
+311
+	Bite	16
+312
+	Taunt	20
+313
+	Assurance	24
+314
+	Fury Swipes	31
+315
+	Screech	36
+316
+	Night Slash	42
+317
+	Nasty Plot	48
+318
+	Play Rough	54
+319
+	
+	Psyduck	
+320
+	Scratch	1
+321
+	Tail Whip	1
+322
+	Water Gun	3
+323
+	Confusion	6
+324
+	Fury Swipes	9
+325
+	Water Pulse	12
+326
+	Disable	15
+327
+	Zen Headbutt	18
+328
+	Screech	21
+329
+	Aqua Tail	24
+330
+	Soak	27
+331
+	Psych Up	30
+332
+	Amnesia	34
+333
+	Wonder Room	39
+334
+	
+	Golduck	
+335
+	Scratch	1
+336
+	Tail Whip	1
+337
+	Water Gun	1
+338
+	Confusion	1
+339
+	Aqua Jet	1
+340
+	Fury Swipes	9
+341
+	Water Pulse	12
+342
+	Disable	15
+343
+	Zen Headbutt	18
+344
+	Screech	21
+345
+	Aqua Tail	24
+346
+	Soak	27
+347
+	Psych Up	30
+348
+	Amnesia	36
+349
+	Hydro Pump	40
+350
+	Wonder Room	45
+351
+	
+	Mankey	
+352
+	Scratch	1
+353
+	Leer	1
+354
+	Focus Energy	1
+355
+	Covet	1
+356
+	Fury Swipes	5
+357
+	Low Kick	8
+358
+	Seismic Toss	12
+359
+	Swagger	17
+360
+	Cross Chop	22
+361
+	Assurance	26
+362
+	Thrash	29
+363
+	Close Combat	33
+364
+	Screech	36
+365
+	Stomping Tantrum	40
+366
+	Outrage	44
+367
+	Final Gambit	48
+368
+	
+	Primeape	
+369
+	Scratch	1
+370
+	Leer	1
+371
+	Fling	1
+372
+	Focus Energy	1
+373
+	Fury Swipes	5
+374
+	Low Kick	8
+375
+	Seismic Toss	15
+376
+	Swagger	17
+377
+	Cross Chop	22
+378
+	Assurance	26
+379
+	Thrash	30
+380
+	Rage Fist	35
+381
+	Close Combat	39
+382
+	Screech	44
+383
+	Stomping Tantrum	48
+384
+	Outrage	53
+385
+	Final Gambit	57
+386
+	
+	Growlithe	
+387
+	Leer	1
+388
+	Ember	1
+389
+	Howl	4
+390
+	Bite	8
+391
+	Flame Wheel	12
+392
+	Helping Hand	16
+393
+	Agility	20
+394
+	Fire Fang	24
+395
+	Retaliate	28
+396
+	Crunch	32
+397
+	Take Down	36
+398
+	Flamethrower	40
+399
+	Roar	44
+400
+	Play Rough	48
+401
+	Reversal	52
+402
+	Flare Blitz	56
+403
+	
+	Growlithe-Hisui	
+404
+	Leer	1
+405
+	Ember	1
+406
+	Howl	4
+407
+	Bite	8
+408
+	Flame Wheel	12
+409
+	Helping Hand	16
+410
+	Fire Fang	24
+411
+	Retaliate	28
+412
+	Crunch	32
+413
+	Take Down	36
+414
+	Flamethrower	40
+415
+	Roar	44
+416
+	Rock Slide	48
+417
+	Reversal	52
+418
+	Flare Blitz	56
+419
+	
+	Arcanine	
+420
+	Extreme Speed	-3
+421
+	Play Rough	1
+422
+	Fire Fang	1
+423
+	Flare Blitz	1
+424
+	Howl	1
+425
+	Helping Hand	1
+426
+	Crunch	1
+427
+	Retaliate	1
+428
+	Reversal	1
+429
+	Agility	1
+430
+	Ember	1
+431
+	Roar	1
+432
+	Bite	1
+433
+	Leer	1
+434
+	Flame Wheel	1
+435
+	Take Down	1
+436
+	Flamethrower	5
+437
+	
+	Arcanine-Hisui	
+438
+	Extreme Speed	-3
+439
+	Flame Wheel	1
+440
+	Fire Fang	1
+441
+	Flare Blitz	1
+442
+	Howl	1
+443
+	Helping Hand	1
+444
+	Crunch	1
+445
+	Reversal	1
+446
+	Retaliate	1
+447
+	Take Down	1
+448
+	Agility	1
+449
+	Rock Throw	1
+450
+	Ember	1
+451
+	Roar	1
+452
+	Bite	1
+453
+	Leer	1
+454
+	Rock Slide	1
+455
+	Flamethrower	5
+456
+	Raging Fury	64
+457
+	
+	Slowpoke	
+458
+	Tackle	1
+459
+	Curse	1
+460
+	Growl	3
+461
+	Water Gun	6
+462
+	Yawn	9
+463
+	Confusion	12
+464
+	Disable	15
+465
+	Water Pulse	18
+466
+	Headbutt	21
+467
+	Zen Headbutt	24
+468
+	Amnesia	27
+469
+	Surf	30
+470
+	Slack Off	33
+471
+	Psychic	36
+472
+	Psych Up	39
+473
+	Rain Dance	42
+474
+	Heal Pulse	45
+475
+	
+	Slowpoke-Galar	
+476
+	Tackle	1
+477
+	Curse	1
+478
+	Growl	3
+479
+	Acid	6
+480
+	Yawn	9
+481
+	Confusion	12
+482
+	Disable	15
+483
+	Water Pulse	18
+484
+	Headbutt	21
+485
+	Zen Headbutt	24
+486
+	Amnesia	27
+487
+	Surf	30
+488
+	Slack Off	33
+489
+	Psychic	36
+490
+	Psych Up	39
+491
+	Rain Dance	42
+492
+	Heal Pulse	45
+493
+	
+	Slowbro	
+494
+	Withdraw	1
+495
+	Tackle	1
+496
+	Growl	1
+497
+	Water Gun	1
+498
+	Curse	1
+499
+	Yawn	9
+500
+	Confusion	12
+501
+	Disable	15
+502
+	Water Pulse	18
+503
+	Headbutt	21
+504
+	Zen Headbutt	24
+505
+	Amnesia	27
+506
+	Surf	30
+507
+	Slack Off	33
+508
+	Psychic	36
+509
+	Psych Up	41
+510
+	Rain Dance	46
+511
+	Heal Pulse	51
+512
+	
+	Slowbro-Galar	
+513
+	Shell Side Arm	-3
+514
+	Tackle	1
+515
+	Growl	1
+516
+	Acid	1
+517
+	Withdraw	1
+518
+	Curse	1
+519
+	Yawn	9
+520
+	Confusion	12
+521
+	Disable	15
+522
+	Water Pulse	18
+523
+	Headbutt	21
+524
+	Zen Headbutt	24
+525
+	Amnesia	27
+526
+	Surf	30
+527
+	Slack Off	33
+528
+	Psychic	36
+529
+	Psych Up	39
+530
+	Rain Dance	42
+531
+	Heal Pulse	45
+532
+	
+	Magnemite	
+533
+	Tackle	1
+534
+	Thunder Shock	1
+535
+	Supersonic	4
+536
+	Thunder Wave	8
+537
+	Electro Ball	12
+538
+	Gyro Ball	16
+539
+	Spark	20
+540
+	Screech	24
+541
+	Magnet Rise	28
+542
+	Flash Cannon	32
+543
+	Discharge	36
+544
+	Metal Sound	40
+545
+	Light Screen	44
+546
+	Lock-On	48
+547
+	Zap Cannon	52
+548
+	
+	Magneton	
+549
+	Tri Attack	-3
+550
+	Thunder Wave	1
+551
+	Electric Terrain	1
+552
+	Tackle	1
+553
+	Supersonic	1
+554
+	Thunder Shock	1
+555
+	Electro Ball	12
+556
+	Gyro Ball	16
+557
+	Spark	20
+558
+	Screech	24
+559
+	Magnet Rise	28
+560
+	Flash Cannon	34
+561
+	Discharge	40
+562
+	Metal Sound	46
+563
+	Light Screen	52
+564
+	Lock-On	58
+565
+	Zap Cannon	64
+566
+	
+	Grimer	
+567
+	Pound	1
+568
+	Poison Gas	1
+569
+	Harden	4
+570
+	Mud-Slap	7
+571
+	Disable	12
+572
+	Sludge	15
+573
+	Mud Shot	18
+574
+	Minimize	21
+575
+	Toxic	26
+576
+	Sludge Bomb	29
+577
+	Sludge Wave	32
+578
+	Screech	37
+579
+	Gunk Shot	40
+580
+	Acid Armor	43
+581
+	Belch	46
+582
+	Memento	48
+583
+	
+	Grimer-Alola	
+584
+	Pound	1
+585
+	Poison Gas	1
+586
+	Harden	4
+587
+	Bite	7
+588
+	Disable	12
+589
+	Acid Spray	15
+590
+	Poison Fang	18
+591
+	Minimize	21
+592
+	Toxic	26
+593
+	Knock Off	29
+594
+	Crunch	32
+595
+	Screech	37
+596
+	Gunk Shot	40
+597
+	Acid Armor	43
+598
+	Belch	46
+599
+	Memento	48
+600
+	
+	Muk	
+601
+	Pound	1
+602
+	Harden	1
+603
+	Poison Gas	1
+604
+	Mud-Slap	1
+605
+	Disable	12
+606
+	Sludge	15
+607
+	Mud Shot	18
+608
+	Minimize	21
+609
+	Toxic	26
+610
+	Sludge Bomb	29
+611
+	Sludge Wave	32
+612
+	Screech	37
+613
+	Gunk Shot	40
+614
+	Acid Armor	46
+615
+	Belch	52
+616
+	Memento	57
+617
+	
+	Muk-Alola	
+618
+	Pound	1
+619
+	Bite	1
+620
+	Harden	1
+621
+	Poison Gas	1
+622
+	Disable	12
+623
+	Acid Spray	15
+624
+	Poison Fang	18
+625
+	Minimize	21
+626
+	Toxic	26
+627
+	Knock Off	29
+628
+	Crunch	32
+629
+	Screech	37
+630
+	Gunk Shot	40
+631
+	Acid Armor	46
+632
+	Belch	52
+633
+	Memento	57
+634
+	
+	Shellder	
+635
+	Tackle	1
+636
+	Water Gun	1
+637
+	Withdraw	4
+638
+	Ice Shard	8
+639
+	Leer	12
+640
+	Whirlpool	16
+641
+	Supersonic	20
+642
+	Aurora Beam	24
+643
+	Protect	28
+644
+	Razor Shell	32
+645
+	Iron Defense	36
+646
+	Ice Beam	40
+647
+	Shell Smash	44
+648
+	Hydro Pump	48
+649
+	
+	Cloyster	
+650
+	Icicle Spear	-3
+651
+	Icicle Crash	1
+652
+	Shell Smash	1
+653
+	Ice Shard	1
+654
+	Toxic Spikes	1
+655
+	Iron Defense	1
+656
+	Whirlpool	1
+657
+	Spikes	1
+658
+	Protect	1
+659
+	Withdraw	1
+660
+	Aurora Beam	1
+661
+	Ice Beam	1
+662
+	Hydro Pump	1
+663
+	Water Gun	1
+664
+	Supersonic	1
+665
+	Leer	1
+666
+	Tackle	1
+667
+	Razor Shell	5
+668
+	
+	Gastly	
+669
+	Confuse Ray	1
+670
+	Lick	1
+671
+	Hypnosis	4
+672
+	Mean Look	8
+673
+	Payback	12
+674
+	Spite	16
+675
+	Curse	20
+676
+	Hex	24
+677
+	Night Shade	28
+678
+	Sucker Punch	32
+679
+	Dark Pulse	36
+680
+	Shadow Ball	40
+681
+	Destiny Bond	44
+682
+	Dream Eater	48
+683
+	
+	Haunter	
+684
+	Shadow Punch	-3
+685
+	Hypnosis	1
+686
+	Confuse Ray	1
+687
+	Lick	1
+688
+	Mean Look	1
+689
+	Payback	12
+690
+	Spite	16
+691
+	Curse	20
+692
+	Hex	24
+693
+	Night Shade	30
+694
+	Sucker Punch	36
+695
+	Dark Pulse	42
+696
+	Shadow Ball	48
+697
+	Destiny Bond	54
+698
+	Dream Eater	60
+699
+	
+	Gengar	
+700
+	Mean Look	1
+701
+	Shadow Punch	1
+702
+	Reflect Type	1
+703
+	Perish Song	1
+704
+	Confuse Ray	1
+705
+	Lick	1
+706
+	Hypnosis	1
+707
+	Payback	12
+708
+	Spite	16
+709
+	Curse	20
+710
+	Hex	24
+711
+	Night Shade	30
+712
+	Sucker Punch	36
+713
+	Dark Pulse	42
+714
+	Shadow Ball	48
+715
+	Destiny Bond	54
+716
+	Dream Eater	60
+717
+	
+	Drowzee	
+718
+	Pound	1
+719
+	Hypnosis	1
+720
+	Disable	5
+721
+	Confusion	9
+722
+	Headbutt	13
+723
+	Poison Gas	17
+724
+	Psybeam	21
+725
+	Psych Up	25
+726
+	Zen Headbutt	29
+727
+	Swagger	33
+728
+	Psychic	37
+729
+	Nasty Plot	41
+730
+	Psyshock	45
+731
+	Future Sight	49
+732
+	
+	Hypno	
+733
+	Pound	1
+734
+	Disable	1
+735
+	Confusion	1
+736
+	Hypnosis	1
+737
+	Switcheroo	1
+738
+	Headbutt	13
+739
+	Poison Gas	17
+740
+	Psybeam	21
+741
+	Psych Up	25
+742
+	Zen Headbutt	32
+743
+	Swagger	37
+744
+	Psychic	42
+745
+	Nasty Plot	47
+746
+	Psyshock	51
+747
+	Future Sight	56
+748
+	
+	Voltorb	
+749
+	Charge	1
+750
+	Tackle	1
+751
+	Thunder Shock	4
+752
+	Eerie Impulse	6
+753
+	Spark	9
+754
+	Rollout	11
+755
+	Screech	13
+756
+	Charge Beam	16
+757
+	Swift	20
+758
+	Electro Ball	22
+759
+	Self-Destruct	26
+760
+	Light Screen	29
+761
+	Magnet Rise	34
+762
+	Discharge	37
+763
+	Explosion	41
+764
+	Gyro Ball	46
+765
+	Mirror Coat	50
+766
+	
+	Voltorb-Hisui	
+767
+	Charge	1
+768
+	Tackle	1
+769
+	Thunder Shock	4
+770
+	Stun Spore	6
+771
+	Bullet Seed	9
+772
+	Rollout	11
+773
+	Screech	13
+774
+	Charge Beam	16
+775
+	Swift	20
+776
+	Electro Ball	22
+777
+	Self-Destruct	26
+778
+	Energy Ball	29
+779
+	Seed Bomb	34
+780
+	Discharge	34
+781
+	Explosion	41
+782
+	Gyro Ball	46
+783
+	Grassy Terrain	50
+784
+	
+	Electrode	
+785
+	Eerie Impulse	1
+786
+	Charge	1
+787
+	Magnetic Flux	1
+788
+	Tackle	1
+789
+	Thunder Shock	1
+790
+	Spark	9
+791
+	Rollout	11
+792
+	Screech	13
+793
+	Charge Beam	16
+794
+	Swift	20
+795
+	Electro Ball	22
+796
+	Self-Destruct	26
+797
+	Light Screen	29
+798
+	Magnet Rise	36
+799
+	Discharge	41
+800
+	Explosion	47
+801
+	Gyro Ball	54
+802
+	Mirror Coat	58
+803
+	
+	Electrode-Hisui	
+804
+	Chloroblast	-3
+805
+	Charge	1
+806
+	Tackle	1
+807
+	Thunder Shock	4
+808
+	Stun Spore	6
+809
+	Bullet Seed	9
+810
+	Rollout	11
+811
+	Screech	13
+812
+	Charge Beam	16
+813
+	Swift	20
+814
+	Electro Ball	22
+815
+	Self-Destruct	26
+816
+	Energy Ball	29
+817
+	Seed Bomb	34
+818
+	Discharge	34
+819
+	Explosion	41
+820
+	Gyro Ball	46
+821
+	Grassy Terrain	50
+822
+	
+	Chansey	
+823
+	Charm	1
+824
+	Copycat	1
+825
+	Covet	1
+826
+	Disarming Voice	1
+827
+	Sweet Kiss	1
+828
+	Pound	1
+829
+	Defense Curl	1
+830
+	Tail Whip	4
+831
+	Echoed Voice	8
+832
+	Life Dew	12
+833
+	Sing	16
+834
+	Fling	20
+835
+	Take Down	24
+836
+	Heal Pulse	28
+837
+	Helping Hand	32
+838
+	Light Screen	36
+839
+	Double-Edge	40
+840
+	Soft-Boiled	44
+841
+	Last Resort	48
+842
+	Healing Wish	52
+843
+	
+	Scyther	
+844
+	Leer	1
+845
+	Quick Attack	1
+846
+	Fury Cutter	4
+847
+	False Swipe	8
+848
+	Wing Attack	12
+849
+	Double Team	16
+850
+	Double Hit	20
+851
+	Slash	24
+852
+	Focus Energy	28
+853
+	Agility	32
+854
+	Air Slash	36
+855
+	X-Scissor	40
+856
+	Swords Dance	44
+857
+	
+	Tauros	
+858
+	Tackle	1
+859
+	Tail Whip	1
+860
+	Work Up	5
+861
+	Payback	10
+862
+	Assurance	15
+863
+	Horn Attack	20
+864
+	Scary Face	25
+865
+	Zen Headbutt	30
+866
+	Raging Bull	35
+867
+	Rest	40
+868
+	Swagger	45
+869
+	Thrash	50
+870
+	Double-Edge	55
+871
+	Giga Impact	60
+872
+	
+	Tauros-Paldea-1	
+873
+	Tackle	1
+874
+	Tail Whip	1
+875
+	Work Up	5
+876
+	Double Kick	10
+877
+	Assurance	15
+878
+	Headbutt	20
+879
+	Scary Face	25
+880
+	Zen Headbutt	30
+881
+	Raging Bull	35
+882
+	Rest	40
+883
+	Swagger	45
+884
+	Thrash	50
+885
+	Double-Edge	55
+886
+	Close Combat	60
+887
+	
+	Tauros-Paldea-2	
+888
+	Tackle	1
+889
+	Tail Whip	1
+890
+	Work Up	5
+891
+	Double Kick	10
+892
+	Flame Charge	15
+893
+	Headbutt	20
+894
+	Scary Face	25
+895
+	Zen Headbutt	30
+896
+	Raging Bull	35
+897
+	Rest	40
+898
+	Swagger	45
+899
+	Thrash	50
+900
+	Flare Blitz	55
+901
+	Close Combat	60
+902
+	
+	Tauros-Paldea-3	
+903
+	Tackle	1
+904
+	Tail Whip	1
+905
+	Work Up	5
+906
+	Double Kick	10
+907
+	Aqua Jet	15
+908
+	Headbutt	20
+909
+	Scary Face	25
+910
+	Zen Headbutt	30
+911
+	Raging Bull	35
+912
+	Rest	40
+913
+	Swagger	45
+914
+	Thrash	50
+915
+	Wave Crash	55
+916
+	Close Combat	60
+917
+	
+	Magikarp	
+918
+	Splash	1
+919
+	Tackle	15
+920
+	Flail	25
+921
+	
+	Gyarados	
+922
+	Bite	-3
+923
+	Tackle	1
+924
+	Leer	1
+925
+	Twister	1
+926
+	Splash	1
+927
+	Flail	1
+928
+	Whirlpool	4
+929
+	Ice Fang	8
+930
+	Brine	12
+931
+	Scary Face	16
+932
+	Waterfall	21
+933
+	Crunch	24
+934
+	Rain Dance	28
+935
+	Aqua Tail	32
+936
+	Dragon Dance	36
+937
+	Hydro Pump	40
+938
+	Hurricane	44
+939
+	Thrash	48
+940
+	Hyper Beam	52
+941
+	
+	Ditto	
+942
+	Transform	1
+943
+	
+	Eevee	
+944
+	Tackle	1
+945
+	Tail Whip	1
+946
+	Growl	1
+947
+	Helping Hand	1
+948
+	Covet	1
+949
+	Sand Attack	5
+950
+	Quick Attack	10
+951
+	Baby-Doll Eyes	15
+952
+	Swift	20
+953
+	Bite	25
+954
+	Copycat	30
+955
+	Baton Pass	35
+956
+	Take Down	40
+957
+	Charm	45
+958
+	Double-Edge	50
+959
+	Last Resort	55
+960
+	
+	Vaporeon	
+961
+	Water Gun	-3
+962
+	Tackle	1
+963
+	Take Down	1
+964
+	Double-Edge	1
+965
+	Tail Whip	1
+966
+	Bite	1
+967
+	Growl	1
+968
+	Copycat	1
+969
+	Covet	1
+970
+	Helping Hand	1
+971
+	Swift	1
+972
+	Baton Pass	1
+973
+	Charm	1
+974
+	Sand Attack	5
+975
+	Quick Attack	10
+976
+	Baby-Doll Eyes	15
+977
+	Haze	20
+978
+	Water Pulse	25
+979
+	Aurora Beam	30
+980
+	Aqua Ring	35
+981
+	Muddy Water	40
+982
+	Acid Armor	45
+983
+	Hydro Pump	50
+984
+	Last Resort	55
+985
+	
+	Jolteon	
+986
+	Thunder Shock	-3
+987
+	Baton Pass	1
+988
+	Swift	1
+989
+	Helping Hand	1
+990
+	Covet	1
+991
+	Charm	1
+992
+	Bite	1
+993
+	Growl	1
+994
+	Tail Whip	1
+995
+	Double-Edge	1
+996
+	Take Down	1
+997
+	Tackle	1
+998
+	Copycat	1
+999
+	Sand Attack	5
+1000
+	Quick Attack	10
+1001
+	Baby-Doll Eyes	15
+1002
+	Thunder Wave	20
+1003
+	Double Kick	25
+1004
+	Thunder Fang	30
+1005
+	Pin Missile	35
+1006
+	Discharge	40
+1007
+	Agility	45
+1008
+	Thunder	50
+1009
+	Last Resort	55
+1010
+	
+	Flareon	
+1011
+	Ember	-3
+1012
+	Swift	1
+1013
+	Tackle	1
+1014
+	Take Down	1
+1015
+	Double-Edge	1
+1016
+	Tail Whip	1
+1017
+	Copycat	1
+1018
+	Growl	1
+1019
+	Covet	1
+1020
+	Helping Hand	1
+1021
+	Baton Pass	1
+1022
+	Charm	1
+1023
+	Sand Attack	5
+1024
+	Quick Attack	10
+1025
+	Baby-Doll Eyes	15
+1026
+	Smog	20
+1027
+	Bite	25
+1028
+	Fire Fang	30
+1029
+	Fire Spin	35
+1030
+	Lava Plume	40
+1031
+	Scary Face	45
+1032
+	Flare Blitz	50
+1033
+	Last Resort	55
+1034
+	
+	Articuno	
+1035
+	Gust	1
+1036
+	Mist	1
+1037
+	Powder Snow	5
+1038
+	Reflect	10
+1039
+	Ice Shard	15
+1040
+	Agility	20
+1041
+	Ancient Power	25
+1042
+	Tailwind	30
+1043
+	Freeze-Dry	35
+1044
+	Roost	40
+1045
+	Ice Beam	45
+1046
+	Snowscape	50
+1047
+	Hurricane	55
+1048
+	Haze	60
+1049
+	Blizzard	65
+1050
+	Sheer Cold	70
+1051
+	
+	Articuno-Galar	
+1052
+	Gust	1
+1053
+	Confusion	5
+1054
+	Reflect	10
+1055
+	Hypnosis	15
+1056
+	Agility	20
+1057
+	Ancient Power	25
+1058
+	Tailwind	30
+1059
+	Psycho Cut	35
+1060
+	Recover	40
+1061
+	Freezing Glare	45
+1062
+	Dream Eater	50
+1063
+	Hurricane	55
+1064
+	Double Team	60
+1065
+	Future Sight	65
+1066
+	Trick Room	70
+1067
+	
+	Zapdos	
+1068
+	Peck	1
+1069
+	Thunder Wave	1
+1070
+	Thunder Shock	5
+1071
+	Light Screen	10
+1072
+	Pluck	15
+1073
+	Agility	20
+1074
+	Ancient Power	25
+1075
+	Charge	30
+1076
+	Drill Peck	35
+1077
+	Roost	40
+1078
+	Discharge	45
+1079
+	Rain Dance	50
+1080
+	Thunder	55
+1081
+	Detect	60
+1082
+	Magnetic Flux	65
+1083
+	Zap Cannon	70
+1084
+	
+	Zapdos-Galar	
+1085
+	Peck	1
+1086
+	Focus Energy	1
+1087
+	Rock Smash	5
+1088
+	Light Screen	10
+1089
+	Pluck	15
+1090
+	Agility	20
+1091
+	Ancient Power	25
+1092
+	Brick Break	30
+1093
+	Drill Peck	35
+1094
+	Quick Guard	40
+1095
+	Thunderous Kick	45
+1096
+	Bulk Up	50
+1097
+	Counter	55
+1098
+	Detect	60
+1099
+	Close Combat	65
+1100
+	Reversal	70
+1101
+	
+	Moltres	
+1102
+	Gust	1
+1103
+	Leer	1
+1104
+	Ember	5
+1105
+	Safeguard	10
+1106
+	Wing Attack	15
+1107
+	Agility	20
+1108
+	Ancient Power	25
+1109
+	Incinerate	30
+1110
+	Air Slash	35
+1111
+	Roost	40
+1112
+	Heat Wave	45
+1113
+	Sunny Day	50
+1114
+	Hurricane	55
+1115
+	Endure	60
+1116
+	Overheat	65
+1117
+	Sky Attack	70
+1118
+	
+	Moltres-Galar	
+1119
+	Gust	1
+1120
+	Leer	1
+1121
+	Payback	5
+1122
+	Safeguard	10
+1123
+	Wing Attack	15
+1124
+	Agility	20
+1125
+	Ancient Power	25
+1126
+	Sucker Punch	30
+1127
+	Air Slash	35
+1128
+	After You	40
+1129
+	Fiery Wrath	45
+1130
+	Nasty Plot	50
+1131
+	Hurricane	55
+1132
+	Endure	60
+1133
+	Memento	65
+1134
+	Sky Attack	70
+1135
+	
+	Dratini	
+1136
+	Wrap	1
+1137
+	Leer	1
+1138
+	Twister	5
+1139
+	Thunder Wave	10
+1140
+	Dragon Tail	15
+1141
+	Agility	20
+1142
+	Slam	25
+1143
+	Aqua Tail	31
+1144
+	Dragon Rush	35
+1145
+	Safeguard	40
+1146
+	Rain Dance	45
+1147
+	Dragon Dance	50
+1148
+	Outrage	55
+1149
+	Hyper Beam	60
+1150
+	
+	Dragonair	
+1151
+	Wrap	1
+1152
+	Leer	1
+1153
+	Thunder Wave	1
+1154
+	Twister	1
+1155
+	Dragon Tail	15
+1156
+	Agility	20
+1157
+	Slam	25
+1158
+	Aqua Tail	33
+1159
+	Dragon Rush	39
+1160
+	Safeguard	46
+1161
+	Rain Dance	53
+1162
+	Dragon Dance	60
+1163
+	Outrage	67
+1164
+	Hyper Beam	74
+1165
+	
+	Dragonite	
+1166
+	Hurricane	-3
+1167
+	Roost	1
+1168
+	Extreme Speed	1
+1169
+	Twister	1
+1170
+	Thunder Wave	1
+1171
+	Fire Punch	1
+1172
+	Wrap	1
+1173
+	Wing Attack	1
+1174
+	Thunder Punch	1
+1175
+	Leer	1
+1176
+	Dragon Tail	15
+1177
+	Agility	20
+1178
+	Slam	25
+1179
+	Aqua Tail	33
+1180
+	Dragon Rush	39
+1181
+	Outrage	41
+1182
+	Safeguard	46
+1183
+	Rain Dance	53
+1184
+	Dragon Dance	62
+1185
+	Hyper Beam	80
+1186
+	
+	Mewtwo	
+1187
+	Disable	1
+1188
+	Confusion	1
+1189
+	Swift	1
+1190
+	Life Dew	1
+1191
+	Ancient Power	8
+1192
+	Psycho Cut	16
+1193
+	Safeguard	24
+1194
+	Amnesia	32
+1195
+	Aura Sphere	40
+1196
+	Psychic	48
+1197
+	Power Swap	56
+1198
+	Guard Swap	56
+1199
+	Mist	64
+1200
+	Psystrike	72
+1201
+	Recover	80
+1202
+	Future Sight	88
+1203
+	
+	Mew	
+1204
+	Pound	1
+1205
+	Reflect Type	1
+1206
+	Amnesia	10
+1207
+	Baton Pass	20
+1208
+	Ancient Power	30
+1209
+	Life Dew	40
+1210
+	Nasty Plot	50
+1211
+	Metronome	60
+1212
+	Imprison	70
+1213
+	Transform	80
+1214
+	Aura Sphere	90
+1215
+	Psychic	100
+1216
+	
+	Cyndaquil	
+1217
+	Tackle	1
+1218
+	Leer	1
+1219
+	Smokescreen	6
+1220
+	Ember	10
+1221
+	Quick Attack	13
+1222
+	Flame Wheel	19
+1223
+	Defense Curl	22
+1224
+	Flame Charge	28
+1225
+	Swift	31
+1226
+	Lava Plume	37
+1227
+	Flamethrower	40
+1228
+	Inferno	46
+1229
+	Rollout	49
+1230
+	Double-Edge	55
+1231
+	Overheat	58
+1232
+	Eruption	64
+1233
+	
+	Quilava	
+1234
+	Tackle	1
+1235
+	Leer	1
+1236
+	Smokescreen	1
+1237
+	Ember	10
+1238
+	Quick Attack	13
+1239
+	Flame Wheel	20
+1240
+	Defense Curl	24
+1241
+	Swift	31
+1242
+	Flame Charge	35
+1243
+	Lava Plume	42
+1244
+	Flamethrower	46
+1245
+	Inferno	53
+1246
+	Rollout	57
+1247
+	Double-Edge	64
+1248
+	Overheat	68
+1249
+	Eruption	75
+1250
+	
+	Typhlosion	
+1251
+	Tackle	1
+1252
+	Double-Edge	1
+1253
+	Leer	1
+1254
+	Ember	1
+1255
+	Gyro Ball	1
+1256
+	Smokescreen	1
+1257
+	Eruption	1
+1258
+	Quick Attack	13
+1259
+	Flame Wheel	20
+1260
+	Defense Curl	24
+1261
+	Swift	31
+1262
+	Flame Charge	35
+1263
+	Lava Plume	43
+1264
+	Flamethrower	48
+1265
+	Inferno	56
+1266
+	Rollout	61
+1267
+	Overheat	74
+1268
+	
+	Typhlosion-Hisui	
+1269
+	Infernal Parade	-3
+1270
+	Gyro Ball	1
+1271
+	Eruption	1
+1272
+	Smokescreen	1
+1273
+	Tackle	1
+1274
+	Ember	1
+1275
+	Leer	1
+1276
+	Double-Edge	1
+1277
+	Quick Attack	13
+1278
+	Flame Wheel	20
+1279
+	Defense Curl	24
+1280
+	Swift	31
+1281
+	Flame Charge	35
+1282
+	Lava Plume	43
+1283
+	Flamethrower	48
+1284
+	Inferno	56
+1285
+	Rollout	61
+1286
+	Overheat	74
+1287
+	
+	Pichu	
+1288
+	Tail Whip	1
+1289
+	Thunder Shock	1
+1290
+	Play Nice	4
+1291
+	Sweet Kiss	8
+1292
+	Nuzzle	12
+1293
+	Nasty Plot	16
+1294
+	Charm	20
+1295
+	
+	Igglybuff	
+1296
+	Pound	1
+1297
+	Sing	1
+1298
+	Copycat	1
+1299
+	Defense Curl	4
+1300
+	Sweet Kiss	8
+1301
+	Disarming Voice	12
+1302
+	Disable	16
+1303
+	Charm	20
+1304
+	
+	Mareep	
+1305
+	Tackle	1
+1306
+	Growl	1
+1307
+	Thunder Wave	4
+1308
+	Thunder Shock	8
+1309
+	Cotton Spore	11
+1310
+	Charge	15
+1311
+	Take Down	18
+1312
+	Electro Ball	22
+1313
+	Confuse Ray	25
+1314
+	Power Gem	29
+1315
+	Discharge	32
+1316
+	Cotton Guard	36
+1317
+	Dazzling Gleam	39
+1318
+	Light Screen	43
+1319
+	Thunder	46
+1320
+	
+	Flaaffy	
+1321
+	Tackle	1
+1322
+	Growl	1
+1323
+	Thunder Shock	6
+1324
+	Thunder Wave	9
+1325
+	Cotton Spore	11
+1326
+	Charge	16
+1327
+	Take Down	20
+1328
+	Electro Ball	25
+1329
+	Confuse Ray	29
+1330
+	Power Gem	34
+1331
+	Discharge	38
+1332
+	Cotton Guard	43
+1333
+	Dazzling Gleam	47
+1334
+	Light Screen	52
+1335
+	Thunder	56
+1336
+	
+	Ampharos	
+1337
+	Thunder Punch	-3
+1338
+	Fire Punch	1
+1339
+	Tackle	1
+1340
+	Growl	1
+1341
+	Thunder Shock	1
+1342
+	Thunder Wave	1
+1343
+	Dragon Pulse	1
+1344
+	Magnetic Flux	1
+1345
+	Zap Cannon	1
+1346
+	Cotton Spore	11
+1347
+	Charge	16
+1348
+	Take Down	20
+1349
+	Electro Ball	25
+1350
+	Confuse Ray	29
+1351
+	Power Gem	35
+1352
+	Discharge	40
+1353
+	Cotton Guard	46
+1354
+	Dazzling Gleam	51
+1355
+	Light Screen	57
+1356
+	Thunder	62
+1357
+	
+	Marill	
+1358
+	Tackle	1
+1359
+	Helping Hand	1
+1360
+	Tail Whip	1
+1361
+	Water Gun	1
+1362
+	Rollout	1
+1363
+	Defense Curl	1
+1364
+	Bubble Beam	6
+1365
+	Charm	9
+1366
+	Slam	12
+1367
+	Bounce	15
+1368
+	Aqua Tail	19
+1369
+	Play Rough	21
+1370
+	Aqua Ring	24
+1371
+	Rain Dance	27
+1372
+	Hydro Pump	30
+1373
+	Double-Edge	33
+1374
+	Superpower	36
+1375
+	
+	Azumarill	
+1376
+	Tackle	1
+1377
+	Helping Hand	1
+1378
+	Tail Whip	1
+1379
+	Water Gun	1
+1380
+	Rollout	1
+1381
+	Defense Curl	1
+1382
+	Bubble Beam	6
+1383
+	Charm	9
+1384
+	Slam	12
+1385
+	Bounce	15
+1386
+	Aqua Tail	21
+1387
+	Play Rough	25
+1388
+	Aqua Ring	30
+1389
+	Rain Dance	35
+1390
+	Hydro Pump	40
+1391
+	Double-Edge	45
+1392
+	Superpower	50
+1393
+	
+	Sudowoodo	
+1394
+	Slam	-3
+1395
+	Wood Hammer	1
+1396
+	Stone Edge	1
+1397
+	Copycat	1
+1398
+	Hammer Arm	1
+1399
+	Flail	1
+1400
+	Fake Tears	1
+1401
+	Rock Throw	1
+1402
+	Block	12
+1403
+	Mimic	16
+1404
+	Rock Tomb	20
+1405
+	Tearful Look	24
+1406
+	Sucker Punch	28
+1407
+	Rock Slide	32
+1408
+	Low Kick	36
+1409
+	Counter	40
+1410
+	Double-Edge	44
+1411
+	Head Smash	48
+1412
+	
+	Hoppip	
+1413
+	Splash	1
+1414
+	Tackle	1
+1415
+	Tail Whip	4
+1416
+	Absorb	6
+1417
+	Fairy Wind	8
+1418
+	Poison Powder	10
+1419
+	Stun Spore	10
+1420
+	Sleep Powder	10
+1421
+	Bullet Seed	12
+1422
+	Synthesis	15
+1423
+	Leech Seed	19
+1424
+	Mega Drain	22
+1425
+	Acrobatics	24
+1426
+	Cotton Spore	27
+1427
+	U-turn	29
+1428
+	Giga Drain	32
+1429
+	Bounce	35
+1430
+	Memento	38
+1431
+	
+	Skiploom	
+1432
+	Splash	1
+1433
+	Tail Whip	1
+1434
+	Absorb	1
+1435
+	Synthesis	1
+1436
+	Tackle	8
+1437
+	Fairy Wind	10
+1438
+	Poison Powder	12
+1439
+	Stun Spore	12
+1440
+	Sleep Powder	12
+1441
+	Bullet Seed	15
+1442
+	Leech Seed	20
+1443
+	Mega Drain	24
+1444
+	Acrobatics	28
+1445
+	Cotton Spore	31
+1446
+	U-turn	34
+1447
+	Giga Drain	37
+1448
+	Bounce	41
+1449
+	Memento	44
+1450
+	
+	Jumpluff	
+1451
+	Splash	1
+1452
+	Tail Whip	1
+1453
+	Absorb	1
+1454
+	Synthesis	1
+1455
+	Tackle	8
+1456
+	Fairy Wind	10
+1457
+	Poison Powder	12
+1458
+	Stun Spore	12
+1459
+	Sleep Powder	12
+1460
+	Bullet Seed	15
+1461
+	Leech Seed	20
+1462
+	Mega Drain	24
+1463
+	Acrobatics	30
+1464
+	Cotton Spore	35
+1465
+	U-turn	39
+1466
+	Giga Drain	43
+1467
+	Bounce	49
+1468
+	Memento	55
+1469
+	
+	Sunkern	
+1470
+	Tackle	1
+1471
+	Growth	1
+1472
+	Absorb	7
+1473
+	Mega Drain	10
+1474
+	Razor Leaf	16
+1475
+	Worry Seed	19
+1476
+	Giga Drain	22
+1477
+	Endeavor	25
+1478
+	Synthesis	28
+1479
+	Solar Beam	31
+1480
+	Double-Edge	34
+1481
+	Sunny Day	36
+1482
+	Seed Bomb	39
+1483
+	
+	Sunflora	
+1484
+	Pound	1
+1485
+	Tackle	1
+1486
+	Growth	1
+1487
+	Ingrain	4
+1488
+	Absorb	7
+1489
+	Mega Drain	10
+1490
+	Leech Seed	13
+1491
+	Razor Leaf	16
+1492
+	Worry Seed	19
+1493
+	Giga Drain	22
+1494
+	Bullet Seed	25
+1495
+	Petal Dance	28
+1496
+	Solar Beam	31
+1497
+	Double-Edge	34
+1498
+	Sunny Day	39
+1499
+	Leaf Storm	43
+1500
+	Petal Blizzard	50
+1501
+	
+	Wooper	
+1502
+	Tail Whip	1
+1503
+	Water Gun	1
+1504
+	Rain Dance	4
+1505
+	Mud Shot	8
+1506
+	Mist	12
+1507
+	Haze	12
+1508
+	Slam	16
+1509
+	Yawn	21
+1510
+	Aqua Tail	24
+1511
+	Muddy Water	28
+1512
+	Amnesia	32
+1513
+	Toxic	36
+1514
+	Earthquake	40
+1515
+	
+	Wooper-Paldea	
+1516
+	Tail Whip	1
+1517
+	Mud Shot	1
+1518
+	Tackle	4
+1519
+	Poison Tail	8
+1520
+	Toxic Spikes	12
+1521
+	Slam	16
+1522
+	Yawn	21
+1523
+	Poison Jab	24
+1524
+	Sludge Wave	28
+1525
+	Amnesia	32
+1526
+	Toxic	36
+1527
+	Earthquake	40
+1528
+	
+	Quagsire	
+1529
+	Tail Whip	1
+1530
+	Water Gun	1
+1531
+	Rain Dance	1
+1532
+	Mud Shot	1
+1533
+	Mist	12
+1534
+	Haze	12
+1535
+	Slam	16
+1536
+	Yawn	23
+1537
+	Aqua Tail	28
+1538
+	Muddy Water	34
+1539
+	Amnesia	40
+1540
+	Toxic	46
+1541
+	Earthquake	52
+1542
+	
+	Espeon	
+1543
+	Confusion	-3
+1544
+	Tackle	1
+1545
+	Take Down	1
+1546
+	Double-Edge	1
+1547
+	Tail Whip	1
+1548
+	Bite	1
+1549
+	Growl	1
+1550
+	Copycat	1
+1551
+	Covet	1
+1552
+	Helping Hand	1
+1553
+	Charm	1
+1554
+	Baton Pass	1
+1555
+	Sand Attack	5
+1556
+	Quick Attack	10
+1557
+	Baby-Doll Eyes	15
+1558
+	Swift	20
+1559
+	Psybeam	25
+1560
+	Morning Sun	30
+1561
+	Power Swap	35
+1562
+	Psychic	40
+1563
+	Psych Up	45
+1564
+	Future Sight	50
+1565
+	Last Resort	55
+1566
+	
+	Umbreon	
+1567
+	Snarl	-3
+1568
+	Charm	1
+1569
+	Tackle	1
+1570
+	Take Down	1
+1571
+	Double-Edge	1
+1572
+	Tail Whip	1
+1573
+	Bite	1
+1574
+	Growl	1
+1575
+	Copycat	1
+1576
+	Covet	1
+1577
+	Helping Hand	1
+1578
+	Swift	1
+1579
+	Baton Pass	1
+1580
+	Sand Attack	5
+1581
+	Quick Attack	10
+1582
+	Baby-Doll Eyes	15
+1583
+	Confuse Ray	20
+1584
+	Assurance	25
+1585
+	Moonlight	30
+1586
+	Guard Swap	35
+1587
+	Dark Pulse	40
+1588
+	Screech	45
+1589
+	Mean Look	50
+1590
+	Last Resort	55
+1591
+	
+	Murkrow	
+1592
+	Peck	1
+1593
+	Astonish	1
+1594
+	Gust	5
+1595
+	Haze	11
+1596
+	Wing Attack	15
+1597
+	Night Shade	21
+1598
+	Assurance	25
+1599
+	Taunt	31
+1600
+	Mean Look	35
+1601
+	Foul Play	40
+1602
+	Sucker Punch	50
+1603
+	Torment	55
+1604
+	Quash	60
+1605
+	
+	Slowking	
+1606
+	Curse	1
+1607
+	Tackle	1
+1608
+	Growl	1
+1609
+	Water Gun	1
+1610
+	Power Gem	1
+1611
+	Nasty Plot	1
+1612
+	Swagger	1
+1613
+	Yawn	9
+1614
+	Confusion	12
+1615
+	Disable	15
+1616
+	Water Pulse	18
+1617
+	Headbutt	21
+1618
+	Amnesia	27
+1619
+	Surf	30
+1620
+	Slack Off	33
+1621
+	Psychic	36
+1622
+	Psych Up	39
+1623
+	Rain Dance	42
+1624
+	Heal Pulse	45
+1625
+	
+	Slowking-Galar	
+1626
+	Eerie Spell	-3
+1627
+	Nasty Plot	1
+1628
+	Power Gem	1
+1629
+	Curse	1
+1630
+	Swagger	1
+1631
+	Growl	1
+1632
+	Tackle	1
+1633
+	Acid	1
+1634
+	Yawn	9
+1635
+	Confusion	12
+1636
+	Disable	15
+1637
+	Water Pulse	18
+1638
+	Headbutt	21
+1639
+	Zen Headbutt	24
+1640
+	Amnesia	27
+1641
+	Surf	30
+1642
+	Slack Off	33
+1643
+	Psychic	36
+1644
+	Psych Up	39
+1645
+	Rain Dance	42
+1646
+	Heal Pulse	45
+1647
+	
+	Misdreavus	
+1648
+	Growl	1
+1649
+	Confusion	1
+1650
+	Astonish	10
+1651
+	Confuse Ray	14
+1652
+	Mean Look	19
+1653
+	Hex	23
+1654
+	Psybeam	28
+1655
+	Pain Split	32
+1656
+	Payback	37
+1657
+	Shadow Ball	41
+1658
+	Perish Song	46
+1659
+	Power Gem	50
+1660
+	
+	Girafarig	
+1661
+	Tackle	1
+1662
+	Growl	1
+1663
+	Astonish	1
+1664
+	Power Swap	1
+1665
+	Guard Swap	1
+1666
+	Confusion	5
+1667
+	Assurance	10
+1668
+	Stomp	14
+1669
+	Psybeam	19
+1670
+	Agility	23
+1671
+	Double Hit	28
+1672
+	Twin Beam	32
+1673
+	Crunch	37
+1674
+	Baton Pass	41
+1675
+	Nasty Plot	46
+1676
+	Psychic	50
+1677
+	
+	Pineco	
+1678
+	Tackle	1
+1679
+	Protect	1
+1680
+	Self-Destruct	6
+1681
+	Bug Bite	9
+1682
+	Take Down	12
+1683
+	Rapid Spin	17
+1684
+	Rollout	20
+1685
+	Curse	23
+1686
+	Spikes	28
+1687
+	Payback	31
+1688
+	Explosion	34
+1689
+	Iron Defense	39
+1690
+	Gyro Ball	42
+1691
+	Double-Edge	45
+1692
+	
+	Forretress	
+1693
+	Heavy Slam	-3
+1694
+	Magnet Rise	1
+1695
+	Toxic Spikes	1
+1696
+	Bug Bite	1
+1697
+	Protect	1
+1698
+	Zap Cannon	1
+1699
+	Self-Destruct	1
+1700
+	Tackle	1
+1701
+	Take Down	12
+1702
+	Rapid Spin	17
+1703
+	Rollout	20
+1704
+	Curse	23
+1705
+	Spikes	28
+1706
+	Payback	32
+1707
+	Explosion	36
+1708
+	Iron Defense	42
+1709
+	Gyro Ball	46
+1710
+	Double-Edge	50
+1711
+	
+	Dunsparce	
+1712
+	Defense Curl	1
+1713
+	Flail	1
+1714
+	Mud-Slap	4
+1715
+	Rollout	8
+1716
+	Glare	12
+1717
+	Screech	16
+1718
+	Ancient Power	20
+1719
+	Drill Run	24
+1720
+	Yawn	28
+1721
+	Hyper Drill	32
+1722
+	Roost	36
+1723
+	Dragon Rush	40
+1724
+	Coil	44
+1725
+	Double-Edge	48
+1726
+	Endeavor	52
+1727
+	
+	Qwilfish	
+1728
+	Tackle	1
+1729
+	Poison Sting	1
+1730
+	Harden	4
+1731
+	Water Gun	8
+1732
+	Fell Stinger	12
+1733
+	Minimize	16
+1734
+	Spikes	20
+1735
+	Brine	24
+1736
+	Poison Jab	28
+1737
+	Pin Missile	32
+1738
+	Toxic Spikes	36
+1739
+	Stockpile	40
+1740
+	Spit Up	40
+1741
+	Toxic	44
+1742
+	Aqua Tail	48
+1743
+	Acupressure	52
+1744
+	Destiny Bond	56
+1745
+	
+	Qwilfish-Hisui	
+1746
+	Tackle	1
+1747
+	Poison Sting	1
+1748
+	Harden	4
+1749
+	Bite	8
+1750
+	Fell Stinger	12
+1751
+	Minimize	16
+1752
+	Spikes	20
+1753
+	Brine	24
+1754
+	Barb Barrage	28
+1755
+	Pin Missile	32
+1756
+	Toxic Spikes	36
+1757
+	Stockpile	40
+1758
+	Spit Up	40
+1759
+	Toxic	44
+1760
+	Crunch	48
+1761
+	Acupressure	52
+1762
+	Destiny Bond	56
+1763
+	
+	Scizor	
+1764
+	Bullet Punch	-3
+1765
+	False Swipe	1
+1766
+	Wing Attack	1
+1767
+	Leer	1
+1768
+	Agility	1
+1769
+	Quick Attack	1
+1770
+	Air Slash	1
+1771
+	Fury Cutter	1
+1772
+	Metal Claw	12
+1773
+	Double Team	16
+1774
+	Double Hit	20
+1775
+	Slash	24
+1776
+	Focus Energy	28
+1777
+	Iron Defense	32
+1778
+	Iron Head	36
+1779
+	X-Scissor	40
+1780
+	Swords Dance	44
+1781
+	
+	Heracross	
+1782
+	Tackle	1
+1783
+	Leer	1
+1784
+	Arm Thrust	1
+1785
+	Fury Attack	5
+1786
+	Endure	10
+1787
+	Aerial Ace	15
+1788
+	Horn Attack	20
+1789
+	Counter	25
+1790
+	Brick Break	30
+1791
+	Pin Missile	35
+1792
+	Throat Chop	40
+1793
+	Thrash	45
+1794
+	Swords Dance	50
+1795
+	Megahorn	55
+1796
+	Close Combat	60
+1797
+	
+	Sneasel	
+1798
+	Scratch	1
+1799
+	Leer	1
+1800
+	Taunt	6
+1801
+	Quick Attack	12
+1802
+	Metal Claw	18
+1803
+	Icy Wind	24
+1804
+	Fury Swipes	30
+1805
+	Hone Claws	36
+1806
+	Beat Up	42
+1807
+	Agility	48
+1808
+	Screech	54
+1809
+	Slash	60
+1810
+	
+	Sneasel-Hisui	
+1811
+	Scratch	1
+1812
+	Leer	1
+1813
+	Rock Smash	1
+1814
+	Taunt	6
+1815
+	Quick Attack	12
+1816
+	Metal Claw	18
+1817
+	Poison Jab	24
+1818
+	Brick Break	30
+1819
+	Hone Claws	36
+1820
+	Slash	42
+1821
+	Agility	48
+1822
+	Screech	54
+1823
+	Close Combat	60
+1824
+	
+	Teddiursa	
+1825
+	Scratch	1
+1826
+	Lick	1
+1827
+	Covet	1
+1828
+	Fling	1
+1829
+	Baby-Doll Eyes	1
+1830
+	Fury Swipes	8
+1831
+	Payback	13
+1832
+	Sweet Scent	17
+1833
+	Slash	22
+1834
+	Play Nice	25
+1835
+	Play Rough	29
+1836
+	Charm	33
+1837
+	Rest	37
+1838
+	Snore	37
+1839
+	Thrash	41
+1840
+	
+	Ursaring	
+1841
+	Scratch	1
+1842
+	Leer	1
+1843
+	Lick	1
+1844
+	Covet	1
+1845
+	Fake Tears	1
+1846
+	Fury Swipes	8
+1847
+	Payback	13
+1848
+	Sweet Scent	17
+1849
+	Slash	22
+1850
+	Play Nice	25
+1851
+	Play Rough	29
+1852
+	Scary Face	35
+1853
+	Rest	41
+1854
+	Snore	41
+1855
+	High Horsepower	48
+1856
+	Thrash	56
+1857
+	Hammer Arm	64
+1858
+	
+	Delibird	
+1859
+	Present	1
+1860
+	Drill Peck	25
+1861
+	
+	Houndour	
+1862
+	Leer	1
+1863
+	Ember	1
+1864
+	Howl	4
+1865
+	Smog	8
+1866
+	Roar	13
+1867
+	Bite	16
+1868
+	Incinerate	20
+1869
+	Beat Up	25
+1870
+	Fire Fang	28
+1871
+	Torment	32
+1872
+	Comeuppance	37
+1873
+	Foul Play	40
+1874
+	Flamethrower	44
+1875
+	Crunch	49
+1876
+	Nasty Plot	52
+1877
+	Inferno	56
+1878
+	
+	Houndoom	
+1879
+	Leer	1
+1880
+	Ember	1
+1881
+	Smog	1
+1882
+	Thunder Fang	1
+1883
+	Howl	1
+1884
+	Nasty Plot	1
+1885
+	Roar	13
+1886
+	Bite	16
+1887
+	Incinerate	20
+1888
+	Beat Up	26
+1889
+	Fire Fang	30
+1890
+	Torment	35
+1891
+	Comeuppance	41
+1892
+	Foul Play	45
+1893
+	Flamethrower	50
+1894
+	Crunch	56
+1895
+	Inferno	62
+1896
+	
+	Phanpy	
+1897
+	Tackle	1
+1898
+	Growl	1
+1899
+	Defense Curl	1
+1900
+	Flail	6
+1901
+	Rollout	10
+1902
+	Bulldoze	15
+1903
+	Endure	19
+1904
+	Slam	24
+1905
+	Take Down	28
+1906
+	Charm	33
+1907
+	Last Resort	37
+1908
+	Double-Edge	42
+1909
+	
+	Donphan	
+1910
+	Fury Attack	-3
+1911
+	Horn Attack	1
+1912
+	Growl	1
+1913
+	Defense Curl	1
+1914
+	Thunder Fang	1
+1915
+	Fire Fang	1
+1916
+	Bulldoze	1
+1917
+	Rapid Spin	6
+1918
+	Rollout	10
+1919
+	Assurance	15
+1920
+	Knock Off	19
+1921
+	Slam	24
+1922
+	Stomping Tantrum	30
+1923
+	Scary Face	37
+1924
+	Earthquake	43
+1925
+	Giga Impact	50
+1926
+	
+	Stantler	
+1927
+	Tackle	1
+1928
+	Leer	3
+1929
+	Astonish	7
+1930
+	Hypnosis	10
+1931
+	Stomp	13
+1932
+	Sand Attack	16
+1933
+	Take Down	21
+1934
+	Confuse Ray	23
+1935
+	Calm Mind	27
+1936
+	Role Play	32
+1937
+	Zen Headbutt	37
+1938
+	Imprison	49
+1939
+	Double-Edge	55
+1940
+	
+	Blissey	
+1941
+	Charm	1
+1942
+	Copycat	1
+1943
+	Covet	1
+1944
+	Disarming Voice	1
+1945
+	Sweet Kiss	1
+1946
+	Pound	1
+1947
+	Defense Curl	1
+1948
+	Tail Whip	4
+1949
+	Echoed Voice	8
+1950
+	Life Dew	12
+1951
+	Sing	16
+1952
+	Fling	20
+1953
+	Take Down	24
+1954
+	Heal Pulse	28
+1955
+	Helping Hand	32
+1956
+	Light Screen	36
+1957
+	Double-Edge	40
+1958
+	Soft-Boiled	44
+1959
+	Last Resort	48
+1960
+	Healing Wish	52
+1961
+	
+	Larvitar	
+1962
+	Tackle	1
+1963
+	Leer	1
+1964
+	Rock Throw	3
+1965
+	Payback	6
+1966
+	Bite	9
+1967
+	Scary Face	12
+1968
+	Rock Slide	15
+1969
+	Stomping Tantrum	18
+1970
+	Screech	21
+1971
+	Smack Down	24
+1972
+	Crunch	27
+1973
+	Earthquake	31
+1974
+	Stone Edge	33
+1975
+	Thrash	36
+1976
+	Sandstorm	39
+1977
+	Hyper Beam	42
+1978
+	
+	Pupitar	
+1979
+	Iron Defense	-3
+1980
+	Tackle	1
+1981
+	Payback	1
+1982
+	Leer	1
+1983
+	Rock Throw	1
+1984
+	Bite	9
+1985
+	Scary Face	12
+1986
+	Rock Slide	15
+1987
+	Stomping Tantrum	18
+1988
+	Screech	21
+1989
+	Smack Down	24
+1990
+	Crunch	27
+1991
+	Earthquake	33
+1992
+	Stone Edge	37
+1993
+	Thrash	42
+1994
+	Sandstorm	47
+1995
+	Hyper Beam	52
+1996
+	
+	Tyranitar	
+1997
+	Tackle	1
+1998
+	Fire Fang	1
+1999
+	Leer	1
+2000
+	Ice Fang	1
+2001
+	Rock Throw	1
+2002
+	Thunder Fang	1
+2003
+	Dark Pulse	1
+2004
+	Payback	1
+2005
+	Iron Defense	1
+2006
+	Bite	9
+2007
+	Scary Face	12
+2008
+	Rock Slide	15
+2009
+	Stomping Tantrum	18
+2010
+	Screech	21
+2011
+	Smack Down	24
+2012
+	Crunch	27
+2013
+	Earthquake	33
+2014
+	Stone Edge	37
+2015
+	Thrash	42
+2016
+	Sandstorm	47
+2017
+	Hyper Beam	52
+2018
+	Giga Impact	59
+2019
+	
+	Wingull	
+2020
+	Growl	1
+2021
+	Water Gun	1
+2022
+	Quick Attack	5
+2023
+	Supersonic	10
+2024
+	Wing Attack	15
+2025
+	Water Pulse	20
+2026
+	Agility	26
+2027
+	Air Slash	30
+2028
+	Mist	35
+2029
+	Roost	40
+2030
+	Hurricane	45
+2031
+	
+	Pelipper	
+2032
+	Growl	1
+2033
+	Supersonic	1
+2034
+	Air Slash	1
+2035
+	Water Gun	1
+2036
+	Tailwind	1
+2037
+	Agility	1
+2038
+	Quick Attack	1
+2039
+	Protect	1
+2040
+	Soak	1
+2041
+	Wing Attack	15
+2042
+	Water Pulse	20
+2043
+	Stockpile	28
+2044
+	Spit Up	28
+2045
+	Swallow	28
+2046
+	Fling	34
+2047
+	Mist	41
+2048
+	Roost	48
+2049
+	Hurricane	55
+2050
+	Hydro Pump	62
+2051
+	
+	Ralts	
+2052
+	Growl	1
+2053
+	Disarming Voice	1
+2054
+	Double Team	3
+2055
+	Confusion	6
+2056
+	Hypnosis	9
+2057
+	Draining Kiss	12
+2058
+	Teleport	15
+2059
+	Psybeam	18
+2060
+	Life Dew	21
+2061
+	Charm	24
+2062
+	Calm Mind	27
+2063
+	Psychic	30
+2064
+	Heal Pulse	33
+2065
+	Dream Eater	36
+2066
+	Future Sight	39
+2067
+	
+	Kirlia	
+2068
+	Growl	1
+2069
+	Confusion	1
+2070
+	Double Team	1
+2071
+	Disarming Voice	1
+2072
+	Hypnosis	9
+2073
+	Draining Kiss	12
+2074
+	Teleport	15
+2075
+	Psybeam	18
+2076
+	Life Dew	23
+2077
+	Charm	28
+2078
+	Calm Mind	33
+2079
+	Psychic	38
+2080
+	Heal Pulse	43
+2081
+	Dream Eater	48
+2082
+	Future Sight	53
+2083
+	
+	Gardevoir	
+2084
+	Dazzling Gleam	-3
+2085
+	Growl	1
+2086
+	Confusion	1
+2087
+	Mystical Fire	1
+2088
+	Double Team	1
+2089
+	Misty Terrain	1
+2090
+	Charm	1
+2091
+	Disarming Voice	1
+2092
+	Healing Wish	1
+2093
+	Heal Pulse	1
+2094
+	Hypnosis	9
+2095
+	Draining Kiss	12
+2096
+	Teleport	15
+2097
+	Psybeam	18
+2098
+	Life Dew	23
+2099
+	Wish	28
+2100
+	Calm Mind	35
+2101
+	Psychic	42
+2102
+	Moonblast	49
+2103
+	Dream Eater	56
+2104
+	Future Sight	63
+2105
+	
+	Surskit	
+2106
+	Water Gun	1
+2107
+	Quick Attack	6
+2108
+	Sweet Scent	9
+2109
+	Soak	14
+2110
+	Bubble Beam	17
+2111
+	Agility	22
+2112
+	Mist	25
+2113
+	Haze	25
+2114
+	Baton Pass	35
+2115
+	Sticky Web	38
+2116
+	
+	Masquerain	
+2117
+	Whirlwind	1
+2118
+	Water Gun	1
+2119
+	Quick Attack	1
+2120
+	Sweet Scent	1
+2121
+	Soak	1
+2122
+	Gust	17
+2123
+	Scary Face	22
+2124
+	Air Cutter	22
+2125
+	Stun Spore	26
+2126
+	Air Slash	32
+2127
+	Giga Drain	38
+2128
+	Bug Buzz	44
+2129
+	Quiver Dance	52
+2130
+	
+	Shroomish	
+2131
+	Tackle	1
+2132
+	Absorb	1
+2133
+	Stun Spore	5
+2134
+	Leech Seed	8
+2135
+	Mega Drain	12
+2136
+	Headbutt	15
+2137
+	Poison Powder	19
+2138
+	Giga Drain	26
+2139
+	Growth	29
+2140
+	Toxic	33
+2141
+	Seed Bomb	36
+2142
+	Spore	40
+2143
+	
+	Breloom	
+2144
+	Mach Punch	-3
+2145
+	Stun Spore	1
+2146
+	Tackle	1
+2147
+	Absorb	1
+2148
+	Leech Seed	1
+2149
+	Growth	1
+2150
+	Poison Powder	1
+2151
+	Toxic	1
+2152
+	Mega Drain	12
+2153
+	Headbutt	15
+2154
+	Feint	19
+2155
+	Counter	22
+2156
+	Force Palm	28
+2157
+	Worry Seed	33
+2158
+	Brick Break	39
+2159
+	Seed Bomb	44
+2160
+	Dynamic Punch	50
+2161
+	Focus Punch	55
+2162
+	
+	Slakoth	
+2163
+	Scratch	1
+2164
+	Yawn	1
+2165
+	Encore	6
+2166
+	Slack Off	9
+2167
+	Headbutt	14
+2168
+	Amnesia	17
+2169
+	Covet	22
+2170
+	Throat Chop	25
+2171
+	Counter	30
+2172
+	Flail	33
+2173
+	Play Rough	38
+2174
+	
+	Vigoroth	
+2175
+	Scratch	1
+2176
+	Focus Energy	1
+2177
+	Encore	1
+2178
+	Uproar	1
+2179
+	Fury Swipes	14
+2180
+	Endure	17
+2181
+	Slash	23
+2182
+	Throat Chop	27
+2183
+	Counter	33
+2184
+	Focus Punch	37
+2185
+	Reversal	43
+2186
+	
+	Slaking	
+2187
+	Swagger	-3
+2188
+	Scratch	1
+2189
+	Encore	1
+2190
+	Yawn	1
+2191
+	Slack Off	1
+2192
+	Sucker Punch	1
+2193
+	Amnesia	17
+2194
+	Covet	23
+2195
+	Throat Chop	27
+2196
+	Counter	33
+2197
+	Flail	39
+2198
+	Fling	45
+2199
+	Mega Kick	52
+2200
+	Hammer Arm	63
+2201
+	
+	Makuhita	
+2202
+	Tackle	1
+2203
+	Focus Energy	1
+2204
+	Sand Attack	4
+2205
+	Arm Thrust	7
+2206
+	Fake Out	10
+2207
+	Force Palm	13
+2208
+	Whirlwind	16
+2209
+	Knock Off	19
+2210
+	Bulk Up	22
+2211
+	Belly Drum	25
+2212
+	Detect	28
+2213
+	Seismic Toss	31
+2214
+	Focus Punch	34
+2215
+	Endure	37
+2216
+	Close Combat	40
+2217
+	Reversal	43
+2218
+	Heavy Slam	46
+2219
+	
+	Hariyama	
+2220
+	Sand Attack	1
+2221
+	Tackle	1
+2222
+	Focus Energy	1
+2223
+	Brine	1
+2224
+	Arm Thrust	1
+2225
+	Fake Out	10
+2226
+	Force Palm	13
+2227
+	Whirlwind	16
+2228
+	Knock Off	19
+2229
+	Bulk Up	22
+2230
+	Belly Drum	26
+2231
+	Detect	30
+2232
+	Seismic Toss	34
+2233
+	Focus Punch	38
+2234
+	Endure	42
+2235
+	Close Combat	46
+2236
+	Reversal	50
+2237
+	Heavy Slam	54
+2238
+	Headlong Rush	60
+2239
+	
+	Azurill	
+2240
+	Tail Whip	1
+2241
+	Water Gun	1
+2242
+	Splash	1
+2243
+	Helping Hand	3
+2244
+	Bubble Beam	6
+2245
+	Charm	9
+2246
+	Slam	12
+2247
+	Bounce	15
+2248
+	
+	Sableye	
+2249
+	Scratch	1
+2250
+	Leer	1
+2251
+	Astonish	3
+2252
+	Shadow Sneak	9
+2253
+	Fake Out	12
+2254
+	Disable	15
+2255
+	Detect	18
+2256
+	Night Shade	21
+2257
+	Fury Swipes	24
+2258
+	Knock Off	27
+2259
+	Quash	30
+2260
+	Shadow Claw	33
+2261
+	Mean Look	36
+2262
+	Power Gem	39
+2263
+	Zen Headbutt	42
+2264
+	Shadow Ball	45
+2265
+	Foul Play	48
+2266
+	
+	Meditite	
+2267
+	Confusion	1
+2268
+	Work Up	1
+2269
+	Detect	9
+2270
+	Endure	12
+2271
+	Feint	15
+2272
+	Force Palm	17
+2273
+	Psybeam	20
+2274
+	Calm Mind	23
+2275
+	Zen Headbutt	25
+2276
+	High Jump Kick	28
+2277
+	Psych Up	31
+2278
+	Acupressure	33
+2279
+	Power Trick	36
+2280
+	Reversal	39
+2281
+	Recover	41
+2282
+	Counter	44
+2283
+	
+	Medicham	
+2284
+	Fire Punch	1
+2285
+	Ice Punch	1
+2286
+	Thunder Punch	1
+2287
+	Work Up	1
+2288
+	Detect	1
+2289
+	Confusion	1
+2290
+	Endure	12
+2291
+	Feint	15
+2292
+	Force Palm	17
+2293
+	Psybeam	20
+2294
+	Calm Mind	23
+2295
+	Zen Headbutt	25
+2296
+	High Jump Kick	28
+2297
+	Psych Up	31
+2298
+	Acupressure	33
+2299
+	Power Trick	36
+2300
+	Recover	47
+2301
+	Counter	53
+2302
+	Axe Kick	53
+2303
+	
+	Gulpin	
+2304
+	Pound	1
+2305
+	Yawn	5
+2306
+	Poison Gas	8
+2307
+	Sludge	10
+2308
+	Amnesia	12
+2309
+	Acid Spray	17
+2310
+	Encore	20
+2311
+	Toxic	25
+2312
+	Stockpile	28
+2313
+	Spit Up	28
+2314
+	Swallow	28
+2315
+	Sludge Bomb	33
+2316
+	Gastro Acid	36
+2317
+	Belch	41
+2318
+	Pain Split	44
+2319
+	Gunk Shot	49
+2320
+	
+	Swalot	
+2321
+	Body Slam	-3
+2322
+	Pound	1
+2323
+	Sludge	1
+2324
+	Poison Gas	1
+2325
+	Yawn	1
+2326
+	Gunk Shot	1
+2327
+	Amnesia	12
+2328
+	Acid Spray	17
+2329
+	Encore	20
+2330
+	Toxic	25
+2331
+	Stockpile	30
+2332
+	Spit Up	30
+2333
+	Swallow	30
+2334
+	Sludge Bomb	37
+2335
+	Gastro Acid	42
+2336
+	Belch	49
+2337
+	
+	Numel	
+2338
+	Tackle	1
+2339
+	Growl	1
+2340
+	Ember	5
+2341
+	Focus Energy	8
+2342
+	Bulldoze	12
+2343
+	Incinerate	15
+2344
+	Amnesia	19
+2345
+	Lava Plume	22
+2346
+	Earth Power	26
+2347
+	Curse	29
+2348
+	Take Down	31
+2349
+	Earthquake	40
+2350
+	Flamethrower	43
+2351
+	Double-Edge	47
+2352
+	
+	Camerupt	
+2353
+	Rock Slide	-3
+2354
+	Tackle	1
+2355
+	Growl	1
+2356
+	Ember	1
+2357
+	Fissure	1
+2358
+	Focus Energy	1
+2359
+	Eruption	1
+2360
+	Bulldoze	12
+2361
+	Incinerate	15
+2362
+	Amnesia	19
+2363
+	Lava Plume	22
+2364
+	Earth Power	26
+2365
+	Curse	29
+2366
+	Take Down	31
+2367
+	Yawn	39
+2368
+	Earthquake	46
+2369
+	
+	Torkoal	
+2370
+	Ember	1
+2371
+	Smog	1
+2372
+	Withdraw	4
+2373
+	Rapid Spin	8
+2374
+	Smokescreen	12
+2375
+	Clear Smog	16
+2376
+	Flame Wheel	20
+2377
+	Protect	24
+2378
+	Lava Plume	28
+2379
+	Body Slam	32
+2380
+	Iron Defense	36
+2381
+	Flamethrower	40
+2382
+	Curse	44
+2383
+	Heat Wave	48
+2384
+	Amnesia	52
+2385
+	Inferno	56
+2386
+	Shell Smash	60
+2387
+	Eruption	64
+2388
+	
+	Spoink	
+2389
+	Splash	1
+2390
+	Confusion	7
+2391
+	Growl	10
+2392
+	Psybeam	14
+2393
+	Psych Up	18
+2394
+	Confuse Ray	22
+2395
+	Rest	29
+2396
+	Power Gem	29
+2397
+	Snore	33
+2398
+	Psyshock	38
+2399
+	Payback	40
+2400
+	Psychic	44
+2401
+	Bounce	50
+2402
+	
+	Grumpig	
+2403
+	Teeter Dance	-3
+2404
+	Psybeam	1
+2405
+	Confusion	1
+2406
+	Splash	1
+2407
+	Belch	1
+2408
+	Psych Up	18
+2409
+	Confuse Ray	22
+2410
+	Zen Headbutt	26
+2411
+	Power Gem	29
+2412
+	Rest	35
+2413
+	Snore	35
+2414
+	Psyshock	42
+2415
+	Payback	46
+2416
+	Psychic	52
+2417
+	Bounce	60
+2418
+	
+	Cacnea	
+2419
+	Poison Sting	1
+2420
+	Leer	1
+2421
+	Absorb	4
+2422
+	Growth	7
+2423
+	Leech Seed	10
+2424
+	Sand Attack	13
+2425
+	Bullet Seed	16
+2426
+	Power Trip	19
+2427
+	Ingrain	22
+2428
+	Payback	26
+2429
+	Spikes	30
+2430
+	Sucker Punch	34
+2431
+	Pin Missile	38
+2432
+	Energy Ball	42
+2433
+	Cotton Spore	46
+2434
+	Sandstorm	50
+2435
+	Destiny Bond	54
+2436
+	
+	Cacturne	
+2437
+	Spiky Shield	-3
+2438
+	Poison Sting	1
+2439
+	Leer	1
+2440
+	Absorb	1
+2441
+	Growth	1
+2442
+	Destiny Bond	1
+2443
+	Leech Seed	10
+2444
+	Sand Attack	13
+2445
+	Bullet Seed	16
+2446
+	Power Trip	19
+2447
+	Ingrain	22
+2448
+	Payback	26
+2449
+	Spikes	30
+2450
+	Sucker Punch	35
+2451
+	Pin Missile	38
+2452
+	Energy Ball	44
+2453
+	Cotton Spore	49
+2454
+	Sandstorm	54
+2455
+	
+	Swablu	
+2456
+	Growl	1
+2457
+	Peck	1
+2458
+	Disarming Voice	4
+2459
+	Mist	8
+2460
+	Fury Attack	12
+2461
+	Round	16
+2462
+	Dragon Breath	20
+2463
+	Safeguard	24
+2464
+	Sing	28
+2465
+	Cotton Guard	32
+2466
+	Take Down	36
+2467
+	Moonblast	40
+2468
+	Perish Song	44
+2469
+	
+	Altaria	
+2470
+	Dragon Pulse	-3
+2471
+	Growl	1
+2472
+	Mist	1
+2473
+	Peck	1
+2474
+	Pluck	1
+2475
+	Disarming Voice	1
+2476
+	Fury Attack	12
+2477
+	Round	16
+2478
+	Dragon Breath	20
+2479
+	Safeguard	24
+2480
+	Sing	28
+2481
+	Cotton Guard	32
+2482
+	Take Down	38
+2483
+	Moonblast	44
+2484
+	Perish Song	50
+2485
+	Sky Attack	56
+2486
+	
+	Zangoose	
+2487
+	Scratch	1
+2488
+	Leer	1
+2489
+	Quick Attack	5
+2490
+	Fury Cutter	8
+2491
+	Metal Claw	12
+2492
+	Hone Claws	15
+2493
+	Slash	19
+2494
+	Power Trip	22
+2495
+	Crush Claw	26
+2496
+	False Swipe	29
+2497
+	Switcheroo	33
+2498
+	Detect	36
+2499
+	X-Scissor	40
+2500
+	Taunt	43
+2501
+	Swords Dance	47
+2502
+	Close Combat	50
+2503
+	
+	Seviper	
+2504
+	Wrap	1
+2505
+	Swagger	1
+2506
+	Bite	4
+2507
+	Lick	6
+2508
+	Poison Tail	9
+2509
+	Feint	11
+2510
+	Screech	14
+2511
+	Glare	19
+2512
+	Poison Fang	21
+2513
+	Venoshock	24
+2514
+	Gastro Acid	29
+2515
+	Poison Jab	31
+2516
+	Haze	34
+2517
+	Crunch	39
+2518
+	Belch	41
+2519
+	Coil	44
+2520
+	Sludge Bomb	46
+2521
+	
+	Barboach	
+2522
+	Water Gun	1
+2523
+	Mud-Slap	1
+2524
+	Rest	6
+2525
+	Snore	6
+2526
+	Water Pulse	12
+2527
+	Amnesia	18
+2528
+	Aqua Tail	24
+2529
+	Muddy Water	31
+2530
+	Earthquake	36
+2531
+	Future Sight	42
+2532
+	Fissure	48
+2533
+	
+	Whiscash	
+2534
+	Thrash	-3
+2535
+	Water Gun	1
+2536
+	Rest	1
+2537
+	Snore	1
+2538
+	Mud-Slap	1
+2539
+	Tickle	1
+2540
+	Zen Headbutt	1
+2541
+	Belch	1
+2542
+	Water Pulse	12
+2543
+	Amnesia	18
+2544
+	Aqua Tail	24
+2545
+	Muddy Water	33
+2546
+	Earthquake	40
+2547
+	Future Sight	48
+2548
+	Fissure	56
+2549
+	
+	Shuppet	
+2550
+	Astonish	1
+2551
+	Screech	4
+2552
+	Night Shade	7
+2553
+	Spite	10
+2554
+	Will-O-Wisp	16
+2555
+	Shadow Sneak	19
+2556
+	Hex	22
+2557
+	Curse	26
+2558
+	Shadow Ball	30
+2559
+	Role Play	34
+2560
+	Sucker Punch	38
+2561
+	Trick	42
+2562
+	Phantom Force	48
+2563
+	
+	Banette	
+2564
+	Knock Off	-3
+2565
+	Night Shade	1
+2566
+	Screech	1
+2567
+	Spite	1
+2568
+	Will-O-Wisp	16
+2569
+	Shadow Sneak	19
+2570
+	Hex	22
+2571
+	Curse	26
+2572
+	Shadow Ball	30
+2573
+	Role Play	34
+2574
+	Sucker Punch	40
+2575
+	Trick	46
+2576
+	Phantom Force	53
+2577
+	
+	Tropius	
+2578
+	Gust	1
+2579
+	Leer	1
+2580
+	Growth	1
+2581
+	Razor Leaf	1
+2582
+	Leaf Storm	1
+2583
+	Sweet Scent	6
+2584
+	Stomp	10
+2585
+	Magical Leaf	16
+2586
+	Whirlwind	21
+2587
+	Wide Guard	30
+2588
+	Air Slash	36
+2589
+	Body Slam	41
+2590
+	Outrage	46
+2591
+	Synthesis	50
+2592
+	Solar Beam	56
+2593
+	
+	Snorunt	
+2594
+	Headbutt	1
+2595
+	Powder Snow	1
+2596
+	Astonish	1
+2597
+	Leer	5
+2598
+	Double Team	10
+2599
+	Ice Shard	15
+2600
+	Protect	20
+2601
+	Icy Wind	25
+2602
+	Frost Breath	30
+2603
+	Bite	35
+2604
+	Ice Fang	40
+2605
+	Snowscape	45
+2606
+	Weather Ball	50
+2607
+	Crunch	55
+2608
+	Blizzard	60
+2609
+	
+	Glalie	
+2610
+	Freeze-Dry	-3
+2611
+	Headbutt	1
+2612
+	Leer	1
+2613
+	Double Team	1
+2614
+	Powder Snow	1
+2615
+	Astonish	1
+2616
+	Sheer Cold	1
+2617
+	Ice Shard	15
+2618
+	Protect	20
+2619
+	Icy Wind	25
+2620
+	Frost Breath	30
+2621
+	Bite	35
+2622
+	Ice Fang	40
+2623
+	Snowscape	47
+2624
+	Weather Ball	54
+2625
+	Crunch	61
+2626
+	Blizzard	68
+2627
+	
+	Luvdisc	
+2628
+	Tackle	1
+2629
+	Charm	1
+2630
+	Water Gun	4
+2631
+	Agility	7
+2632
+	Wish	13
+2633
+	Water Pulse	17
+2634
+	Attract	20
+2635
+	Draining Kiss	22
+2636
+	Flail	26
+2637
+	Sweet Kiss	31
+2638
+	Take Down	34
+2639
+	Baby-Doll Eyes	37
+2640
+	Aqua Ring	40
+2641
+	Soak	42
+2642
+	Hydro Pump	46
+2643
+	Safeguard	49
+2644
+	
+	Bagon	
+2645
+	Leer	1
+2646
+	Ember	1
+2647
+	Bite	5
+2648
+	Dragon Breath	10
+2649
+	Headbutt	15
+2650
+	Scary Face	20
+2651
+	Crunch	25
+2652
+	Dragon Claw	31
+2653
+	Zen Headbutt	35
+2654
+	Focus Energy	40
+2655
+	Flamethrower	45
+2656
+	Outrage	50
+2657
+	Double-Edge	55
+2658
+	
+	Shelgon	
+2659
+	Protect	-3
+2660
+	Leer	1
+2661
+	Bite	1
+2662
+	Ember	1
+2663
+	Dragon Breath	1
+2664
+	Headbutt	15
+2665
+	Scary Face	20
+2666
+	Crunch	25
+2667
+	Dragon Claw	33
+2668
+	Zen Headbutt	39
+2669
+	Focus Energy	46
+2670
+	Flamethrower	53
+2671
+	Outrage	60
+2672
+	Double-Edge	67
+2673
+	
+	Salamence	
+2674
+	Fly	-3
+2675
+	Roost	1
+2676
+	Dragon Breath	1
+2677
+	Dragon Tail	1
+2678
+	Ember	1
+2679
+	Dual Wingbeat	1
+2680
+	Leer	1
+2681
+	Bite	1
+2682
+	Protect	1
+2683
+	Headbutt	15
+2684
+	Scary Face	20
+2685
+	Crunch	25
+2686
+	Dragon Claw	33
+2687
+	Zen Headbutt	39
+2688
+	Focus Energy	46
+2689
+	Flamethrower	55
+2690
+	Double-Edge	73
+2691
+	
+	Kyogre	
+2692
+	Body Slam	1
+2693
+	Scary Face	1
+2694
+	Ancient Power	1
+2695
+	Water Pulse	1
+2696
+	Origin Pulse	1
+2697
+	Aqua Tail	9
+2698
+	Calm Mind	18
+2699
+	Muddy Water	27
+2700
+	Ice Beam	36
+2701
+	Sheer Cold	45
+2702
+	Aqua Ring	54
+2703
+	Hydro Pump	72
+2704
+	Double-Edge	81
+2705
+	Water Spout	90
+2706
+	
+	Groudon	
+2707
+	Scary Face	1
+2708
+	Ancient Power	1
+2709
+	Mud Shot	1
+2710
+	Lava Plume	1
+2711
+	Precipice Blades	1
+2712
+	Earth Power	9
+2713
+	Bulk Up	18
+2714
+	Earthquake	27
+2715
+	Hammer Arm	36
+2716
+	Fissure	45
+2717
+	Rest	54
+2718
+	Fire Blast	72
+2719
+	Solar Beam	81
+2720
+	Eruption	90
+2721
+	
+	Rayquaza	
+2722
+	Scary Face	1
+2723
+	Twister	1
+2724
+	Ancient Power	1
+2725
+	Air Slash	1
+2726
+	Dragon Ascent	1
+2727
+	Crunch	9
+2728
+	Dragon Dance	18
+2729
+	Extreme Speed	27
+2730
+	Dragon Pulse	36
+2731
+	Hyper Voice	45
+2732
+	Rest	54
+2733
+	Fly	63
+2734
+	Hurricane	72
+2735
+	Outrage	81
+2736
+	Hyper Beam	90
+2737
+	
+	Starly	
+2738
+	Tackle	1
+2739
+	Growl	1
+2740
+	Quick Attack	5
+2741
+	Wing Attack	9
+2742
+	Double Team	13
+2743
+	Endeavor	17
+2744
+	Whirlwind	21
+2745
+	Aerial Ace	25
+2746
+	Take Down	29
+2747
+	Agility	33
+2748
+	Brave Bird	37
+2749
+	Final Gambit	41
+2750
+	
+	Staravia	
+2751
+	Tackle	1
+2752
+	Growl	1
+2753
+	Quick Attack	1
+2754
+	Wing Attack	9
+2755
+	Double Team	13
+2756
+	Endeavor	18
+2757
+	Whirlwind	23
+2758
+	Aerial Ace	28
+2759
+	Take Down	33
+2760
+	Agility	38
+2761
+	Brave Bird	43
+2762
+	Final Gambit	48
+2763
+	
+	Staraptor	
+2764
+	Close Combat	-3
+2765
+	Wing Attack	1
+2766
+	Tackle	1
+2767
+	Growl	1
+2768
+	Quick Attack	1
+2769
+	Double Team	13
+2770
+	Endeavor	18
+2771
+	Whirlwind	23
+2772
+	Aerial Ace	28
+2773
+	Take Down	33
+2774
+	Agility	41
+2775
+	Brave Bird	49
+2776
+	Final Gambit	57
+2777
+	
+	Kricketot	
+2778
+	Tackle	1
+2779
+	Growl	1
+2780
+	Struggle Bug	6
+2781
+	Bug Bite	16
+2782
+	
+	Kricketune	
+2783
+	Fury Cutter	-3
+2784
+	Tackle	1
+2785
+	Growl	1
+2786
+	Absorb	14
+2787
+	Sing	18
+2788
+	Focus Energy	22
+2789
+	Slash	26
+2790
+	X-Scissor	30
+2791
+	Screech	34
+2792
+	Fell Stinger	36
+2793
+	Taunt	38
+2794
+	Night Slash	42
+2795
+	Sticky Web	44
+2796
+	Bug Buzz	46
+2797
+	Perish Song	50
+2798
+	
+	Shinx	
+2799
+	Tackle	1
+2800
+	Leer	1
+2801
+	Thunder Shock	4
+2802
+	Charge	8
+2803
+	Bite	12
+2804
+	Spark	16
+2805
+	Roar	20
+2806
+	Volt Switch	24
+2807
+	Scary Face	28
+2808
+	Thunder Wave	32
+2809
+	Crunch	36
+2810
+	Discharge	40
+2811
+	Swagger	44
+2812
+	Wild Charge	48
+2813
+	
+	Luxio	
+2814
+	Tackle	1
+2815
+	Leer	1
+2816
+	Thunder Shock	1
+2817
+	Charge	1
+2818
+	Bite	12
+2819
+	Spark	18
+2820
+	Roar	24
+2821
+	Volt Switch	31
+2822
+	Scary Face	36
+2823
+	Thunder Wave	42
+2824
+	Crunch	48
+2825
+	Discharge	54
+2826
+	Swagger	60
+2827
+	Wild Charge	68
+2828
+	
+	Luxray	
+2829
+	Tackle	1
+2830
+	Leer	1
+2831
+	Thunder Shock	1
+2832
+	Charge	1
+2833
+	Electric Terrain	1
+2834
+	Bite	12
+2835
+	Spark	18
+2836
+	Roar	24
+2837
+	Volt Switch	33
+2838
+	Scary Face	40
+2839
+	Thunder Wave	48
+2840
+	Crunch	56
+2841
+	Discharge	64
+2842
+	Swagger	72
+2843
+	Wild Charge	80
+2844
+	
+	Combee	
+2845
+	Gust	1
+2846
+	Sweet Scent	1
+2847
+	Bug Bite	1
+2848
+	Struggle Bug	1
+2849
+	
+	Vespiquen	
+2850
+	Slash	-3
+2851
+	Sweet Scent	1
+2852
+	Struggle Bug	1
+2853
+	Bug Bite	1
+2854
+	Gust	1
+2855
+	Confuse Ray	1
+2856
+	Poison Sting	1
+2857
+	Fury Cutter	4
+2858
+	Aromatic Mist	8
+2859
+	Fell Stinger	12
+2860
+	Fury Swipes	16
+2861
+	Swagger	20
+2862
+	Roost	24
+2863
+	Air Slash	28
+2864
+	Power Gem	32
+2865
+	Toxic	36
+2866
+	Attack Order	40
+2867
+	Defend Order	40
+2868
+	Destiny Bond	44
+2869
+	
+	Pachirisu	
+2870
+	Growl	1
+2871
+	Thunder Shock	1
+2872
+	Quick Attack	5
+2873
+	Charm	9
+2874
+	Spark	13
+2875
+	Endure	17
+2876
+	Nuzzle	19
+2877
+	Swift	21
+2878
+	Electro Ball	25
+2879
+	Sweet Kiss	29
+2880
+	Thunder Wave	33
+2881
+	Super Fang	37
+2882
+	Discharge	41
+2883
+	Last Resort	45
+2884
+	Thunder	49
+2885
+	
+	Buizel	
+2886
+	Tackle	1
+2887
+	Growl	4
+2888
+	Soak	7
+2889
+	Quick Attack	11
+2890
+	Water Gun	15
+2891
+	Bite	18
+2892
+	Swift	21
+2893
+	Aqua Jet	24
+2894
+	Double Hit	27
+2895
+	Whirlpool	31
+2896
+	Liquidation	35
+2897
+	Aqua Tail	38
+2898
+	Agility	41
+2899
+	Hydro Pump	45
+2900
+	Wave Crash	49
+2901
+	
+	Floatzel	
+2902
+	Growl	1
+2903
+	Quick Attack	1
+2904
+	Crunch	1
+2905
+	Ice Fang	1
+2906
+	Soak	1
+2907
+	Water Gun	15
+2908
+	Bite	18
+2909
+	Swift	21
+2910
+	Aqua Jet	24
+2911
+	Double Hit	29
+2912
+	Whirlpool	35
+2913
+	Liquidation	41
+2914
+	Aqua Tail	46
+2915
+	Agility	51
+2916
+	Hydro Pump	57
+2917
+	Wave Crash	62
+2918
+	
+	Shellos	
+2919
+	Water Gun	1
+2920
+	Mud-Slap	1
+2921
+	Harden	5
+2922
+	Recover	10
+2923
+	Water Pulse	15
+2924
+	Ancient Power	20
+2925
+	Body Slam	25
+2926
+	Muddy Water	31
+2927
+	Earth Power	35
+2928
+	Rain Dance	40
+2929
+	Memento	45
+2930
+	
+	Gastrodon	
+2931
+	Water Gun	1
+2932
+	Recover	1
+2933
+	Harden	1
+2934
+	Mud-Slap	1
+2935
+	Water Pulse	15
+2936
+	Ancient Power	20
+2937
+	Body Slam	25
+2938
+	Muddy Water	33
+2939
+	Earth Power	39
+2940
+	Rain Dance	46
+2941
+	Memento	53
+2942
+	
+	Drifloon	
+2943
+	Minimize	1
+2944
+	Astonish	1
+2945
+	Gust	4
+2946
+	Focus Energy	8
+2947
+	Payback	12
+2948
+	Hex	16
+2949
+	Shadow Ball	20
+2950
+	Stockpile	24
+2951
+	Spit Up	24
+2952
+	Swallow	24
+2953
+	Self-Destruct	29
+2954
+	Destiny Bond	32
+2955
+	Baton Pass	36
+2956
+	Tailwind	40
+2957
+	Explosion	44
+2958
+	
+	Drifblim	
+2959
+	Phantom Force	-3
+2960
+	Astonish	1
+2961
+	Strength Sap	1
+2962
+	Gust	1
+2963
+	Focus Energy	1
+2964
+	Minimize	1
+2965
+	Payback	12
+2966
+	Hex	16
+2967
+	Shadow Ball	20
+2968
+	Spit Up	24
+2969
+	Swallow	24
+2970
+	Stockpile	24
+2971
+	Self-Destruct	31
+2972
+	Destiny Bond	36
+2973
+	Baton Pass	42
+2974
+	Tailwind	48
+2975
+	Explosion	54
+2976
+	
+	Mismagius	
+2977
+	Growl	1
+2978
+	Spite	1
+2979
+	Astonish	1
+2980
+	Magical Leaf	1
+2981
+	Power Gem	1
+2982
+	Phantom Force	1
+2983
+	Mystical Fire	1
+2984
+	
+	Honchkrow	
+2985
+	Wing Attack	1
+2986
+	Haze	1
+2987
+	Astonish	1
+2988
+	Sucker Punch	1
+2989
+	Night Slash	1
+2990
+	Quash	1
+2991
+	Swagger	25
+2992
+	Nasty Plot	35
+2993
+	Foul Play	45
+2994
+	Dark Pulse	55
+2995
+	Comeuppance	65
+2996
+	
+	Stunky	
+2997
+	Scratch	1
+2998
+	Poison Gas	1
+2999
+	Feint	3
+3000
+	Smokescreen	6
+3001
+	Acid Spray	9
+3002
+	Fury Swipes	12
+3003
+	Focus Energy	15
+3004
+	Bite	18
+3005
+	Venoshock	21
+3006
+	Screech	24
+3007
+	Toxic	27
+3008
+	Sucker Punch	30
+3009
+	Memento	33
+3010
+	Night Slash	36
+3011
+	Belch	39
+3012
+	Explosion	42
+3013
+	
+	Skuntank	
+3014
+	Flamethrower	-3
+3015
+	Scratch	1
+3016
+	Smokescreen	1
+3017
+	Poison Gas	1
+3018
+	Feint	1
+3019
+	Fury Swipes	12
+3020
+	Focus Energy	15
+3021
+	Bite	18
+3022
+	Venoshock	21
+3023
+	Screech	24
+3024
+	Toxic	27
+3025
+	Sucker Punch	30
+3026
+	Memento	33
+3027
+	Night Slash	38
+3028
+	Belch	43
+3029
+	Explosion	48
+3030
+	
+	Bronzor	
+3031
+	Tackle	1
+3032
+	Confusion	1
+3033
+	Confuse Ray	4
+3034
+	Payback	8
+3035
+	Imprison	12
+3036
+	Gyro Ball	16
+3037
+	Hypnosis	20
+3038
+	Safeguard	24
+3039
+	Extrasensory	28
+3040
+	Heavy Slam	32
+3041
+	Iron Defense	36
+3042
+	Metal Sound	40
+3043
+	Future Sight	44
+3044
+	
+	Bronzong	
+3045
+	Block	-3
+3046
+	Tackle	1
+3047
+	Confusion	1
+3048
+	Confuse Ray	1
+3049
+	Weather Ball	1
+3050
+	Payback	1
+3051
+	Sunny Day	1
+3052
+	Imprison	12
+3053
+	Gyro Ball	16
+3054
+	Hypnosis	20
+3055
+	Safeguard	24
+3056
+	Extrasensory	28
+3057
+	Heavy Slam	32
+3058
+	Iron Defense	38
+3059
+	Metal Sound	44
+3060
+	Future Sight	50
+3061
+	Rain Dance	56
+3062
+	
+	Bonsly	
+3063
+	Fake Tears	1
+3064
+	Copycat	1
+3065
+	Flail	4
+3066
+	Rock Throw	8
+3067
+	Block	12
+3068
+	Mimic	16
+3069
+	Rock Tomb	20
+3070
+	Tearful Look	24
+3071
+	Sucker Punch	28
+3072
+	Rock Slide	32
+3073
+	Low Kick	36
+3074
+	Counter	40
+3075
+	Double-Edge	44
+3076
+	
+	Happiny	
+3077
+	Pound	1
+3078
+	Copycat	1
+3079
+	Defense Curl	4
+3080
+	Sweet Kiss	8
+3081
+	Disarming Voice	12
+3082
+	Covet	16
+3083
+	Charm	20
+3084
+	
+	Spiritomb	
+3085
+	Night Shade	1
+3086
+	Confuse Ray	1
+3087
+	Shadow Sneak	5
+3088
+	Spite	10
+3089
+	Payback	15
+3090
+	Nasty Plot	20
+3091
+	Hex	25
+3092
+	Memento	30
+3093
+	Sucker Punch	35
+3094
+	Curse	40
+3095
+	Shadow Ball	45
+3096
+	Dark Pulse	50
+3097
+	Hypnosis	55
+3098
+	Dream Eater	60
+3099
+	
+	Gible	
+3100
+	Tackle	1
+3101
+	Sand Tomb	1
+3102
+	Sand Attack	6
+3103
+	Dragon Breath	12
+3104
+	Bulldoze	18
+3105
+	Bite	25
+3106
+	Slash	30
+3107
+	Dragon Claw	36
+3108
+	Dig	42
+3109
+	Sandstorm	48
+3110
+	Take Down	54
+3111
+	Dragon Rush	60
+3112
+	
+	Gabite	
+3113
+	Sand Attack	1
+3114
+	Tackle	1
+3115
+	Dragon Breath	1
+3116
+	Sand Tomb	1
+3117
+	Bulldoze	18
+3118
+	Bite	27
+3119
+	Slash	34
+3120
+	Dragon Claw	42
+3121
+	Dig	50
+3122
+	Sandstorm	58
+3123
+	Take Down	66
+3124
+	Dragon Rush	74
+3125
+	
+	Garchomp	
+3126
+	Crunch	-3
+3127
+	Sand Attack	1
+3128
+	Tackle	1
+3129
+	Dragon Breath	1
+3130
+	Sand Tomb	1
+3131
+	Bulldoze	18
+3132
+	Bite	27
+3133
+	Slash	34
+3134
+	Dragon Claw	42
+3135
+	Dig	52
+3136
+	Sandstorm	62
+3137
+	Take Down	72
+3138
+	Dragon Rush	82
+3139
+	
+	Riolu	
+3140
+	Quick Attack	1
+3141
+	Endure	1
+3142
+	Feint	4
+3143
+	Metal Claw	8
+3144
+	Counter	12
+3145
+	Work Up	16
+3146
+	Rock Smash	20
+3147
+	Vacuum Wave	24
+3148
+	Screech	28
+3149
+	Quick Guard	32
+3150
+	Force Palm	36
+3151
+	Swords Dance	40
+3152
+	Helping Hand	44
+3153
+	Copycat	48
+3154
+	Final Gambit	52
+3155
+	Reversal	56
+3156
+	
+	Lucario	
+3157
+	Aura Sphere	-3
+3158
+	Copycat	1
+3159
+	Feint	1
+3160
+	Helping Hand	1
+3161
+	Rock Smash	1
+3162
+	Metal Claw	1
+3163
+	Vacuum Wave	1
+3164
+	Detect	1
+3165
+	Reversal	1
+3166
+	Screech	1
+3167
+	Quick Attack	1
+3168
+	Final Gambit	1
+3169
+	Life Dew	1
+3170
+	Counter	12
+3171
+	Work Up	16
+3172
+	Force Palm	20
+3173
+	Calm Mind	24
+3174
+	Metal Sound	28
+3175
+	Quick Guard	32
+3176
+	Bone Rush	36
+3177
+	Swords Dance	40
+3178
+	Heal Pulse	44
+3179
+	Meteor Mash	48
+3180
+	Dragon Pulse	52
+3181
+	Extreme Speed	56
+3182
+	Close Combat	60
+3183
+	
+	Hippopotas	
+3184
+	Sand Attack	1
+3185
+	Tackle	1
+3186
+	Bite	4
+3187
+	Yawn	8
+3188
+	Sand Tomb	12
+3189
+	Dig	16
+3190
+	Crunch	20
+3191
+	Sandstorm	24
+3192
+	Take Down	28
+3193
+	Roar	32
+3194
+	Rest	36
+3195
+	Earthquake	40
+3196
+	Double-Edge	44
+3197
+	Fissure	48
+3198
+	Slack Off	52
+3199
+	
+	Hippowdon	
+3200
+	Fire Fang	1
+3201
+	Thunder Fang	1
+3202
+	Yawn	1
+3203
+	Ice Fang	1
+3204
+	Sand Attack	1
+3205
+	Tackle	1
+3206
+	Bite	1
+3207
+	Sand Tomb	12
+3208
+	Dig	16
+3209
+	Crunch	20
+3210
+	Sandstorm	24
+3211
+	Take Down	28
+3212
+	Roar	32
+3213
+	Rest	38
+3214
+	Earthquake	44
+3215
+	Double-Edge	50
+3216
+	Fissure	56
+3217
+	Slack Off	62
+3218
+	
+	Croagunk	
+3219
+	Poison Sting	1
+3220
+	Mud-Slap	1
+3221
+	Astonish	4
+3222
+	Taunt	8
+3223
+	Flatter	12
+3224
+	Low Kick	16
+3225
+	Venoshock	20
+3226
+	Sucker Punch	24
+3227
+	Swagger	28
+3228
+	Poison Jab	32
+3229
+	Toxic	36
+3230
+	Nasty Plot	40
+3231
+	Sludge Bomb	44
+3232
+	Belch	48
+3233
+	
+	Toxicroak	
+3234
+	Poison Sting	1
+3235
+	Mud-Slap	1
+3236
+	Taunt	1
+3237
+	Astonish	1
+3238
+	Flatter	12
+3239
+	Low Kick	16
+3240
+	Venoshock	20
+3241
+	Sucker Punch	24
+3242
+	Swagger	28
+3243
+	Poison Jab	32
+3244
+	Toxic	36
+3245
+	Nasty Plot	42
+3246
+	Sludge Bomb	48
+3247
+	Belch	54
+3248
+	
+	Finneon	
+3249
+	Pound	1
+3250
+	Water Gun	6
+3251
+	Rain Dance	13
+3252
+	Gust	17
+3253
+	Water Pulse	22
+3254
+	Attract	26
+3255
+	Safeguard	29
+3256
+	Aqua Ring	33
+3257
+	Whirlpool	38
+3258
+	U-turn	42
+3259
+	Bounce	45
+3260
+	Tailwind	49
+3261
+	Soak	54
+3262
+	
+	Lumineon	
+3263
+	Pound	1
+3264
+	Gust	1
+3265
+	Water Gun	1
+3266
+	Soak	1
+3267
+	Rain Dance	13
+3268
+	Water Pulse	22
+3269
+	Attract	26
+3270
+	Safeguard	29
+3271
+	Aqua Ring	35
+3272
+	Whirlpool	42
+3273
+	U-turn	48
+3274
+	Bounce	53
+3275
+	Tailwind	59
+3276
+	
+	Snover	
+3277
+	Leer	1
+3278
+	Powder Snow	1
+3279
+	Leafage	5
+3280
+	Mist	10
+3281
+	Ice Shard	15
+3282
+	Razor Leaf	20
+3283
+	Icy Wind	25
+3284
+	Swagger	30
+3285
+	Ingrain	35
+3286
+	Wood Hammer	41
+3287
+	Blizzard	45
+3288
+	Sheer Cold	50
+3289
+	
+	Abomasnow	
+3290
+	Ice Punch	-3
+3291
+	Leer	1
+3292
+	Mist	1
+3293
+	Powder Snow	1
+3294
+	Leafage	1
+3295
+	Aurora Veil	1
+3296
+	Ice Shard	15
+3297
+	Razor Leaf	20
+3298
+	Icy Wind	25
+3299
+	Swagger	30
+3300
+	Ingrain	35
+3301
+	Wood Hammer	43
+3302
+	Blizzard	49
+3303
+	Sheer Cold	56
+3304
+	
+	Weavile	
+3305
+	Scratch	1
+3306
+	Leer	1
+3307
+	Agility	1
+3308
+	Quick Attack	1
+3309
+	Assurance	1
+3310
+	Taunt	1
+3311
+	Slash	1
+3312
+	Beat Up	1
+3313
+	Ice Shard	1
+3314
+	Metal Claw	18
+3315
+	Icy Wind	24
+3316
+	Fury Swipes	30
+3317
+	Hone Claws	36
+3318
+	Fling	42
+3319
+	Nasty Plot	48
+3320
+	Screech	54
+3321
+	Night Slash	60
+3322
+	Dark Pulse	66
+3323
+	
+	Magnezone	
+3324
+	Electric Terrain	1
+3325
+	Mirror Coat	1
+3326
+	Magnetic Flux	1
+3327
+	Tri Attack	1
+3328
+	Tackle	1
+3329
+	Thunder Wave	1
+3330
+	Thunder Shock	1
+3331
+	Supersonic	1
+3332
+	Electro Ball	12
+3333
+	Gyro Ball	16
+3334
+	Spark	20
+3335
+	Screech	24
+3336
+	Magnet Rise	28
+3337
+	Flash Cannon	34
+3338
+	Discharge	40
+3339
+	Metal Sound	46
+3340
+	Light Screen	52
+3341
+	Lock-On	58
+3342
+	Zap Cannon	64
+3343
+	
+	Leafeon	
+3344
+	Razor Leaf	-3
+3345
+	Swift	1
+3346
+	Tackle	1
+3347
+	Take Down	1
+3348
+	Double-Edge	1
+3349
+	Tail Whip	1
+3350
+	Bite	1
+3351
+	Growl	1
+3352
+	Copycat	1
+3353
+	Covet	1
+3354
+	Helping Hand	1
+3355
+	Charm	1
+3356
+	Baton Pass	1
+3357
+	Sand Attack	5
+3358
+	Quick Attack	10
+3359
+	Baby-Doll Eyes	15
+3360
+	Leech Seed	20
+3361
+	Magical Leaf	25
+3362
+	Synthesis	30
+3363
+	Sunny Day	35
+3364
+	Giga Drain	40
+3365
+	Swords Dance	45
+3366
+	Leaf Blade	50
+3367
+	Last Resort	55
+3368
+	
+	Glaceon	
+3369
+	Icy Wind	-3
+3370
+	Charm	1
+3371
+	Tackle	1
+3372
+	Take Down	1
+3373
+	Double-Edge	1
+3374
+	Tail Whip	1
+3375
+	Copycat	1
+3376
+	Growl	1
+3377
+	Covet	1
+3378
+	Helping Hand	1
+3379
+	Swift	1
+3380
+	Baton Pass	1
+3381
+	Sand Attack	5
+3382
+	Quick Attack	10
+3383
+	Baby-Doll Eyes	15
+3384
+	Ice Shard	20
+3385
+	Bite	25
+3386
+	Ice Fang	30
+3387
+	Snowscape	35
+3388
+	Freeze-Dry	40
+3389
+	Mirror Coat	45
+3390
+	Blizzard	50
+3391
+	Last Resort	55
+3392
+	
+	Gallade	
+3393
+	Slash	-3
+3394
+	Night Slash	1
+3395
+	Imprison	1
+3396
+	Life Dew	1
+3397
+	Future Sight	1
+3398
+	Fury Cutter	1
+3399
+	Sacred Sword	1
+3400
+	Charm	1
+3401
+	Disarming Voice	1
+3402
+	Calm Mind	1
+3403
+	Leaf Blade	1
+3404
+	Double Team	1
+3405
+	Draining Kiss	1
+3406
+	Hypnosis	1
+3407
+	Psychic	1
+3408
+	Confusion	1
+3409
+	Psybeam	1
+3410
+	Growl	1
+3411
+	Leer	1
+3412
+	Dream Eater	1
+3413
+	Aqua Cutter	1
+3414
+	Helping Hand	9
+3415
+	Feint	12
+3416
+	Teleport	15
+3417
+	Aerial Ace	18
+3418
+	False Swipe	23
+3419
+	Protect	28
+3420
+	Swords Dance	35
+3421
+	Psycho Cut	42
+3422
+	Heal Pulse	49
+3423
+	Wide Guard	56
+3424
+	Quick Guard	56
+3425
+	Close Combat	63
+3426
+	
+	Froslass	
+3427
+	Hex	-3
+3428
+	Crunch	1
+3429
+	Ice Fang	1
+3430
+	Astonish	1
+3431
+	Destiny Bond	1
+3432
+	Protect	1
+3433
+	Headbutt	1
+3434
+	Double Team	1
+3435
+	Bite	1
+3436
+	Leer	1
+3437
+	Powder Snow	1
+3438
+	Ice Shard	15
+3439
+	Draining Kiss	20
+3440
+	Icy Wind	25
+3441
+	Frost Breath	30
+3442
+	Confuse Ray	35
+3443
+	Snowscape	40
+3444
+	Will-O-Wisp	47
+3445
+	Aurora Veil	54
+3446
+	Shadow Ball	61
+3447
+	Blizzard	68
+3448
+	
+	Rotom	
+3449
+	Double Team	1
+3450
+	Astonish	1
+3451
+	Thunder Shock	5
+3452
+	Confuse Ray	10
+3453
+	Charge	15
+3454
+	Electro Ball	20
+3455
+	Thunder Wave	25
+3456
+	Shock Wave	30
+3457
+	Hex	35
+3458
+	Substitute	40
+3459
+	Trick	45
+3460
+	Discharge	50
+3461
+	Uproar	55
+3462
+	
+	Uxie	
+3463
+	Confusion	1
+3464
+	Rest	1
+3465
+	Swift	7
+3466
+	Endure	14
+3467
+	Psybeam	21
+3468
+	Imprison	28
+3469
+	Extrasensory	35
+3470
+	Amnesia	42
+3471
+	Psychic	49
+3472
+	Yawn	56
+3473
+	Future Sight	63
+3474
+	Flail	70
+3475
+	Memento	77
+3476
+	Mystical Power	84
+3477
+	
+	Mesprit	
+3478
+	Confusion	1
+3479
+	Rest	1
+3480
+	Swift	7
+3481
+	Protect	14
+3482
+	Psybeam	21
+3483
+	Imprison	28
+3484
+	Extrasensory	35
+3485
+	Charm	42
+3486
+	Psychic	49
+3487
+	Flatter	56
+3488
+	Future Sight	63
+3489
+	Copycat	70
+3490
+	Healing Wish	77
+3491
+	Mystical Power	84
+3492
+	
+	Azelf	
+3493
+	Confusion	1
+3494
+	Rest	1
+3495
+	Swift	7
+3496
+	Detect	14
+3497
+	Psybeam	21
+3498
+	Imprison	28
+3499
+	Extrasensory	35
+3500
+	Nasty Plot	42
+3501
+	Psychic	49
+3502
+	Uproar	56
+3503
+	Future Sight	63
+3504
+	Last Resort	70
+3505
+	Explosion	77
+3506
+	Mystical Power	84
+3507
+	
+	Dialga	
+3508
+	Scary Face	1
+3509
+	Metal Claw	1
+3510
+	Dragon Breath	8
+3511
+	Ancient Power	16
+3512
+	Slash	24
+3513
+	Flash Cannon	32
+3514
+	Dragon Claw	40
+3515
+	Aura Sphere	48
+3516
+	Power Gem	56
+3517
+	Metal Burst	64
+3518
+	Earth Power	72
+3519
+	Iron Tail	80
+3520
+	Roar of Time	88
+3521
+	
+	Palkia	
+3522
+	Scary Face	1
+3523
+	Water Pulse	1
+3524
+	Dragon Breath	8
+3525
+	Ancient Power	16
+3526
+	Slash	24
+3527
+	Aqua Ring	32
+3528
+	Aura Sphere	48
+3529
+	Power Gem	56
+3530
+	Aqua Tail	64
+3531
+	Earth Power	72
+3532
+	Spacial Rend	80
+3533
+	Hydro Pump	88
+3534
+	
+	Heatran	
+3535
+	Leer	1
+3536
+	Fire Spin	1
+3537
+	Metal Claw	6
+3538
+	Ancient Power	12
+3539
+	Fire Fang	18
+3540
+	Scary Face	24
+3541
+	Iron Head	30
+3542
+	Crunch	36
+3543
+	Lava Plume	42
+3544
+	Metal Sound	48
+3545
+	Earth Power	54
+3546
+	Heat Wave	60
+3547
+	Stone Edge	66
+3548
+	Magma Storm	72
+3549
+	
+	Giratina	
+3550
+	Shadow Sneak	1
+3551
+	Defog	1
+3552
+	Dragon Breath	7
+3553
+	Ancient Power	14
+3554
+	Hex	21
+3555
+	Slash	28
+3556
+	Scary Face	35
+3557
+	Shadow Claw	42
+3558
+	Pain Split	49
+3559
+	Aura Sphere	56
+3560
+	Dragon Claw	63
+3561
+	Earth Power	70
+3562
+	Shadow Force	77
+3563
+	Destiny Bond	84
+3564
+	
+	Cresselia	
+3565
+	Confusion	1
+3566
+	Double Team	1
+3567
+	Mist	6
+3568
+	Aurora Beam	12
+3569
+	Psybeam	18
+3570
+	Ally Switch	24
+3571
+	Slash	30
+3572
+	Psycho Cut	36
+3573
+	Moonlight	42
+3574
+	Safeguard	48
+3575
+	Psychic	54
+3576
+	Moonblast	60
+3577
+	Future Sight	66
+3578
+	Lunar Dance	72
+3579
+	Lunar Blessing	72
+3580
+	
+	Arceus	
+3581
+	Seismic Toss	1
+3582
+	Cosmic Power	1
+3583
+	Gravity	10
+3584
+	Earth Power	20
+3585
+	Hyper Voice	30
+3586
+	Extreme Speed	40
+3587
+	Healing Wish	50
+3588
+	Future Sight	60
+3589
+	Recover	70
+3590
+	Hyper Beam	80
+3591
+	Perish Song	90
+3592
+	Judgment	100
+3593
+	
+	Oshawott	
+3594
+	Tackle	1
+3595
+	Tail Whip	5
+3596
+	Water Gun	7
+3597
+	Soak	11
+3598
+	Focus Energy	13
+3599
+	Razor Shell	17
+3600
+	Fury Cutter	19
+3601
+	Water Pulse	23
+3602
+	Aerial Ace	25
+3603
+	Aqua Jet	29
+3604
+	Encore	31
+3605
+	Aqua Tail	35
+3606
+	Retaliate	37
+3607
+	Swords Dance	41
+3608
+	Hydro Pump	43
+3609
+	
+	Dewott	
+3610
+	Tackle	1
+3611
+	Tail Whip	1
+3612
+	Water Gun	1
+3613
+	Soak	1
+3614
+	Focus Energy	13
+3615
+	Razor Shell	18
+3616
+	Fury Cutter	21
+3617
+	Water Pulse	26
+3618
+	Aerial Ace	29
+3619
+	Aqua Jet	34
+3620
+	Encore	37
+3621
+	Aqua Tail	42
+3622
+	Retaliate	45
+3623
+	Swords Dance	50
+3624
+	Hydro Pump	53
+3625
+	
+	Samurott	
+3626
+	Slash	-3
+3627
+	Megahorn	1
+3628
+	Tackle	1
+3629
+	Tail Whip	1
+3630
+	Water Gun	1
+3631
+	Soak	1
+3632
+	Focus Energy	13
+3633
+	Razor Shell	18
+3634
+	Fury Cutter	21
+3635
+	Water Pulse	25
+3636
+	Aerial Ace	29
+3637
+	Aqua Jet	34
+3638
+	Encore	39
+3639
+	Aqua Tail	46
+3640
+	Retaliate	51
+3641
+	Swords Dance	58
+3642
+	Hydro Pump	63
+3643
+	
+	Samurott-Hisui	
+3644
+	Ceaseless Edge	-3
+3645
+	Slash	1
+3646
+	Sucker Punch	1
+3647
+	Megahorn	1
+3648
+	Tail Whip	1
+3649
+	Tackle	1
+3650
+	Water Gun	1
+3651
+	Focus Energy	13
+3652
+	Razor Shell	18
+3653
+	Fury Cutter	21
+3654
+	Water Pulse	25
+3655
+	Aerial Ace	29
+3656
+	Aqua Jet	34
+3657
+	Encore	39
+3658
+	Aqua Tail	46
+3659
+	Retaliate	51
+3660
+	Swords Dance	58
+3661
+	Hydro Pump	63
+3662
+	
+	Petilil	
+3663
+	Absorb	1
+3664
+	Growth	1
+3665
+	Helping Hand	3
+3666
+	Stun Spore	6
+3667
+	Mega Drain	9
+3668
+	Charm	12
+3669
+	Magical Leaf	15
+3670
+	Sleep Powder	18
+3671
+	Giga Drain	21
+3672
+	Leech Seed	24
+3673
+	After You	27
+3674
+	Energy Ball	30
+3675
+	Synthesis	33
+3676
+	Sunny Day	36
+3677
+	Entrainment	39
+3678
+	Leaf Storm	42
+3679
+	
+	Lilligant	
+3680
+	Petal Dance	-3
+3681
+	Petal Blizzard	1
+3682
+	Entrainment	1
+3683
+	Quiver Dance	1
+3684
+	Leaf Storm	1
+3685
+	Energy Ball	1
+3686
+	Teeter Dance	1
+3687
+	Helping Hand	1
+3688
+	Sunny Day	1
+3689
+	Synthesis	1
+3690
+	Charm	1
+3691
+	Giga Drain	1
+3692
+	Sleep Powder	1
+3693
+	Stun Spore	1
+3694
+	Growth	1
+3695
+	Leech Seed	1
+3696
+	Mega Drain	1
+3697
+	After You	1
+3698
+	Absorb	1
+3699
+	Magical Leaf	5
+3700
+	
+	Lilligant-Hisui	
+3701
+	Victory Dance	-3
+3702
+	Teeter Dance	1
+3703
+	Solar Blade	1
+3704
+	Petal Blizzard	1
+3705
+	After You	1
+3706
+	Entrainment	1
+3707
+	Leaf Storm	1
+3708
+	Defog	1
+3709
+	Energy Ball	1
+3710
+	Leaf Blade	1
+3711
+	Magical Leaf	1
+3712
+	Mega Kick	1
+3713
+	Sunny Day	1
+3714
+	Synthesis	1
+3715
+	Giga Drain	1
+3716
+	Sleep Powder	1
+3717
+	Stun Spore	1
+3718
+	Growth	1
+3719
+	Leech Seed	1
+3720
+	Mega Drain	1
+3721
+	Absorb	1
+3722
+	Helping Hand	1
+3723
+	Axe Kick	5
+3724
+	
+	Basculin	
+3725
+	Tail Whip	1
+3726
+	Water Gun	1
+3727
+	Tackle	4
+3728
+	Flail	8
+3729
+	Aqua Jet	12
+3730
+	Bite	16
+3731
+	Scary Face	20
+3732
+	Headbutt	24
+3733
+	Soak	28
+3734
+	Crunch	32
+3735
+	Take Down	36
+3736
+	Final Gambit	40
+3737
+	Wave Crash	44
+3738
+	Thrash	48
+3739
+	Double-Edge	52
+3740
+	Head Smash	56
+3741
+	
+	Basculin-Blue-Striped	
+3742
+	Tail Whip	1
+3743
+	Water Gun	1
+3744
+	Tackle	4
+3745
+	Flail	8
+3746
+	Aqua Jet	12
+3747
+	Bite	16
+3748
+	Scary Face	20
+3749
+	Headbutt	24
+3750
+	Soak	28
+3751
+	Crunch	32
+3752
+	Take Down	36
+3753
+	Final Gambit	40
+3754
+	Wave Crash	44
+3755
+	Thrash	48
+3756
+	Double-Edge	52
+3757
+	Head Smash	56
+3758
+	
+	Basculin-White-Striped	
+3759
+	Tail Whip	1
+3760
+	Water Gun	1
+3761
+	Tackle	4
+3762
+	Flail	8
+3763
+	Aqua Jet	12
+3764
+	Bite	16
+3765
+	Scary Face	20
+3766
+	Headbutt	24
+3767
+	Soak	28
+3768
+	Crunch	32
+3769
+	Take Down	36
+3770
+	Uproar	40
+3771
+	Wave Crash	44
+3772
+	Thrash	48
+3773
+	Double-Edge	52
+3774
+	Head Smash	56
+3775
+	
+	Sandile	
+3776
+	Leer	1
+3777
+	Power Trip	1
+3778
+	Sand Attack	3
+3779
+	Hone Claws	6
+3780
+	Sand Tomb	9
+3781
+	Scary Face	12
+3782
+	Bite	15
+3783
+	Torment	18
+3784
+	Dig	21
+3785
+	Swagger	24
+3786
+	Crunch	27
+3787
+	Sandstorm	30
+3788
+	Foul Play	33
+3789
+	Earthquake	36
+3790
+	Thrash	39
+3791
+	
+	Krokorok	
+3792
+	Sand Attack	1
+3793
+	Leer	1
+3794
+	Hone Claws	1
+3795
+	Power Trip	1
+3796
+	Sand Tomb	9
+3797
+	Scary Face	12
+3798
+	Bite	15
+3799
+	Torment	18
+3800
+	Dig	21
+3801
+	Swagger	24
+3802
+	Crunch	27
+3803
+	Sandstorm	32
+3804
+	Foul Play	35
+3805
+	Earthquake	42
+3806
+	Thrash	47
+3807
+	
+	Krookodile	
+3808
+	Sand Attack	1
+3809
+	Leer	1
+3810
+	Hone Claws	1
+3811
+	Power Trip	1
+3812
+	Sand Tomb	9
+3813
+	Scary Face	12
+3814
+	Bite	15
+3815
+	Torment	18
+3816
+	Dig	21
+3817
+	Swagger	24
+3818
+	Crunch	27
+3819
+	Sandstorm	32
+3820
+	Foul Play	35
+3821
+	Earthquake	44
+3822
+	Thrash	51
+3823
+	Outrage	58
+3824
+	
+	Zorua	
+3825
+	Scratch	1
+3826
+	Leer	1
+3827
+	Torment	4
+3828
+	Hone Claws	8
+3829
+	Fury Swipes	12
+3830
+	Scary Face	16
+3831
+	Taunt	20
+3832
+	Knock Off	24
+3833
+	Fake Tears	28
+3834
+	Agility	32
+3835
+	Imprison	36
+3836
+	Night Daze	40
+3837
+	Nasty Plot	44
+3838
+	Foul Play	48
+3839
+	
+	Zorua-Hisui	
+3840
+	Scratch	1
+3841
+	Leer	1
+3842
+	Torment	4
+3843
+	Hone Claws	8
+3844
+	Shadow Sneak	12
+3845
+	Curse	16
+3846
+	Taunt	20
+3847
+	Knock Off	24
+3848
+	Spite	28
+3849
+	Agility	32
+3850
+	Shadow Ball	36
+3851
+	Bitter Malice	40
+3852
+	Nasty Plot	44
+3853
+	Foul Play	48
+3854
+	
+	Zoroark	
+3855
+	Night Slash	-3
+3856
+	Scratch	1
+3857
+	Leer	1
+3858
+	Torment	1
+3859
+	U-turn	1
+3860
+	Hone Claws	1
+3861
+	Fury Swipes	12
+3862
+	Taunt	20
+3863
+	Knock Off	24
+3864
+	Fake Tears	28
+3865
+	Agility	34
+3866
+	Imprison	40
+3867
+	Night Daze	46
+3868
+	Nasty Plot	52
+3869
+	Foul Play	58
+3870
+	
+	Zoroark-Hisui	
+3871
+	Shadow Claw	-3
+3872
+	Scratch	1
+3873
+	Leer	1
+3874
+	Torment	1
+3875
+	U-turn	1
+3876
+	Hone Claws	1
+3877
+	Shadow Sneak	12
+3878
+	Curse	16
+3879
+	Taunt	20
+3880
+	Knock Off	24
+3881
+	Spite	28
+3882
+	Agility	34
+3883
+	Shadow Ball	40
+3884
+	Bitter Malice	46
+3885
+	Nasty Plot	52
+3886
+	Foul Play	58
+3887
+	
+	Gothita	
+3888
+	Pound	1
+3889
+	Confusion	1
+3890
+	Play Nice	4
+3891
+	Tickle	8
+3892
+	Psybeam	12
+3893
+	Charm	16
+3894
+	Psyshock	20
+3895
+	Hypnosis	24
+3896
+	Fake Tears	28
+3897
+	Psych Up	33
+3898
+	Psychic	36
+3899
+	Flatter	40
+3900
+	Future Sight	44
+3901
+	Magic Room	48
+3902
+	
+	Gothorita	
+3903
+	Pound	1
+3904
+	Confusion	1
+3905
+	Tickle	1
+3906
+	Play Nice	1
+3907
+	Psybeam	12
+3908
+	Charm	16
+3909
+	Psyshock	20
+3910
+	Hypnosis	24
+3911
+	Fake Tears	28
+3912
+	Psych Up	35
+3913
+	Flatter	46
+3914
+	Future Sight	52
+3915
+	Magic Room	58
+3916
+	
+	Gothitelle	
+3917
+	Pound	1
+3918
+	Confusion	1
+3919
+	Tickle	1
+3920
+	Play Nice	1
+3921
+	Psybeam	12
+3922
+	Charm	16
+3923
+	Psyshock	20
+3924
+	Hypnosis	24
+3925
+	Fake Tears	28
+3926
+	Psych Up	35
+3927
+	Psychic	40
+3928
+	Flatter	48
+3929
+	Future Sight	56
+3930
+	Magic Room	64
+3931
+	
+	Deerling	
+3932
+	Tackle	1
+3933
+	Growl	4
+3934
+	Sand Attack	7
+3935
+	Double Kick	10
+3936
+	Leech Seed	13
+3937
+	Bullet Seed	16
+3938
+	Take Down	20
+3939
+	Zen Headbutt	24
+3940
+	Energy Ball	28
+3941
+	Charm	32
+3942
+	Double-Edge	37
+3943
+	Solar Beam	42
+3944
+	
+	Sawsbuck	
+3945
+	Horn Leech	-3
+3946
+	Sand Attack	1
+3947
+	Tackle	1
+3948
+	Growl	1
+3949
+	Megahorn	1
+3950
+	Double Kick	10
+3951
+	Leech Seed	13
+3952
+	Bullet Seed	16
+3953
+	Take Down	20
+3954
+	Zen Headbutt	24
+3955
+	Energy Ball	28
+3956
+	Charm	36
+3957
+	Double-Edge	44
+3958
+	Solar Beam	52
+3959
+	
+	Foongus	
+3960
+	Absorb	1
+3961
+	Astonish	1
+3962
+	Growth	4
+3963
+	Stun Spore	8
+3964
+	Mega Drain	12
+3965
+	Synthesis	16
+3966
+	Clear Smog	20
+3967
+	Sweet Scent	24
+3968
+	Giga Drain	28
+3969
+	Ingrain	32
+3970
+	Toxic	36
+3971
+	Rage Powder	40
+3972
+	Solar Beam	44
+3973
+	Spore	48
+3974
+	
+	Amoonguss	
+3975
+	Absorb	1
+3976
+	Growth	1
+3977
+	Stun Spore	1
+3978
+	Astonish	1
+3979
+	Mega Drain	12
+3980
+	Synthesis	16
+3981
+	Clear Smog	20
+3982
+	Sweet Scent	24
+3983
+	Giga Drain	28
+3984
+	Ingrain	32
+3985
+	Toxic	36
+3986
+	Rage Powder	42
+3987
+	Solar Beam	48
+3988
+	Spore	54
+3989
+	
+	Alomomola	
+3990
+	Pound	1
+3991
+	Play Nice	1
+3992
+	Aqua Ring	5
+3993
+	Aqua Jet	9
+3994
+	Helping Hand	13
+3995
+	Wide Guard	13
+3996
+	Protect	21
+3997
+	Water Pulse	25
+3998
+	Healing Wish	29
+3999
+	Soak	33
+4000
+	Wish	37
+4001
+	Brine	41
+4002
+	Safeguard	45
+4003
+	Whirlpool	49
+4004
+	Hydro Pump	55
+4005
+	
+	Tynamo	
+4006
+	Tackle	1
+4007
+	Thunder Wave	1
+4008
+	Spark	1
+4009
+	Charge Beam	1
+4010
+	
+	Eelektrik	
+4011
+	Crunch	-3
+4012
+	Headbutt	1
+4013
+	Thunder Wave	1
+4014
+	Spark	1
+4015
+	Charge Beam	1
+4016
+	Bind	9
+4017
+	Acid	19
+4018
+	Discharge	29
+4019
+	Thunderbolt	44
+4020
+	Acid Spray	49
+4021
+	Coil	54
+4022
+	Wild Charge	59
+4023
+	Gastro Acid	64
+4024
+	Zap Cannon	69
+4025
+	Thrash	74
+4026
+	
+	Eelektross	
+4027
+	Headbutt	1
+4028
+	Thrash	1
+4029
+	Acid	1
+4030
+	Zap Cannon	1
+4031
+	Crunch	1
+4032
+	Crush Claw	1
+4033
+	Gastro Acid	1
+4034
+	Discharge	1
+4035
+	Coil	1
+4036
+	Wild Charge	5
+4037
+	
+	Axew	
+4038
+	Scratch	1
+4039
+	Leer	1
+4040
+	Bite	3
+4041
+	False Swipe	6
+4042
+	Assurance	9
+4043
+	Taunt	12
+4044
+	Slash	15
+4045
+	Dragon Claw	18
+4046
+	Scary Face	21
+4047
+	Crunch	24
+4048
+	Dragon Dance	27
+4049
+	Breaking Swipe	30
+4050
+	Focus Energy	33
+4051
+	Dragon Pulse	36
+4052
+	Swords Dance	39
+4053
+	Outrage	42
+4054
+	Guillotine	45
+4055
+	Giga Impact	48
+4056
+	
+	Fraxure	
+4057
+	Scratch	1
+4058
+	Leer	1
+4059
+	Bite	1
+4060
+	False Swipe	1
+4061
+	Assurance	9
+4062
+	Taunt	12
+4063
+	Slash	15
+4064
+	Dragon Claw	18
+4065
+	Scary Face	21
+4066
+	Crunch	24
+4067
+	Dragon Dance	27
+4068
+	Breaking Swipe	30
+4069
+	Focus Energy	33
+4070
+	Dragon Pulse	36
+4071
+	Swords Dance	41
+4072
+	Outrage	46
+4073
+	Guillotine	51
+4074
+	Giga Impact	56
+4075
+	
+	Haxorus	
+4076
+	Scratch	1
+4077
+	Leer	1
+4078
+	Bite	1
+4079
+	False Swipe	1
+4080
+	Assurance	9
+4081
+	Taunt	12
+4082
+	Slash	15
+4083
+	Dragon Claw	18
+4084
+	Scary Face	21
+4085
+	Crunch	24
+4086
+	Dragon Dance	27
+4087
+	Breaking Swipe	30
+4088
+	Focus Energy	33
+4089
+	Dragon Pulse	36
+4090
+	Swords Dance	41
+4091
+	Outrage	46
+4092
+	Guillotine	53
+4093
+	Giga Impact	60
+4094
+	
+	Cubchoo	
+4095
+	Growl	1
+4096
+	Powder Snow	1
+4097
+	Endure	3
+4098
+	Fury Swipes	6
+4099
+	Icy Wind	9
+4100
+	Play Nice	12
+4101
+	Brine	15
+4102
+	Frost Breath	18
+4103
+	Slash	21
+4104
+	Flail	24
+4105
+	Charm	27
+4106
+	Snowscape	30
+4107
+	Thrash	33
+4108
+	Rest	36
+4109
+	Blizzard	39
+4110
+	Sheer Cold	42
+4111
+	
+	Beartic	
+4112
+	Icicle Crash	-3
+4113
+	Endure	1
+4114
+	Growl	1
+4115
+	Fury Swipes	1
+4116
+	Powder Snow	1
+4117
+	Charm	1
+4118
+	Aqua Jet	1
+4119
+	Icy Wind	9
+4120
+	Play Nice	12
+4121
+	Brine	15
+4122
+	Frost Breath	18
+4123
+	Slash	21
+4124
+	Flail	24
+4125
+	Swagger	27
+4126
+	Snowscape	30
+4127
+	Thrash	33
+4128
+	Rest	36
+4129
+	Blizzard	41
+4130
+	Sheer Cold	46
+4131
+	Superpower	51
+4132
+	
+	Cryogonal	
+4133
+	Bind	1
+4134
+	Ice Shard	1
+4135
+	Confuse Ray	4
+4136
+	Rapid Spin	8
+4137
+	Icy Wind	12
+4138
+	Mist	16
+4139
+	Haze	16
+4140
+	Ancient Power	20
+4141
+	Aurora Beam	24
+4142
+	Slash	28
+4143
+	Night Slash	32
+4144
+	Freeze-Dry	36
+4145
+	Light Screen	40
+4146
+	Reflect	40
+4147
+	Recover	44
+4148
+	Ice Beam	48
+4149
+	Acid Armor	52
+4150
+	Solar Beam	56
+4151
+	Sheer Cold	60
+4152
+	
+	Pawniard	
+4153
+	Scratch	1
+4154
+	Leer	1
+4155
+	Fury Cutter	5
+4156
+	Metal Claw	10
+4157
+	Torment	15
+4158
+	Scary Face	20
+4159
+	Assurance	25
+4160
+	Metal Sound	30
+4161
+	Slash	35
+4162
+	Night Slash	40
+4163
+	Iron Defense	45
+4164
+	Retaliate	50
+4165
+	Iron Head	55
+4166
+	Swords Dance	60
+4167
+	Guillotine	65
+4168
+	
+	Bisharp	
+4169
+	Scratch	1
+4170
+	Leer	1
+4171
+	Fury Cutter	1
+4172
+	Metal Claw	1
+4173
+	Metal Burst	1
+4174
+	Torment	15
+4175
+	Scary Face	20
+4176
+	Assurance	25
+4177
+	Metal Sound	30
+4178
+	Slash	35
+4179
+	Night Slash	40
+4180
+	Iron Defense	45
+4181
+	Retaliate	50
+4182
+	Iron Head	57
+4183
+	Swords Dance	64
+4184
+	Guillotine	71
+4185
+	
+	Rufflet	
+4186
+	Leer	1
+4187
+	Peck	1
+4188
+	Hone Claws	6
+4189
+	Wing Attack	12
+4190
+	Tailwind	18
+4191
+	Scary Face	24
+4192
+	Aerial Ace	30
+4193
+	Slash	36
+4194
+	Whirlwind	42
+4195
+	Crush Claw	48
+4196
+	Air Slash	55
+4197
+	Defog	60
+4198
+	Thrash	66
+4199
+	Brave Bird	72
+4200
+	
+	Braviary	
+4201
+	Superpower	-3
+4202
+	Wing Attack	1
+4203
+	Leer	1
+4204
+	Peck	1
+4205
+	Sky Attack	1
+4206
+	Hone Claws	1
+4207
+	Tailwind	18
+4208
+	Scary Face	24
+4209
+	Aerial Ace	30
+4210
+	Slash	36
+4211
+	Whirlwind	42
+4212
+	Crush Claw	48
+4213
+	Air Slash	57
+4214
+	Defog	64
+4215
+	Thrash	72
+4216
+	
+	Braviary-Hisui	
+4217
+	Esper Wing	-3
+4218
+	Hone Claws	1
+4219
+	Sky Attack	1
+4220
+	Peck	1
+4221
+	Superpower	1
+4222
+	Leer	1
+4223
+	Wing Attack	1
+4224
+	Tailwind	18
+4225
+	Scary Face	24
+4226
+	Aerial Ace	30
+4227
+	Slash	36
+4228
+	Whirlwind	42
+4229
+	Crush Claw	48
+4230
+	Air Slash	57
+4231
+	Defog	64
+4232
+	Thrash	72
+4233
+	Hurricane	80
+4234
+	
+	Deino	
+4235
+	Tackle	1
+4236
+	Focus Energy	1
+4237
+	Dragon Breath	4
+4238
+	Bite	8
+4239
+	Roar	12
+4240
+	Assurance	16
+4241
+	Headbutt	20
+4242
+	Work Up	24
+4243
+	Slam	28
+4244
+	Crunch	32
+4245
+	Scary Face	36
+4246
+	Dragon Pulse	40
+4247
+	Body Slam	44
+4248
+	Hyper Voice	48
+4249
+	Dragon Rush	52
+4250
+	Nasty Plot	56
+4251
+	Outrage	60
+4252
+	
+	Zweilous	
+4253
+	Tackle	1
+4254
+	Bite	1
+4255
+	Focus Energy	1
+4256
+	Dragon Breath	1
+4257
+	Double Hit	1
+4258
+	Roar	12
+4259
+	Assurance	16
+4260
+	Headbutt	20
+4261
+	Work Up	24
+4262
+	Slam	28
+4263
+	Crunch	32
+4264
+	Scary Face	36
+4265
+	Dragon Pulse	40
+4266
+	Body Slam	44
+4267
+	Hyper Voice	48
+4268
+	Dragon Rush	54
+4269
+	Nasty Plot	60
+4270
+	Outrage	66
+4271
+	
+	Hydreigon	
+4272
+	Tackle	1
+4273
+	Bite	1
+4274
+	Dragon Breath	1
+4275
+	Focus Energy	1
+4276
+	Tri Attack	1
+4277
+	Double Hit	1
+4278
+	Roar	12
+4279
+	Assurance	16
+4280
+	Headbutt	20
+4281
+	Work Up	24
+4282
+	Slam	28
+4283
+	Crunch	32
+4284
+	Scary Face	36
+4285
+	Dragon Pulse	40
+4286
+	Body Slam	44
+4287
+	Hyper Voice	48
+4288
+	Dragon Rush	54
+4289
+	Nasty Plot	60
+4290
+	Outrage	68
+4291
+	Hyper Beam	76
+4292
+	
+	Larvesta	
+4293
+	Ember	1
+4294
+	String Shot	1
+4295
+	Flame Charge	6
+4296
+	Struggle Bug	12
+4297
+	Flame Wheel	18
+4298
+	Bug Bite	24
+4299
+	Screech	30
+4300
+	Leech Life	36
+4301
+	Bug Buzz	42
+4302
+	Take Down	48
+4303
+	Amnesia	54
+4304
+	Double-Edge	60
+4305
+	Flare Blitz	66
+4306
+	
+	Volcarona	
+4307
+	Quiver Dance	-3
+4308
+	Fiery Dance	1
+4309
+	Struggle Bug	1
+4310
+	Flame Charge	1
+4311
+	Flare Blitz	1
+4312
+	Fire Spin	1
+4313
+	Gust	1
+4314
+	Ember	1
+4315
+	Double-Edge	1
+4316
+	Take Down	1
+4317
+	Whirlwind	1
+4318
+	String Shot	1
+4319
+	Flame Wheel	18
+4320
+	Bug Bite	24
+4321
+	Screech	30
+4322
+	Leech Life	36
+4323
+	Bug Buzz	42
+4324
+	Heat Wave	48
+4325
+	Amnesia	54
+4326
+	Hurricane	62
+4327
+	Fire Blast	70
+4328
+	Rage Powder	78
+4329
+	
+	Tornadus	
+4330
+	Gust	1
+4331
+	Astonish	1
+4332
+	Leer	5
+4333
+	Swagger	10
+4334
+	Bite	15
+4335
+	Air Cutter	20
+4336
+	Agility	25
+4337
+	Tailwind	30
+4338
+	Air Slash	35
+4339
+	Crunch	40
+4340
+	Extrasensory	45
+4341
+	Uproar	50
+4342
+	Hammer Arm	55
+4343
+	Rain Dance	60
+4344
+	Hurricane	65
+4345
+	Thrash	70
+4346
+	Bleakwind Storm	77
+4347
+	
+	Thundurus	
+4348
+	Thunder Shock	1
+4349
+	Astonish	1
+4350
+	Leer	5
+4351
+	Swagger	10
+4352
+	Bite	15
+4353
+	Shock Wave	20
+4354
+	Agility	25
+4355
+	Charge	30
+4356
+	Volt Switch	35
+4357
+	Crunch	40
+4358
+	Discharge	45
+4359
+	Uproar	50
+4360
+	Hammer Arm	55
+4361
+	Rain Dance	60
+4362
+	Thunder	65
+4363
+	Thrash	70
+4364
+	Wildbolt Storm	75
+4365
+	
+	Landorus	
+4366
+	Smack Down	1
+4367
+	Sand Tomb	1
+4368
+	Leer	5
+4369
+	Block	10
+4370
+	Bulldoze	15
+4371
+	Rock Tomb	20
+4372
+	Imprison	30
+4373
+	Rock Slide	35
+4374
+	Earth Power	40
+4375
+	Extrasensory	45
+4376
+	Stone Edge	50
+4377
+	Hammer Arm	55
+4378
+	Sandstorm	60
+4379
+	Earthquake	65
+4380
+	Outrage	70
+4381
+	Fissure	75
+4382
+	Sandsear Storm	80
+4383
+	
+	Meloetta	
+4384
+	Sing	1
+4385
+	Confusion	1
+4386
+	Quick Attack	1
+4387
+	Round	1
+4388
+	Teeter Dance	21
+4389
+	Acrobatics	26
+4390
+	Psybeam	31
+4391
+	Echoed Voice	36
+4392
+	U-turn	43
+4393
+	Relic Song	50
+4394
+	Psychic	57
+4395
+	Hyper Voice	64
+4396
+	Role Play	71
+4397
+	Close Combat	78
+4398
+	Perish Song	85
+4399
+	
+	Chespin	
+4400
+	Vine Whip	1
+4401
+	Growl	1
+4402
+	Rollout	8
+4403
+	Bite	11
+4404
+	Leech Seed	15
+4405
+	Pin Missile	18
+4406
+	Take Down	27
+4407
+	Seed Bomb	32
+4408
+	Mud Shot	35
+4409
+	Body Slam	42
+4410
+	Pain Split	45
+4411
+	Wood Hammer	48
+4412
+	
+	Quilladin	
+4413
+	Vine Whip	1
+4414
+	Growl	1
+4415
+	Rollout	8
+4416
+	Bite	11
+4417
+	Leech Seed	15
+4418
+	Seed Bomb	20
+4419
+	Pin Missile	24
+4420
+	Take Down	29
+4421
+	Mud Shot	34
+4422
+	Bulk Up	38
+4423
+	Body Slam	43
+4424
+	Pain Split	47
+4425
+	Wood Hammer	53
+4426
+	
+	Chesnaught	
+4427
+	Spiky Shield	-3
+4428
+	Feint	1
+4429
+	Hammer Arm	1
+4430
+	Growl	1
+4431
+	Rollout	1
+4432
+	Tackle	1
+4433
+	Vine Whip	1
+4434
+	Bite	11
+4435
+	Leech Seed	15
+4436
+	Pin Missile	19
+4437
+	Take Down	29
+4438
+	Seed Bomb	35
+4439
+	Mud Shot	41
+4440
+	Bulk Up	48
+4441
+	Body Slam	54
+4442
+	Pain Split	60
+4443
+	Wood Hammer	66
+4444
+	Giga Impact	78
+4445
+	
+	Fennekin	
+4446
+	Scratch	1
+4447
+	Tail Whip	1
+4448
+	Ember	5
+4449
+	Howl	11
+4450
+	Flame Charge	14
+4451
+	Psybeam	17
+4452
+	Fire Spin	20
+4453
+	Light Screen	25
+4454
+	Psyshock	31
+4455
+	Flamethrower	35
+4456
+	Will-O-Wisp	38
+4457
+	Psychic	41
+4458
+	Sunny Day	43
+4459
+	Fire Blast	48
+4460
+	
+	Braixen	
+4461
+	Scratch	1
+4462
+	Tail Whip	1
+4463
+	Ember	1
+4464
+	Howl	11
+4465
+	Flame Charge	14
+4466
+	Psybeam	18
+4467
+	Fire Spin	22
+4468
+	Light Screen	28
+4469
+	Psyshock	36
+4470
+	Flamethrower	41
+4471
+	Will-O-Wisp	45
+4472
+	Psychic	49
+4473
+	Sunny Day	52
+4474
+	Magic Room	56
+4475
+	Fire Blast	59
+4476
+	
+	Delphox	
+4477
+	Mystical Fire	-3
+4478
+	Switcheroo	1
+4479
+	Howl	1
+4480
+	Role Play	1
+4481
+	Future Sight	1
+4482
+	Shadow Ball	1
+4483
+	Scratch	1
+4484
+	Ember	1
+4485
+	Tail Whip	1
+4486
+	Flame Charge	14
+4487
+	Psybeam	18
+4488
+	Fire Spin	22
+4489
+	Light Screen	28
+4490
+	Psyshock	38
+4491
+	Flamethrower	45
+4492
+	Will-O-Wisp	51
+4493
+	Psychic	57
+4494
+	Sunny Day	62
+4495
+	Magic Room	68
+4496
+	Fire Blast	74
+4497
+	
+	Froakie	
+4498
+	Pound	1
+4499
+	Growl	1
+4500
+	Water Gun	5
+4501
+	Quick Attack	8
+4502
+	Lick	10
+4503
+	Water Pulse	14
+4504
+	Smokescreen	18
+4505
+	Round	21
+4506
+	Fling	25
+4507
+	Smack Down	29
+4508
+	Substitute	35
+4509
+	Bounce	39
+4510
+	Double Team	43
+4511
+	Hydro Pump	48
+4512
+	
+	Frogadier	
+4513
+	Pound	1
+4514
+	Growl	1
+4515
+	Water Gun	1
+4516
+	Quick Attack	8
+4517
+	Lick	10
+4518
+	Water Pulse	14
+4519
+	Smokescreen	19
+4520
+	Round	23
+4521
+	Fling	28
+4522
+	Smack Down	33
+4523
+	Substitute	40
+4524
+	Bounce	45
+4525
+	Double Team	50
+4526
+	Hydro Pump	56
+4527
+	
+	Greninja	
+4528
+	Water Shuriken	-3
+4529
+	Night Slash	1
+4530
+	Role Play	1
+4531
+	Haze	1
+4532
+	Pound	1
+4533
+	Water Gun	1
+4534
+	Growl	1
+4535
+	Quick Attack	1
+4536
+	Lick	10
+4537
+	Water Pulse	14
+4538
+	Smokescreen	19
+4539
+	Shadow Sneak	23
+4540
+	Spikes	28
+4541
+	Aerial Ace	33
+4542
+	Substitute	42
+4543
+	Extrasensory	49
+4544
+	Double Team	56
+4545
+	Hydro Pump	68
+4546
+	
+	Fletchling	
+4547
+	Growl	1
+4548
+	Peck	1
+4549
+	Quick Attack	5
+4550
+	Ember	10
+4551
+	Flail	15
+4552
+	Acrobatics	20
+4553
+	Agility	25
+4554
+	Aerial Ace	30
+4555
+	Tailwind	35
+4556
+	Steel Wing	40
+4557
+	Roost	45
+4558
+	Fly	50
+4559
+	
+	Fletchinder	
+4560
+	Flame Charge	-3
+4561
+	Growl	1
+4562
+	Ember	1
+4563
+	Peck	1
+4564
+	Quick Attack	1
+4565
+	Feint	1
+4566
+	Flail	15
+4567
+	Acrobatics	22
+4568
+	Agility	29
+4569
+	Aerial Ace	36
+4570
+	Tailwind	43
+4571
+	Steel Wing	50
+4572
+	Roost	57
+4573
+	Fly	64
+4574
+	
+	Talonflame	
+4575
+	Growl	1
+4576
+	Ember	1
+4577
+	Peck	1
+4578
+	Quick Attack	1
+4579
+	Feint	1
+4580
+	Flare Blitz	1
+4581
+	Flame Charge	1
+4582
+	Flail	15
+4583
+	Acrobatics	22
+4584
+	Agility	29
+4585
+	Aerial Ace	38
+4586
+	Tailwind	47
+4587
+	Steel Wing	56
+4588
+	Roost	65
+4589
+	Fly	74
+4590
+	Brave Bird	83
+4591
+	
+	Scatterbug	
+4592
+	Tackle	1
+4593
+	String Shot	1
+4594
+	Stun Spore	6
+4595
+	Bug Bite	15
+4596
+	
+	Spewpa	
+4597
+	Protect	-3
+4598
+	Harden	1
+4599
+	
+	Vivillon	
+4600
+	Gust	-3
+4601
+	Poison Powder	1
+4602
+	Stun Spore	1
+4603
+	Sleep Powder	1
+4604
+	Struggle Bug	1
+4605
+	Light Screen	12
+4606
+	Psybeam	17
+4607
+	Supersonic	21
+4608
+	Draining Kiss	25
+4609
+	Safeguard	31
+4610
+	Bug Buzz	35
+4611
+	Quiver Dance	45
+4612
+	Hurricane	50
+4613
+	
+	Litleo	
+4614
+	Tackle	1
+4615
+	Leer	1
+4616
+	Ember	5
+4617
+	Work Up	8
+4618
+	Headbutt	11
+4619
+	Noble Roar	15
+4620
+	Take Down	20
+4621
+	Fire Fang	23
+4622
+	Endeavor	28
+4623
+	Echoed Voice	33
+4624
+	Flamethrower	36
+4625
+	Crunch	39
+4626
+	Hyper Voice	43
+4627
+	Incinerate	46
+4628
+	Overheat	50
+4629
+	
+	Pyroar	
+4630
+	Tackle	1
+4631
+	Leer	1
+4632
+	Ember	1
+4633
+	Hyper Beam	1
+4634
+	Work Up	1
+4635
+	Headbutt	11
+4636
+	Noble Roar	15
+4637
+	Take Down	20
+4638
+	Fire Fang	23
+4639
+	Endeavor	28
+4640
+	Echoed Voice	33
+4641
+	Flamethrower	38
+4642
+	Crunch	42
+4643
+	Hyper Voice	48
+4644
+	Incinerate	51
+4645
+	Overheat	57
+4646
+	
+	Flabebe	
+4647
+	Vine Whip	1
+4648
+	Tackle	1
+4649
+	Fairy Wind	6
+4650
+	Safeguard	10
+4651
+	Razor Leaf	15
+4652
+	Wish	20
+4653
+	Magical Leaf	22
+4654
+	Grassy Terrain	24
+4655
+	Petal Blizzard	28
+4656
+	Synthesis	33
+4657
+	Misty Terrain	37
+4658
+	Moonblast	41
+4659
+	Petal Dance	45
+4660
+	Solar Beam	48
+4661
+	
+	Floette	
+4662
+	Vine Whip	1
+4663
+	Tackle	1
+4664
+	Fairy Wind	1
+4665
+	Safeguard	10
+4666
+	Razor Leaf	15
+4667
+	Wish	20
+4668
+	Magical Leaf	25
+4669
+	Grassy Terrain	27
+4670
+	Petal Blizzard	33
+4671
+	Synthesis	38
+4672
+	Misty Terrain	43
+4673
+	Moonblast	46
+4674
+	Petal Dance	51
+4675
+	Solar Beam	58
+4676
+	
+	Florges	
+4677
+	Solar Beam	1
+4678
+	Petal Dance	1
+4679
+	Safeguard	1
+4680
+	Synthesis	1
+4681
+	Wish	1
+4682
+	Magical Leaf	1
+4683
+	Grass Knot	1
+4684
+	Petal Blizzard	1
+4685
+	Disarming Voice	1
+4686
+	Grassy Terrain	1
+4687
+	Misty Terrain	1
+4688
+	Moonblast	5
+4689
+	
+	Skiddo	
+4690
+	Tackle	1
+4691
+	Growth	1
+4692
+	Vine Whip	7
+4693
+	Tail Whip	9
+4694
+	Leech Seed	12
+4695
+	Razor Leaf	13
+4696
+	Worry Seed	16
+4697
+	Synthesis	20
+4698
+	Take Down	22
+4699
+	Bulldoze	26
+4700
+	Seed Bomb	30
+4701
+	Bulk Up	34
+4702
+	Double-Edge	38
+4703
+	Horn Leech	42
+4704
+	Leaf Blade	45
+4705
+	
+	Gogoat	
+4706
+	Aerial Ace	-3
+4707
+	Earthquake	1
+4708
+	Growth	1
+4709
+	Tail Whip	1
+4710
+	Vine Whip	1
+4711
+	Tackle	1
+4712
+	Leech Seed	12
+4713
+	Razor Leaf	13
+4714
+	Worry Seed	16
+4715
+	Synthesis	20
+4716
+	Take Down	22
+4717
+	Bulldoze	26
+4718
+	Seed Bomb	30
+4719
+	Bulk Up	34
+4720
+	Double-Edge	40
+4721
+	Horn Leech	47
+4722
+	Leaf Blade	55
+4723
+	Milk Drink	58
+4724
+	
+	Skrelp	
+4725
+	Tackle	1
+4726
+	Smokescreen	1
+4727
+	Acid	5
+4728
+	Water Gun	10
+4729
+	Tail Whip	15
+4730
+	Double Team	20
+4731
+	Poison Tail	25
+4732
+	Water Pulse	30
+4733
+	Toxic	35
+4734
+	Dragon Pulse	40
+4735
+	Aqua Tail	45
+4736
+	Sludge Bomb	50
+4737
+	Hydro Pump	55
+4738
+	
+	Dragalge	
+4739
+	Tackle	1
+4740
+	Acid	1
+4741
+	Water Gun	1
+4742
+	Smokescreen	1
+4743
+	Tail Whip	15
+4744
+	Double Team	20
+4745
+	Poison Tail	25
+4746
+	Water Pulse	30
+4747
+	Toxic	35
+4748
+	Dragon Pulse	40
+4749
+	Aqua Tail	45
+4750
+	Sludge Bomb	52
+4751
+	Hydro Pump	59
+4752
+	Outrage	66
+4753
+	
+	Clauncher	
+4754
+	Water Gun	1
+4755
+	Splash	1
+4756
+	Vise Grip	5
+4757
+	Flail	10
+4758
+	Aqua Jet	15
+4759
+	Smack Down	20
+4760
+	Hone Claws	25
+4761
+	Water Pulse	30
+4762
+	Swords Dance	35
+4763
+	Aura Sphere	40
+4764
+	Bounce	45
+4765
+	Muddy Water	50
+4766
+	Crabhammer	55
+4767
+	
+	Clawitzer	
+4768
+	Vise Grip	1
+4769
+	Water Gun	1
+4770
+	Splash	1
+4771
+	Flail	1
+4772
+	Dark Pulse	1
+4773
+	Dragon Pulse	1
+4774
+	Heal Pulse	1
+4775
+	Aqua Jet	15
+4776
+	Smack Down	20
+4777
+	Hone Claws	25
+4778
+	Water Pulse	30
+4779
+	Swords Dance	35
+4780
+	Aura Sphere	42
+4781
+	Bounce	49
+4782
+	Muddy Water	56
+4783
+	Crabhammer	63
+4784
+	
+	Sylveon	
+4785
+	Disarming Voice	-3
+4786
+	Baton Pass	1
+4787
+	Tackle	1
+4788
+	Take Down	1
+4789
+	Double-Edge	1
+4790
+	Tail Whip	1
+4791
+	Bite	1
+4792
+	Growl	1
+4793
+	Copycat	1
+4794
+	Covet	1
+4795
+	Charm	1
+4796
+	Helping Hand	1
+4797
+	Sand Attack	5
+4798
+	Quick Attack	10
+4799
+	Baby-Doll Eyes	15
+4800
+	Swift	20
+4801
+	Light Screen	25
+4802
+	Draining Kiss	30
+4803
+	Misty Terrain	35
+4804
+	Skill Swap	40
+4805
+	Psych Up	45
+4806
+	Moonblast	50
+4807
+	Last Resort	55
+4808
+	
+	Hawlucha	
+4809
+	Tackle	1
+4810
+	Hone Claws	1
+4811
+	Wing Attack	4
+4812
+	Detect	8
+4813
+	Aerial Ace	12
+4814
+	Encore	16
+4815
+	Feather Dance	20
+4816
+	Brick Break	24
+4817
+	Bounce	28
+4818
+	Taunt	32
+4819
+	Roost	36
+4820
+	Swords Dance	40
+4821
+	Flying Press	44
+4822
+	High Jump Kick	48
+4823
+	Endeavor	52
+4824
+	Sky Attack	56
+4825
+	
+	Dedenne	
+4826
+	Tail Whip	1
+4827
+	Nuzzle	1
+4828
+	Tackle	5
+4829
+	Charge	10
+4830
+	Thunder Shock	15
+4831
+	Charm	20
+4832
+	Parabolic Charge	25
+4833
+	Volt Switch	30
+4834
+	Rest	35
+4835
+	Snore	35
+4836
+	Discharge	40
+4837
+	Play Rough	45
+4838
+	Super Fang	50
+4839
+	Entrainment	55
+4840
+	Thunder	60
+4841
+	
+	Carbink	
+4842
+	Tackle	1
+4843
+	Harden	1
+4844
+	Guard Split	5
+4845
+	Smack Down	10
+4846
+	Flail	15
+4847
+	Ancient Power	20
+4848
+	Rock Polish	25
+4849
+	Light Screen	30
+4850
+	Rock Slide	35
+4851
+	Skill Swap	40
+4852
+	Power Gem	45
+4853
+	Stealth Rock	50
+4854
+	Moonblast	55
+4855
+	Stone Edge	60
+4856
+	
+	Goomy	
+4857
+	Tackle	1
+4858
+	Absorb	1
+4859
+	Water Gun	5
+4860
+	Dragon Breath	10
+4861
+	Protect	15
+4862
+	Flail	20
+4863
+	Water Pulse	25
+4864
+	Rain Dance	30
+4865
+	Dragon Pulse	35
+4866
+	Curse	41
+4867
+	Body Slam	45
+4868
+	Muddy Water	50
+4869
+	
+	Sliggoo	
+4870
+	Acid Spray	-3
+4871
+	Tackle	1
+4872
+	Water Gun	1
+4873
+	Absorb	1
+4874
+	Acid Armor	1
+4875
+	Dragon Breath	1
+4876
+	Protect	15
+4877
+	Flail	20
+4878
+	Water Pulse	25
+4879
+	Rain Dance	30
+4880
+	Dragon Pulse	35
+4881
+	Curse	43
+4882
+	Body Slam	49
+4883
+	Muddy Water	56
+4884
+	
+	Sliggoo-Hisui	
+4885
+	Shelter	-3
+4886
+	Tackle	1
+4887
+	Water Gun	1
+4888
+	Absorb	1
+4889
+	Acid Armor	1
+4890
+	Dragon Breath	1
+4891
+	Protect	15
+4892
+	Flail	20
+4893
+	Water Pulse	25
+4894
+	Rain Dance	30
+4895
+	Dragon Pulse	35
+4896
+	Curse	43
+4897
+	Iron Head	49
+4898
+	Muddy Water	56
+4899
+	
+	Goodra	
+4900
+	Aqua Tail	-3
+4901
+	Tearful Look	1
+4902
+	Feint	1
+4903
+	Poison Tail	1
+4904
+	Acid Spray	1
+4905
+	Dragon Breath	1
+4906
+	Tackle	1
+4907
+	Absorb	1
+4908
+	Water Gun	1
+4909
+	Protect	15
+4910
+	Flail	20
+4911
+	Water Pulse	25
+4912
+	Rain Dance	30
+4913
+	Curse	43
+4914
+	Body Slam	49
+4915
+	Muddy Water	58
+4916
+	Power Whip	67
+4917
+	
+	Goodra-Hisui	
+4918
+	Iron Tail	-3
+4919
+	Shelter	1
+4920
+	Acid Spray	1
+4921
+	Feint	1
+4922
+	Tearful Look	1
+4923
+	Dragon Breath	1
+4924
+	Tackle	1
+4925
+	Absorb	1
+4926
+	Water Gun	1
+4927
+	Protect	15
+4928
+	Flail	20
+4929
+	Water Pulse	25
+4930
+	Rain Dance	30
+4931
+	Dragon Pulse	35
+4932
+	Curse	43
+4933
+	Iron Head	49
+4934
+	Body Slam	49
+4935
+	Muddy Water	58
+4936
+	Heavy Slam	67
+4937
+	
+	Klefki	
+4938
+	Astonish	1
+4939
+	Tackle	4
+4940
+	Fairy Wind	8
+4941
+	Torment	12
+4942
+	Fairy Lock	16
+4943
+	Metal Sound	20
+4944
+	Draining Kiss	24
+4945
+	Recycle	28
+4946
+	Imprison	32
+4947
+	Flash Cannon	36
+4948
+	Play Rough	40
+4949
+	Magic Room	44
+4950
+	Foul Play	48
+4951
+	Last Resort	52
+4952
+	
+	Bergmite	
+4953
+	Harden	1
+4954
+	Rapid Spin	1
+4955
+	Tackle	3
+4956
+	Powder Snow	6
+4957
+	Curse	9
+4958
+	Icy Wind	12
+4959
+	Protect	15
+4960
+	Avalanche	18
+4961
+	Bite	21
+4962
+	Ice Fang	24
+4963
+	Iron Defense	27
+4964
+	Recover	30
+4965
+	Crunch	33
+4966
+	Take Down	36
+4967
+	Blizzard	39
+4968
+	Double-Edge	42
+4969
+	
+	Avalugg	
+4970
+	Body Slam	-3
+4971
+	Powder Snow	1
+4972
+	Rapid Spin	1
+4973
+	Wide Guard	1
+4974
+	Harden	1
+4975
+	Tackle	1
+4976
+	Curse	9
+4977
+	Icy Wind	12
+4978
+	Protect	15
+4979
+	Avalanche	18
+4980
+	Bite	21
+4981
+	Ice Fang	24
+4982
+	Iron Defense	27
+4983
+	Recover	30
+4984
+	Crunch	33
+4985
+	Take Down	36
+4986
+	Blizzard	41
+4987
+	Double-Edge	46
+4988
+	Icicle Crash	51
+4989
+	
+	Avalugg-Hisui	
+4990
+	Rock Slide	-3
+4991
+	Powder Snow	1
+4992
+	Rapid Spin	1
+4993
+	Wide Guard	1
+4994
+	Harden	1
+4995
+	Tackle	1
+4996
+	Curse	9
+4997
+	Icy Wind	12
+4998
+	Protect	15
+4999
+	Avalanche	18
+5000
+	Bite	21
+5001
+	Ice Fang	24
+5002
+	Iron Defense	27
+5003
+	Recover	30
+5004
+	Crunch	33
+5005
+	Take Down	36
+5006
+	Blizzard	41
+5007
+	Double-Edge	46
+5008
+	Stone Edge	51
+5009
+	Mountain Gale	61
+5010
+	
+	Noibat	
+5011
+	Tackle	1
+5012
+	Absorb	1
+5013
+	Gust	4
+5014
+	Supersonic	8
+5015
+	Double Team	12
+5016
+	Wing Attack	16
+5017
+	Bite	20
+5018
+	Air Cutter	24
+5019
+	Whirlwind	28
+5020
+	Super Fang	32
+5021
+	Air Slash	36
+5022
+	Screech	40
+5023
+	Roost	44
+5024
+	Tailwind	49
+5025
+	Hurricane	52
+5026
+	
+	Noivern	
+5027
+	Dragon Pulse	-3
+5028
+	Gust	1
+5029
+	Moonlight	1
+5030
+	Tackle	1
+5031
+	Absorb	1
+5032
+	Supersonic	1
+5033
+	Double Team	12
+5034
+	Wing Attack	16
+5035
+	Bite	20
+5036
+	Air Cutter	24
+5037
+	Whirlwind	28
+5038
+	Super Fang	32
+5039
+	Air Slash	36
+5040
+	Screech	40
+5041
+	Roost	44
+5042
+	Tailwind	51
+5043
+	Hurricane	56
+5044
+	Boomburst	62
+5045
+	
+	Diancie	
+5046
+	Tackle	1
+5047
+	Harden	1
+5048
+	Diamond Storm	1
+5049
+	Guard Split	7
+5050
+	Smack Down	14
+5051
+	Flail	21
+5052
+	Ancient Power	28
+5053
+	Rock Polish	35
+5054
+	Light Screen	42
+5055
+	Rock Slide	49
+5056
+	Skill Swap	56
+5057
+	Power Gem	63
+5058
+	Stealth Rock	70
+5059
+	Moonblast	77
+5060
+	Stone Edge	84
+5061
+	
+	Hoopa	
+5062
+	Confusion	1
+5063
+	Ally Switch	1
+5064
+	Destiny Bond	1
+5065
+	Astonish	6
+5066
+	Trick	10
+5067
+	Light Screen	15
+5068
+	Psybeam	19
+5069
+	Skill Swap	25
+5070
+	Guard Split	29
+5071
+	Power Split	29
+5072
+	Phantom Force	35
+5073
+	Zen Headbutt	46
+5074
+	Trick Room	50
+5075
+	Wonder Room	50
+5076
+	Shadow Ball	55
+5077
+	Nasty Plot	68
+5078
+	Psychic	75
+5079
+	Hyperspace Hole	85
+5080
+	
+	Hoopa-Unbound	
+5081
+	Confusion	1
+5082
+	Destiny Bond	1
+5083
+	Ally Switch	1
+5084
+	Astonish	6
+5085
+	Trick	10
+5086
+	Light Screen	15
+5087
+	Psybeam	19
+5088
+	Skill Swap	25
+5089
+	Guard Split	29
+5090
+	Power Split	29
+5091
+	Knock Off	46
+5092
+	Trick Room	50
+5093
+	Wonder Room	50
+5094
+	Dark Pulse	55
+5095
+	Psychic	75
+5096
+	Hyperspace Fury	85
+5097
+	
+	Volcanion	
+5098
+	Steam Eruption	1
+5099
+	Water Gun	1
+5100
+	Fire Spin	1
+5101
+	Leer	6
+5102
+	Weather Ball	12
+5103
+	Flame Charge	18
+5104
+	Water Pulse	24
+5105
+	Scary Face	30
+5106
+	Incinerate	36
+5107
+	Stomp	42
+5108
+	Scald	48
+5109
+	Take Down	54
+5110
+	Mist	60
+5111
+	Haze	60
+5112
+	Hydro Pump	66
+5113
+	Flare Blitz	78
+5114
+	Overheat	84
+5115
+	Explosion	90
+5116
+	
+	Rowlet	
+5117
+	Tackle	1
+5118
+	Growl	1
+5119
+	Leafage	3
+5120
+	Astonish	6
+5121
+	Peck	9
+5122
+	Shadow Sneak	12
+5123
+	Razor Leaf	15
+5124
+	Synthesis	18
+5125
+	Pluck	21
+5126
+	Nasty Plot	24
+5127
+	Sucker Punch	27
+5128
+	Leaf Blade	30
+5129
+	Feather Dance	33
+5130
+	Brave Bird	36
+5131
+	
+	Dartrix	
+5132
+	Tackle	1
+5133
+	Growl	1
+5134
+	Astonish	1
+5135
+	Leafage	1
+5136
+	Peck	9
+5137
+	Shadow Sneak	12
+5138
+	Razor Leaf	15
+5139
+	Synthesis	20
+5140
+	Pluck	25
+5141
+	Nasty Plot	30
+5142
+	Sucker Punch	35
+5143
+	Leaf Blade	40
+5144
+	Feather Dance	45
+5145
+	Brave Bird	50
+5146
+	
+	Decidueye	
+5147
+	Spirit Shackle	-3
+5148
+	Leafage	1
+5149
+	Phantom Force	1
+5150
+	Leaf Storm	1
+5151
+	U-turn	1
+5152
+	Astonish	1
+5153
+	Tackle	1
+5154
+	Spite	1
+5155
+	Growl	1
+5156
+	Peck	9
+5157
+	Shadow Sneak	12
+5158
+	Razor Leaf	15
+5159
+	Synthesis	20
+5160
+	Pluck	25
+5161
+	Nasty Plot	30
+5162
+	Sucker Punch	37
+5163
+	Leaf Blade	44
+5164
+	Feather Dance	51
+5165
+	Brave Bird	58
+5166
+	
+	Decidueye-Hisui	
+5167
+	Triple Arrows	-3
+5168
+	Tackle	1
+5169
+	Growl	1
+5170
+	U-turn	1
+5171
+	Leaf Storm	1
+5172
+	Leafage	1
+5173
+	Peck	9
+5174
+	Shadow Sneak	12
+5175
+	Razor Leaf	15
+5176
+	Synthesis	20
+5177
+	Pluck	25
+5178
+	Bulk Up	30
+5179
+	Sucker Punch	37
+5180
+	Leaf Blade	44
+5181
+	Feather Dance	51
+5182
+	Brave Bird	58
+5183
+	
+	Yungoos	
+5184
+	Tackle	1
+5185
+	Leer	3
+5186
+	Payback	7
+5187
+	Sand Attack	10
+5188
+	Work Up	13
+5189
+	Bite	19
+5190
+	Mud-Slap	22
+5191
+	Super Fang	25
+5192
+	Take Down	28
+5193
+	Scary Face	31
+5194
+	Crunch	34
+5195
+	Yawn	37
+5196
+	Thrash	40
+5197
+	Rest	43
+5198
+	
+	Gumshoos	
+5199
+	Sand Attack	1
+5200
+	Tackle	1
+5201
+	Leer	1
+5202
+	Payback	1
+5203
+	Work Up	13
+5204
+	Bite	19
+5205
+	Mud-Slap	23
+5206
+	Super Fang	27
+5207
+	Take Down	31
+5208
+	Scary Face	35
+5209
+	Crunch	39
+5210
+	Yawn	43
+5211
+	Thrash	47
+5212
+	Rest	52
+5213
+	
+	Crabrawler	
+5214
+	Vise Grip	1
+5215
+	Rock Smash	5
+5216
+	Leer	9
+5217
+	Bubble Beam	13
+5218
+	Protect	17
+5219
+	Brick Break	22
+5220
+	Slam	25
+5221
+	Payback	29
+5222
+	Reversal	33
+5223
+	Crabhammer	37
+5224
+	Iron Defense	42
+5225
+	Dynamic Punch	45
+5226
+	Close Combat	49
+5227
+	
+	Crabominable	
+5228
+	Ice Punch	-3
+5229
+	Leer	1
+5230
+	Protect	1
+5231
+	Rock Smash	1
+5232
+	Bubble Beam	17
+5233
+	Brick Break	22
+5234
+	Slam	25
+5235
+	Avalanche	29
+5236
+	Reversal	33
+5237
+	Ice Hammer	37
+5238
+	Iron Defense	42
+5239
+	Dynamic Punch	45
+5240
+	Close Combat	49
+5241
+	
+	Oricorio	
+5242
+	Pound	1
+5243
+	Growl	4
+5244
+	Peck	6
+5245
+	Helping Hand	10
+5246
+	Air Cutter	13
+5247
+	Baton Pass	16
+5248
+	Feather Dance	20
+5249
+	Acrobatics	23
+5250
+	Teeter Dance	26
+5251
+	Roost	30
+5252
+	Flatter	33
+5253
+	Air Slash	36
+5254
+	Revelation Dance	40
+5255
+	Agility	43
+5256
+	Hurricane	47
+5257
+	
+	Rockruff	
+5258
+	Tackle	1
+5259
+	Leer	1
+5260
+	Sand Attack	4
+5261
+	Double Team	8
+5262
+	Rock Throw	12
+5263
+	Howl	16
+5264
+	Bite	20
+5265
+	Rock Tomb	24
+5266
+	Roar	28
+5267
+	Rock Slide	32
+5268
+	Crunch	36
+5269
+	Scary Face	40
+5270
+	Stealth Rock	44
+5271
+	Stone Edge	48
+5272
+	
+	Lycanroc	
+5273
+	Sucker Punch	-3
+5274
+	Accelerock	1
+5275
+	Quick Guard	1
+5276
+	Double Team	1
+5277
+	Quick Attack	1
+5278
+	Sand Attack	1
+5279
+	Leer	1
+5280
+	Tackle	1
+5281
+	Rock Throw	12
+5282
+	Howl	16
+5283
+	Bite	20
+5284
+	Rock Tomb	24
+5285
+	Roar	30
+5286
+	Rock Slide	36
+5287
+	Crunch	42
+5288
+	Scary Face	48
+5289
+	Stealth Rock	54
+5290
+	Stone Edge	60
+5291
+	
+	Lycanroc-Midnight	
+5292
+	Counter	-3
+5293
+	Sand Attack	1
+5294
+	Tackle	1
+5295
+	Leer	1
+5296
+	Double Team	1
+5297
+	Reversal	1
+5298
+	Endure	1
+5299
+	Taunt	1
+5300
+	Rock Throw	12
+5301
+	Howl	16
+5302
+	Bite	20
+5303
+	Rock Tomb	24
+5304
+	Roar	30
+5305
+	Rock Slide	36
+5306
+	Crunch	42
+5307
+	Scary Face	48
+5308
+	Stealth Rock	54
+5309
+	Stone Edge	60
+5310
+	
+	Lycanroc-Dusk	
+5311
+	Crush Claw	-3
+5312
+	Accelerock	1
+5313
+	Sucker Punch	1
+5314
+	Taunt	1
+5315
+	Endure	1
+5316
+	Quick Guard	1
+5317
+	Reversal	1
+5318
+	Double Team	1
+5319
+	Sand Attack	1
+5320
+	Counter	1
+5321
+	Leer	1
+5322
+	Tackle	1
+5323
+	Quick Attack	1
+5324
+	Rock Throw	12
+5325
+	Howl	16
+5326
+	Bite	20
+5327
+	Rock Tomb	24
+5328
+	Roar	30
+5329
+	Rock Slide	36
+5330
+	Crunch	42
+5331
+	Scary Face	48
+5332
+	Stealth Rock	54
+5333
+	Stone Edge	60
+5334
+	
+	Mareanie	
+5335
+	Poison Sting	1
+5336
+	Peck	1
+5337
+	Wide Guard	5
+5338
+	Bite	10
+5339
+	Venoshock	15
+5340
+	Recover	20
+5341
+	Pin Missile	25
+5342
+	Toxic Spikes	30
+5343
+	Liquidation	35
+5344
+	Acid Spray	40
+5345
+	Poison Jab	45
+5346
+	Toxic	50
+5347
+	
+	Toxapex	
+5348
+	Baneful Bunker	-3
+5349
+	Poison Sting	1
+5350
+	Bite	1
+5351
+	Peck	1
+5352
+	Wide Guard	1
+5353
+	Venoshock	15
+5354
+	Recover	20
+5355
+	Pin Missile	25
+5356
+	Toxic Spikes	30
+5357
+	Liquidation	35
+5358
+	Acid Spray	42
+5359
+	Poison Jab	49
+5360
+	Toxic	56
+5361
+	
+	Mudbray	
+5362
+	Mud-Slap	1
+5363
+	Rock Smash	1
+5364
+	Iron Defense	4
+5365
+	Double Kick	8
+5366
+	Bulldoze	12
+5367
+	Stomp	16
+5368
+	Strength	20
+5369
+	Counter	24
+5370
+	High Horsepower	28
+5371
+	Heavy Slam	32
+5372
+	Earthquake	36
+5373
+	Mega Kick	40
+5374
+	Superpower	44
+5375
+	
+	Mudsdale	
+5376
+	Double Kick	1
+5377
+	Mud-Slap	1
+5378
+	Rock Smash	1
+5379
+	Iron Defense	1
+5380
+	Bulldoze	12
+5381
+	Stomp	16
+5382
+	Strength	20
+5383
+	Counter	24
+5384
+	High Horsepower	28
+5385
+	Heavy Slam	34
+5386
+	Earthquake	40
+5387
+	Mega Kick	46
+5388
+	Superpower	52
+5389
+	
+	Fomantis	
+5390
+	Fury Cutter	1
+5391
+	Leafage	1
+5392
+	Growth	5
+5393
+	Ingrain	10
+5394
+	Razor Leaf	15
+5395
+	Sweet Scent	20
+5396
+	Slash	25
+5397
+	X-Scissor	30
+5398
+	Synthesis	35
+5399
+	Leaf Blade	40
+5400
+	Sunny Day	45
+5401
+	Solar Beam	50
+5402
+	
+	Lurantis	
+5403
+	Petal Blizzard	-3
+5404
+	Growth	1
+5405
+	Solar Beam	1
+5406
+	Fury Cutter	1
+5407
+	Ingrain	1
+5408
+	Night Slash	1
+5409
+	Leafage	1
+5410
+	Razor Leaf	15
+5411
+	Sweet Scent	20
+5412
+	Slash	25
+5413
+	X-Scissor	30
+5414
+	Synthesis	37
+5415
+	Leaf Blade	44
+5416
+	Sunny Day	51
+5417
+	Solar Blade	63
+5418
+	
+	Salandit	
+5419
+	Scratch	1
+5420
+	Poison Gas	1
+5421
+	Smog	5
+5422
+	Ember	10
+5423
+	Poison Fang	15
+5424
+	Sweet Scent	20
+5425
+	Nasty Plot	25
+5426
+	Incinerate	30
+5427
+	Venoshock	35
+5428
+	Dragon Pulse	40
+5429
+	Flamethrower	45
+5430
+	Toxic	50
+5431
+	Endeavor	55
+5432
+	
+	Salazzle	
+5433
+	Fire Lash	-3
+5434
+	Endeavor	1
+5435
+	Knock Off	1
+5436
+	Torment	1
+5437
+	Swagger	1
+5438
+	Poison Gas	1
+5439
+	Encore	1
+5440
+	Ember	1
+5441
+	Disable	1
+5442
+	Scratch	1
+5443
+	Smog	1
+5444
+	Pound	1
+5445
+	Poison Fang	15
+5446
+	Sweet Scent	20
+5447
+	Nasty Plot	25
+5448
+	Incinerate	30
+5449
+	Venoshock	37
+5450
+	Dragon Pulse	44
+5451
+	Flamethrower	51
+5452
+	Toxic	58
+5453
+	
+	Bounsweet	
+5454
+	Splash	1
+5455
+	Play Nice	4
+5456
+	Rapid Spin	8
+5457
+	Razor Leaf	12
+5458
+	Sweet Scent	16
+5459
+	Magical Leaf	20
+5460
+	Flail	24
+5461
+	Teeter Dance	28
+5462
+	Aromatic Mist	32
+5463
+	
+	Steenee	
+5464
+	Razor Leaf	1
+5465
+	Splash	1
+5466
+	Flail	1
+5467
+	Rapid Spin	1
+5468
+	Play Nice	1
+5469
+	Sweet Scent	16
+5470
+	Magical Leaf	22
+5471
+	Stomp	28
+5472
+	Teeter Dance	34
+5473
+	Aromatic Mist	40
+5474
+	Leaf Storm	46
+5475
+	
+	Tsareena	
+5476
+	Trop Kick	-3
+5477
+	Razor Leaf	1
+5478
+	Splash	1
+5479
+	Flail	1
+5480
+	Swagger	1
+5481
+	Rapid Spin	1
+5482
+	Power Whip	1
+5483
+	Play Nice	1
+5484
+	Sweet Scent	16
+5485
+	Magical Leaf	22
+5486
+	Stomp	28
+5487
+	Teeter Dance	34
+5488
+	Aromatic Mist	40
+5489
+	Leaf Storm	46
+5490
+	High Jump Kick	58
+5491
+	
+	Oranguru	
+5492
+	Confusion	1
+5493
+	Taunt	1
+5494
+	After You	5
+5495
+	Calm Mind	10
+5496
+	Stored Power	15
+5497
+	Psych Up	20
+5498
+	Quash	25
+5499
+	Nasty Plot	30
+5500
+	Zen Headbutt	35
+5501
+	Trick Room	40
+5502
+	Psychic	45
+5503
+	Instruct	50
+5504
+	Foul Play	55
+5505
+	Future Sight	60
+5506
+	
+	Passimian	
+5507
+	Tackle	1
+5508
+	Leer	1
+5509
+	Rock Smash	5
+5510
+	Focus Energy	10
+5511
+	Beat Up	15
+5512
+	Scary Face	20
+5513
+	Take Down	25
+5514
+	Fling	30
+5515
+	Bulk Up	35
+5516
+	Thrash	40
+5517
+	Double-Edge	45
+5518
+	Close Combat	50
+5519
+	Reversal	55
+5520
+	Giga Impact	60
+5521
+	
+	Sandygast	
+5522
+	Absorb	1
+5523
+	Harden	1
+5524
+	Astonish	5
+5525
+	Sand Tomb	10
+5526
+	Mega Drain	15
+5527
+	Sand Attack	20
+5528
+	Bulldoze	25
+5529
+	Hypnosis	30
+5530
+	Giga Drain	35
+5531
+	Iron Defense	40
+5532
+	Shadow Ball	45
+5533
+	Earth Power	50
+5534
+	Shore Up	55
+5535
+	Sandstorm	60
+5536
+	
+	Palossand	
+5537
+	Absorb	1
+5538
+	Harden	1
+5539
+	Astonish	1
+5540
+	Sand Tomb	1
+5541
+	Mega Drain	15
+5542
+	Sand Attack	20
+5543
+	Bulldoze	25
+5544
+	Hypnosis	30
+5545
+	Giga Drain	35
+5546
+	Iron Defense	40
+5547
+	Shadow Ball	47
+5548
+	Earth Power	54
+5549
+	Shore Up	61
+5550
+	Sandstorm	68
+5551
+	
+	Komala	
+5552
+	Defense Curl	1
+5553
+	Rollout	1
+5554
+	Stockpile	6
+5555
+	Spit Up	6
+5556
+	Swallow	6
+5557
+	Rapid Spin	11
+5558
+	Yawn	16
+5559
+	Slam	21
+5560
+	Flail	26
+5561
+	Sucker Punch	31
+5562
+	Psych Up	36
+5563
+	Wood Hammer	41
+5564
+	Thrash	46
+5565
+	
+	Mimikyu	
+5566
+	Scratch	1
+5567
+	Splash	1
+5568
+	Astonish	1
+5569
+	Copycat	1
+5570
+	Wood Hammer	1
+5571
+	Shadow Sneak	6
+5572
+	Double Team	12
+5573
+	Baby-Doll Eyes	18
+5574
+	Mimic	24
+5575
+	Hone Claws	30
+5576
+	Slash	36
+5577
+	Shadow Claw	42
+5578
+	Charm	48
+5579
+	Play Rough	54
+5580
+	Pain Split	60
+5581
+	
+	Bruxish	
+5582
+	Water Gun	1
+5583
+	Astonish	4
+5584
+	Confusion	9
+5585
+	Bite	12
+5586
+	Aqua Jet	17
+5587
+	Disable	20
+5588
+	Psyshock	25
+5589
+	Crunch	28
+5590
+	Aqua Tail	33
+5591
+	Screech	36
+5592
+	Psychic Fangs	41
+5593
+	Wave Crash	44
+5594
+	
+	Magearna	
+5595
+	Gyro Ball	1
+5596
+	Helping Hand	1
+5597
+	Defense Curl	6
+5598
+	Rollout	12
+5599
+	Iron Defense	18
+5600
+	Magnetic Flux	24
+5601
+	Psybeam	30
+5602
+	Aurora Beam	36
+5603
+	Lock-On	42
+5604
+	Shift Gear	48
+5605
+	Trick	54
+5606
+	Iron Head	60
+5607
+	Aura Sphere	66
+5608
+	Flash Cannon	72
+5609
+	Pain Split	78
+5610
+	Zap Cannon	84
+5611
+	Fleur Cannon	90
+5612
+	
+	Grookey	
+5613
+	Scratch	1
+5614
+	Growl	1
+5615
+	Branch Poke	6
+5616
+	Taunt	8
+5617
+	Razor Leaf	12
+5618
+	Screech	17
+5619
+	Knock Off	20
+5620
+	Slam	24
+5621
+	Uproar	28
+5622
+	Wood Hammer	32
+5623
+	Endeavor	36
+5624
+	
+	Thwackey	
+5625
+	Double Hit	-3
+5626
+	Scratch	1
+5627
+	Growl	1
+5628
+	Taunt	1
+5629
+	Branch Poke	1
+5630
+	Razor Leaf	12
+5631
+	Screech	19
+5632
+	Knock Off	24
+5633
+	Slam	30
+5634
+	Uproar	36
+5635
+	Wood Hammer	42
+5636
+	Endeavor	48
+5637
+	
+	Rillaboom	
+5638
+	Drum Beating	-3
+5639
+	Scratch	1
+5640
+	Growl	1
+5641
+	Taunt	1
+5642
+	Double Hit	1
+5643
+	Noble Roar	1
+5644
+	Grassy Terrain	1
+5645
+	Branch Poke	1
+5646
+	Razor Leaf	12
+5647
+	Screech	19
+5648
+	Knock Off	24
+5649
+	Slam	30
+5650
+	Uproar	38
+5651
+	Wood Hammer	46
+5652
+	Endeavor	54
+5653
+	Boomburst	62
+5654
+	
+	Scorbunny	
+5655
+	Tackle	1
+5656
+	Growl	1
+5657
+	Ember	6
+5658
+	Quick Attack	8
+5659
+	Double Kick	12
+5660
+	Flame Charge	17
+5661
+	Agility	20
+5662
+	Headbutt	24
+5663
+	Counter	28
+5664
+	Bounce	32
+5665
+	Double-Edge	36
+5666
+	
+	Raboot	
+5667
+	Tackle	1
+5668
+	Growl	1
+5669
+	Ember	1
+5670
+	Quick Attack	1
+5671
+	Double Kick	12
+5672
+	Flame Charge	19
+5673
+	Agility	24
+5674
+	Headbutt	30
+5675
+	Counter	36
+5676
+	Bounce	42
+5677
+	Double-Edge	48
+5678
+	
+	Cinderace	
+5679
+	Pyro Ball	-3
+5680
+	Tackle	1
+5681
+	Growl	1
+5682
+	Ember	1
+5683
+	Quick Attack	1
+5684
+	Feint	1
+5685
+	Double Kick	12
+5686
+	Flame Charge	19
+5687
+	Agility	24
+5688
+	Headbutt	30
+5689
+	Counter	38
+5690
+	Bounce	46
+5691
+	Double-Edge	54
+5692
+	Court Change	62
+5693
+	
+	Sobble	
+5694
+	Pound	1
+5695
+	Growl	1
+5696
+	Water Gun	6
+5697
+	Bind	8
+5698
+	Water Pulse	12
+5699
+	Tearful Look	17
+5700
+	Sucker Punch	20
+5701
+	U-turn	24
+5702
+	Liquidation	28
+5703
+	Soak	32
+5704
+	Rain Dance	36
+5705
+	
+	Drizzile	
+5706
+	Pound	1
+5707
+	Bind	1
+5708
+	Growl	1
+5709
+	Water Gun	1
+5710
+	Water Pulse	12
+5711
+	Tearful Look	19
+5712
+	Sucker Punch	24
+5713
+	U-turn	30
+5714
+	Liquidation	36
+5715
+	Soak	42
+5716
+	Rain Dance	48
+5717
+	
+	Inteleon	
+5718
+	Snipe Shot	-3
+5719
+	Pound	1
+5720
+	Bind	1
+5721
+	Growl	1
+5722
+	Water Gun	1
+5723
+	Acrobatics	1
+5724
+	Water Pulse	12
+5725
+	Tearful Look	19
+5726
+	Sucker Punch	24
+5727
+	U-turn	30
+5728
+	Liquidation	38
+5729
+	Soak	46
+5730
+	Rain Dance	54
+5731
+	Hydro Pump	62
+5732
+	
+	Skwovet	
+5733
+	Tackle	1
+5734
+	Tail Whip	1
+5735
+	Bite	5
+5736
+	Stuff Cheeks	10
+5737
+	Stockpile	15
+5738
+	Spit Up	15
+5739
+	Swallow	15
+5740
+	Body Slam	20
+5741
+	Rest	25
+5742
+	Counter	30
+5743
+	Bullet Seed	35
+5744
+	Super Fang	40
+5745
+	Belch	45
+5746
+	
+	Greedent	
+5747
+	Covet	-3
+5748
+	Tackle	1
+5749
+	Tail Whip	1
+5750
+	Bite	1
+5751
+	Stuff Cheeks	1
+5752
+	Stockpile	15
+5753
+	Spit Up	15
+5754
+	Swallow	15
+5755
+	Body Slam	20
+5756
+	Rest	27
+5757
+	Counter	34
+5758
+	Bullet Seed	41
+5759
+	Super Fang	48
+5760
+	Belch	55
+5761
+	
+	Rookidee	
+5762
+	Leer	1
+5763
+	Peck	1
+5764
+	Power Trip	4
+5765
+	Hone Claws	8
+5766
+	Fury Attack	12
+5767
+	Pluck	16
+5768
+	Taunt	20
+5769
+	Scary Face	24
+5770
+	Drill Peck	28
+5771
+	Swagger	32
+5772
+	Brave Bird	36
+5773
+	
+	Corvisquire	
+5774
+	Leer	1
+5775
+	Peck	1
+5776
+	Hone Claws	1
+5777
+	Power Trip	1
+5778
+	Fury Attack	12
+5779
+	Pluck	16
+5780
+	Taunt	22
+5781
+	Scary Face	28
+5782
+	Drill Peck	34
+5783
+	Swagger	40
+5784
+	Brave Bird	46
+5785
+	
+	Corviknight	
+5786
+	Steel Wing	-3
+5787
+	Leer	1
+5788
+	Peck	1
+5789
+	Screech	1
+5790
+	Metal Sound	1
+5791
+	Iron Defense	1
+5792
+	Hone Claws	1
+5793
+	Power Trip	1
+5794
+	Fury Attack	12
+5795
+	Pluck	16
+5796
+	Taunt	22
+5797
+	Scary Face	28
+5798
+	Drill Peck	34
+5799
+	Swagger	42
+5800
+	Brave Bird	50
+5801
+	
+	Chewtle	
+5802
+	Tackle	1
+5803
+	Water Gun	1
+5804
+	Bite	7
+5805
+	Protect	14
+5806
+	Headbutt	21
+5807
+	Counter	28
+5808
+	Jaw Lock	35
+5809
+	Liquidation	42
+5810
+	Body Slam	49
+5811
+	
+	Drednaw	
+5812
+	Rock Tomb	-3
+5813
+	Tackle	1
+5814
+	Bite	1
+5815
+	Water Gun	1
+5816
+	Protect	1
+5817
+	Crunch	1
+5818
+	Rock Polish	1
+5819
+	Razor Shell	1
+5820
+	Headbutt	21
+5821
+	Counter	30
+5822
+	Jaw Lock	39
+5823
+	Liquidation	48
+5824
+	Body Slam	57
+5825
+	Head Smash	66
+5826
+	
+	Rolycoly	
+5827
+	Tackle	1
+5828
+	Smokescreen	1
+5829
+	Rapid Spin	5
+5830
+	Smack Down	10
+5831
+	Rock Polish	15
+5832
+	Ancient Power	20
+5833
+	Incinerate	25
+5834
+	Stealth Rock	30
+5835
+	Heat Crash	35
+5836
+	Rock Blast	40
+5837
+	
+	Carkol	
+5838
+	Flame Charge	-3
+5839
+	Tackle	1
+5840
+	Smokescreen	1
+5841
+	Rapid Spin	1
+5842
+	Smack Down	1
+5843
+	Rock Polish	15
+5844
+	Ancient Power	20
+5845
+	Incinerate	27
+5846
+	Stealth Rock	35
+5847
+	Heat Crash	41
+5848
+	Rock Blast	48
+5849
+	Stone Edge	55
+5850
+	
+	Coalossal	
+5851
+	Tar Shot	-3
+5852
+	Tackle	1
+5853
+	Smokescreen	1
+5854
+	Rapid Spin	1
+5855
+	Smack Down	1
+5856
+	Flame Charge	1
+5857
+	Rock Polish	15
+5858
+	Ancient Power	20
+5859
+	Incinerate	27
+5860
+	Stealth Rock	37
+5861
+	Heat Crash	45
+5862
+	Rock Blast	54
+5863
+	Stone Edge	63
+5864
+	
+	Applin	
+5865
+	Astonish	1
+5866
+	Withdraw	1
+5867
+	
+	Flapple	
+5868
+	Wing Attack	-3
+5869
+	Astonish	1
+5870
+	Twister	1
+5871
+	Withdraw	1
+5872
+	Recycle	1
+5873
+	Growth	1
+5874
+	Acid Spray	4
+5875
+	Acrobatics	8
+5876
+	Leech Seed	12
+5877
+	Protect	16
+5878
+	Dragon Breath	20
+5879
+	Dragon Dance	24
+5880
+	Dragon Pulse	28
+5881
+	Grav Apple	32
+5882
+	Iron Defense	36
+5883
+	Fly	40
+5884
+	Dragon Rush	44
+5885
+	
+	Appletun	
+5886
+	Headbutt	-3
+5887
+	Astonish	1
+5888
+	Growth	1
+5889
+	Recycle	1
+5890
+	Withdraw	1
+5891
+	Sweet Scent	1
+5892
+	Curse	4
+5893
+	Stomp	8
+5894
+	Leech Seed	12
+5895
+	Protect	16
+5896
+	Bullet Seed	20
+5897
+	Recover	24
+5898
+	Apple Acid	28
+5899
+	Body Slam	32
+5900
+	Iron Defense	36
+5901
+	Dragon Pulse	40
+5902
+	Energy Ball	44
+5903
+	
+	Silicobra	
+5904
+	Sand Attack	1
+5905
+	Wrap	1
+5906
+	Minimize	5
+5907
+	Brutal Swing	10
+5908
+	Bulldoze	15
+5909
+	Headbutt	20
+5910
+	Glare	25
+5911
+	Dig	30
+5912
+	Sandstorm	35
+5913
+	Slam	40
+5914
+	Coil	45
+5915
+	Sand Tomb	50
+5916
+	
+	Sandaconda	
+5917
+	Sand Attack	1
+5918
+	Wrap	1
+5919
+	Minimize	1
+5920
+	Brutal Swing	1
+5921
+	Bulldoze	15
+5922
+	Headbutt	20
+5923
+	Glare	25
+5924
+	Dig	30
+5925
+	Sandstorm	35
+5926
+	Slam	42
+5927
+	Coil	49
+5928
+	Sand Tomb	51
+5929
+	
+	Arrokuda	
+5930
+	Peck	1
+5931
+	Aqua Jet	1
+5932
+	Fury Attack	6
+5933
+	Bite	12
+5934
+	Agility	18
+5935
+	Dive	24
+5936
+	Focus Energy	30
+5937
+	Crunch	36
+5938
+	Liquidation	42
+5939
+	Double-Edge	48
+5940
+	
+	Barraskewda	
+5941
+	Fury Attack	1
+5942
+	Bite	1
+5943
+	Peck	1
+5944
+	Aqua Jet	1
+5945
+	Throat Chop	1
+5946
+	Agility	18
+5947
+	Dive	24
+5948
+	Focus Energy	32
+5949
+	Crunch	40
+5950
+	Liquidation	48
+5951
+	Double-Edge	56
+5952
+	
+	Toxel	
+5953
+	Growl	1
+5954
+	Acid	1
+5955
+	Flail	1
+5956
+	Belch	1
+5957
+	Nuzzle	1
+5958
+	Tearful Look	1
+5959
+	
+	Toxtricity	
+5960
+	Spark	-3
+5961
+	Leer	1
+5962
+	Growl	1
+5963
+	Acid	1
+5964
+	Thunder Shock	1
+5965
+	Nuzzle	1
+5966
+	Noble Roar	1
+5967
+	Flail	1
+5968
+	Belch	1
+5969
+	Tearful Look	1
+5970
+	Acid Spray	1
+5971
+	Charge	4
+5972
+	Shock Wave	8
+5973
+	Scary Face	12
+5974
+	Taunt	16
+5975
+	Screech	24
+5976
+	Swagger	28
+5977
+	Toxic	32
+5978
+	Discharge	36
+5979
+	Poison Jab	40
+5980
+	Overdrive	44
+5981
+	Boomburst	48
+5982
+	Shift Gear	52
+5983
+	
+	Toxtricity-Low-Key	
+5984
+	Spark	-3
+5985
+	Leer	1
+5986
+	Growl	1
+5987
+	Acid	1
+5988
+	Thunder Shock	1
+5989
+	Nuzzle	1
+5990
+	Noble Roar	1
+5991
+	Flail	1
+5992
+	Belch	1
+5993
+	Tearful Look	1
+5994
+	Acid Spray	1
+5995
+	Charge	4
+5996
+	Shock Wave	8
+5997
+	Scary Face	12
+5998
+	Taunt	16
+5999
+	Screech	24
+6000
+	Swagger	28
+6001
+	Toxic	32
+6002
+	Discharge	36
+6003
+	Poison Jab	40
+6004
+	Overdrive	44
+6005
+	Boomburst	48
+6006
+	Magnetic Flux	52
+6007
+	
+	Sinistea	
+6008
+	Withdraw	1
+6009
+	Astonish	1
+6010
+	Aromatic Mist	6
+6011
+	Mega Drain	12
+6012
+	Sucker Punch	24
+6013
+	Sweet Scent	30
+6014
+	Giga Drain	36
+6015
+	Nasty Plot	42
+6016
+	Shadow Ball	48
+6017
+	Memento	54
+6018
+	Shell Smash	60
+6019
+	
+	Polteageist	
+6020
+	Teatime	-3
+6021
+	Mega Drain	1
+6022
+	Withdraw	1
+6023
+	Astonish	1
+6024
+	Aromatic Mist	1
+6025
+	Strength Sap	1
+6026
+	Protect	18
+6027
+	Sucker Punch	24
+6028
+	Sweet Scent	30
+6029
+	Giga Drain	36
+6030
+	Nasty Plot	42
+6031
+	Shadow Ball	48
+6032
+	Memento	54
+6033
+	Shell Smash	60
+6034
+	Curse	66
+6035
+	
+	Hatenna	
+6036
+	Confusion	1
+6037
+	Play Nice	1
+6038
+	Life Dew	5
+6039
+	Disarming Voice	10
+6040
+	Aromatic Mist	15
+6041
+	Psybeam	20
+6042
+	Heal Pulse	25
+6043
+	Dazzling Gleam	30
+6044
+	Calm Mind	35
+6045
+	Psychic	40
+6046
+	Healing Wish	45
+6047
+	
+	Hattrem	
+6048
+	Brutal Swing	-3
+6049
+	Confusion	1
+6050
+	Disarming Voice	1
+6051
+	Play Nice	1
+6052
+	Life Dew	1
+6053
+	Aromatic Mist	15
+6054
+	Psybeam	20
+6055
+	Heal Pulse	25
+6056
+	Dazzling Gleam	30
+6057
+	Calm Mind	37
+6058
+	Psychic	44
+6059
+	Healing Wish	51
+6060
+	
+	Hatterene	
+6061
+	Psycho Cut	-3
+6062
+	Confusion	1
+6063
+	Disarming Voice	1
+6064
+	Play Nice	1
+6065
+	Brutal Swing	1
+6066
+	Life Dew	1
+6067
+	Aromatic Mist	15
+6068
+	Psybeam	20
+6069
+	Heal Pulse	25
+6070
+	Dazzling Gleam	30
+6071
+	Calm Mind	37
+6072
+	Psychic	46
+6073
+	Healing Wish	55
+6074
+	Magic Powder	64
+6075
+	
+	Impidimp	
+6076
+	Fake Out	1
+6077
+	Confide	1
+6078
+	Bite	4
+6079
+	Flatter	8
+6080
+	Fake Tears	12
+6081
+	Assurance	16
+6082
+	Swagger	20
+6083
+	Sucker Punch	24
+6084
+	Torment	28
+6085
+	Dark Pulse	33
+6086
+	Nasty Plot	36
+6087
+	Play Rough	40
+6088
+	Foul Play	44
+6089
+	
+	Morgrem	
+6090
+	False Surrender	-3
+6091
+	Bite	1
+6092
+	Fake Out	1
+6093
+	Flatter	1
+6094
+	Confide	1
+6095
+	Fake Tears	12
+6096
+	Assurance	16
+6097
+	Swagger	20
+6098
+	Sucker Punch	24
+6099
+	Torment	28
+6100
+	Dark Pulse	35
+6101
+	Nasty Plot	40
+6102
+	Play Rough	46
+6103
+	Foul Play	52
+6104
+	
+	Grimmsnarl	
+6105
+	Spirit Break	-3
+6106
+	False Surrender	1
+6107
+	Confide	1
+6108
+	Bulk Up	1
+6109
+	Bite	1
+6110
+	Fake Out	1
+6111
+	Flatter	1
+6112
+	Fake Tears	12
+6113
+	Assurance	16
+6114
+	Swagger	20
+6115
+	Sucker Punch	24
+6116
+	Torment	28
+6117
+	Dark Pulse	35
+6118
+	Nasty Plot	40
+6119
+	Play Rough	48
+6120
+	Foul Play	56
+6121
+	Hammer Arm	64
+6122
+	
+	Perrserker	
+6123
+	Iron Head	-3
+6124
+	Scratch	1
+6125
+	Growl	1
+6126
+	Fake Out	1
+6127
+	Iron Defense	1
+6128
+	Metal Burst	1
+6129
+	Hone Claws	1
+6130
+	Pay Day	12
+6131
+	Metal Claw	16
+6132
+	Taunt	20
+6133
+	Swagger	24
+6134
+	Fury Swipes	31
+6135
+	Screech	36
+6136
+	Slash	42
+6137
+	Metal Sound	48
+6138
+	Thrash	54
+6139
+	
+	Falinks	
+6140
+	Tackle	1
+6141
+	Protect	1
+6142
+	Rock Smash	5
+6143
+	Focus Energy	10
+6144
+	Headbutt	15
+6145
+	Bulk Up	20
+6146
+	Endure	25
+6147
+	Reversal	30
+6148
+	First Impression	35
+6149
+	No Retreat	40
+6150
+	Iron Defense	45
+6151
+	Close Combat	50
+6152
+	Megahorn	55
+6153
+	Counter	60
+6154
+	
+	Pincurchin	
+6155
+	Peck	1
+6156
+	Thunder Shock	1
+6157
+	Water Gun	5
+6158
+	Charge	10
+6159
+	Fury Attack	15
+6160
+	Spark	20
+6161
+	Bubble Beam	25
+6162
+	Recover	30
+6163
+	Curse	35
+6164
+	Electric Terrain	40
+6165
+	Poison Jab	45
+6166
+	Zing Zap	50
+6167
+	Acupressure	55
+6168
+	Discharge	60
+6169
+	
+	Snom	
+6170
+	Struggle Bug	1
+6171
+	Powder Snow	1
+6172
+	
+	Frosmoth	
+6173
+	Icy Wind	-3
+6174
+	Struggle Bug	1
+6175
+	Powder Snow	1
+6176
+	Attract	1
+6177
+	Helping Hand	1
+6178
+	Stun Spore	4
+6179
+	Infestation	8
+6180
+	Mist	12
+6181
+	Defog	16
+6182
+	Feather Dance	21
+6183
+	Aurora Beam	24
+6184
+	Snowscape	28
+6185
+	Bug Buzz	32
+6186
+	Aurora Veil	36
+6187
+	Blizzard	40
+6188
+	Tailwind	44
+6189
+	Wide Guard	48
+6190
+	Quiver Dance	52
+6191
+	
+	Stonjourner	
+6192
+	Rock Throw	1
+6193
+	Block	1
+6194
+	Rock Polish	6
+6195
+	Rock Tomb	12
+6196
+	Gravity	18
+6197
+	Stomp	24
+6198
+	Stealth Rock	30
+6199
+	Rock Slide	36
+6200
+	Body Slam	42
+6201
+	Wide Guard	48
+6202
+	Heavy Slam	54
+6203
+	Stone Edge	60
+6204
+	Mega Kick	66
+6205
+	
+	Eiscue	
+6206
+	Tackle	1
+6207
+	Powder Snow	1
+6208
+	Mist	6
+6209
+	Weather Ball	12
+6210
+	Icy Wind	18
+6211
+	Headbutt	24
+6212
+	Amnesia	30
+6213
+	Freeze-Dry	36
+6214
+	Snowscape	42
+6215
+	Aurora Veil	48
+6216
+	Surf	54
+6217
+	Blizzard	60
+6218
+	
+	Indeedee	
+6219
+	Stored Power	1
+6220
+	Play Nice	1
+6221
+	Encore	5
+6222
+	Disarming Voice	10
+6223
+	Psybeam	15
+6224
+	Helping Hand	20
+6225
+	After You	25
+6226
+	Healing Wish	30
+6227
+	Psychic	35
+6228
+	Calm Mind	40
+6229
+	Power Split	45
+6230
+	Psychic Terrain	50
+6231
+	Last Resort	55
+6232
+	
+	Indeedee-F	
+6233
+	Stored Power	1
+6234
+	Play Nice	1
+6235
+	Baton Pass	5
+6236
+	Disarming Voice	10
+6237
+	Psybeam	15
+6238
+	Helping Hand	20
+6239
+	Follow Me	25
+6240
+	Healing Wish	30
+6241
+	Psychic	35
+6242
+	Calm Mind	40
+6243
+	Guard Split	45
+6244
+	Psychic Terrain	50
+6245
+	
+	Cufant	
+6246
+	Tackle	1
+6247
+	Growl	1
+6248
+	Rollout	5
+6249
+	Rock Smash	10
+6250
+	Bulldoze	15
+6251
+	Stomp	20
+6252
+	Iron Defense	25
+6253
+	Dig	30
+6254
+	Strength	35
+6255
+	Iron Head	40
+6256
+	Play Rough	45
+6257
+	High Horsepower	50
+6258
+	Superpower	55
+6259
+	
+	Copperajah	
+6260
+	Heavy Slam	-3
+6261
+	Tackle	1
+6262
+	Growl	1
+6263
+	Rollout	1
+6264
+	Rock Smash	1
+6265
+	Bulldoze	15
+6266
+	Stomp	20
+6267
+	Iron Defense	25
+6268
+	Dig	30
+6269
+	Strength	37
+6270
+	Iron Head	44
+6271
+	Play Rough	51
+6272
+	High Horsepower	58
+6273
+	Superpower	65
+6274
+	
+	Dreepy	
+6275
+	Bite	1
+6276
+	Quick Attack	1
+6277
+	Astonish	1
+6278
+	Infestation	1
+6279
+	
+	Drakloak	
+6280
+	Dragon Pulse	-3
+6281
+	Infestation	1
+6282
+	Bite	1
+6283
+	Quick Attack	1
+6284
+	Astonish	1
+6285
+	Lock-On	6
+6286
+	Assurance	12
+6287
+	Hex	18
+6288
+	Agility	24
+6289
+	Double Hit	30
+6290
+	U-turn	36
+6291
+	Dragon Dance	42
+6292
+	Phantom Force	48
+6293
+	Take Down	54
+6294
+	Dragon Rush	61
+6295
+	Double-Edge	66
+6296
+	Last Resort	72
+6297
+	
+	Dragapult	
+6298
+	Dragon Darts	-3
+6299
+	Bite	1
+6300
+	Quick Attack	1
+6301
+	Dragon Breath	1
+6302
+	Astonish	1
+6303
+	Infestation	1
+6304
+	Lock-On	6
+6305
+	Assurance	12
+6306
+	Hex	18
+6307
+	Agility	24
+6308
+	Double Hit	30
+6309
+	U-turn	36
+6310
+	Dragon Dance	42
+6311
+	Phantom Force	48
+6312
+	Take Down	54
+6313
+	Dragon Rush	63
+6314
+	Double-Edge	70
+6315
+	Last Resort	78
+6316
+	
+	Zacian	
+6317
+	Bite	1
+6318
+	Quick Attack	1
+6319
+	Metal Claw	1
+6320
+	Howl	1
+6321
+	Quick Guard	1
+6322
+	Sacred Sword	1
+6323
+	Slash	11
+6324
+	Swords Dance	22
+6325
+	Iron Head	33
+6326
+	Noble Roar	44
+6327
+	Crunch	55
+6328
+	Moonblast	66
+6329
+	Close Combat	77
+6330
+	Giga Impact	88
+6331
+	
+	Zamazenta	
+6332
+	Bite	1
+6333
+	Quick Attack	1
+6334
+	Metal Claw	1
+6335
+	Howl	1
+6336
+	Wide Guard	1
+6337
+	Slash	11
+6338
+	Iron Defense	22
+6339
+	Iron Head	33
+6340
+	Metal Burst	44
+6341
+	Crunch	55
+6342
+	Moonblast	66
+6343
+	Close Combat	77
+6344
+	Giga Impact	88
+6345
+	
+	Eternatus	
+6346
+	Agility	1
+6347
+	Confuse Ray	1
+6348
+	Poison Tail	1
+6349
+	Dragon Tail	1
+6350
+	Toxic	8
+6351
+	Venoshock	16
+6352
+	Dragon Dance	24
+6353
+	Cross Poison	32
+6354
+	Dragon Pulse	40
+6355
+	Flamethrower	48
+6356
+	Dynamax Cannon	56
+6357
+	Cosmic Power	64
+6358
+	Recover	72
+6359
+	Hyper Beam	80
+6360
+	Outrage	88
+6361
+	
+	Kubfu	
+6362
+	Leer	1
+6363
+	Rock Smash	1
+6364
+	Endure	4
+6365
+	Focus Energy	8
+6366
+	Aerial Ace	12
+6367
+	Scary Face	16
+6368
+	Headbutt	20
+6369
+	Brick Break	24
+6370
+	Detect	28
+6371
+	Bulk Up	32
+6372
+	Iron Head	36
+6373
+	Dynamic Punch	40
+6374
+	Counter	44
+6375
+	Close Combat	48
+6376
+	Focus Punch	52
+6377
+	
+	Urshifu	
+6378
+	Wicked Blow	-3
+6379
+	Endure	1
+6380
+	Sucker Punch	1
+6381
+	Rock Smash	1
+6382
+	Leer	1
+6383
+	Focus Energy	1
+6384
+	Aerial Ace	12
+6385
+	Scary Face	16
+6386
+	Headbutt	20
+6387
+	Brick Break	24
+6388
+	Detect	28
+6389
+	Bulk Up	32
+6390
+	Iron Head	36
+6391
+	Dynamic Punch	40
+6392
+	Counter	44
+6393
+	Close Combat	48
+6394
+	Focus Punch	52
+6395
+	
+	Urshifu-Rapid-Strike	
+6396
+	Surging Strikes	-3
+6397
+	Endure	1
+6398
+	Aqua Jet	1
+6399
+	Rock Smash	1
+6400
+	Leer	1
+6401
+	Focus Energy	1
+6402
+	Aerial Ace	12
+6403
+	Scary Face	16
+6404
+	Headbutt	20
+6405
+	Brick Break	24
+6406
+	Detect	28
+6407
+	Bulk Up	32
+6408
+	Iron Head	36
+6409
+	Dynamic Punch	40
+6410
+	Counter	44
+6411
+	Close Combat	48
+6412
+	Focus Punch	52
+6413
+	
+	Zarude	
+6414
+	Scratch	1
+6415
+	Bind	1
+6416
+	Leer	6
+6417
+	Vine Whip	12
+6418
+	Growth	18
+6419
+	Fury Swipes	24
+6420
+	Scary Face	30
+6421
+	Grass Knot	36
+6422
+	Bite	42
+6423
+	U-turn	48
+6424
+	Swagger	54
+6425
+	Energy Ball	60
+6426
+	Synthesis	66
+6427
+	Hammer Arm	72
+6428
+	Thrash	78
+6429
+	Power Whip	84
+6430
+	Jungle Healing	90
+6431
+	
+	Regieleki	
+6432
+	Thunder Shock	1
+6433
+	Rapid Spin	1
+6434
+	Electroweb	6
+6435
+	Ancient Power	12
+6436
+	Shock Wave	18
+6437
+	Thunder Wave	24
+6438
+	Extreme Speed	30
+6439
+	Thunder Cage	36
+6440
+	Thunderbolt	42
+6441
+	Magnet Rise	48
+6442
+	Thrash	54
+6443
+	Lock-On	60
+6444
+	Zap Cannon	66
+6445
+	Hyper Beam	72
+6446
+	Explosion	78
+6447
+	
+	Regidrago	
+6448
+	Vise Grip	1
+6449
+	Twister	1
+6450
+	Bite	6
+6451
+	Ancient Power	12
+6452
+	Dragon Breath	18
+6453
+	Crunch	30
+6454
+	Dragon Claw	36
+6455
+	Hammer Arm	42
+6456
+	Dragon Dance	48
+6457
+	Thrash	54
+6458
+	Focus Energy	60
+6459
+	Dragon Energy	66
+6460
+	Hyper Beam	72
+6461
+	Explosion	78
+6462
+	
+	Glastrier	
+6463
+	Tackle	1
+6464
+	Tail Whip	1
+6465
+	Double Kick	6
+6466
+	Avalanche	12
+6467
+	Stomp	18
+6468
+	Torment	24
+6469
+	Mist	30
+6470
+	Icicle Crash	36
+6471
+	Take Down	42
+6472
+	Iron Defense	48
+6473
+	Thrash	54
+6474
+	Taunt	60
+6475
+	Double-Edge	66
+6476
+	Swords Dance	72
+6477
+	
+	Spectrier	
+6478
+	Tackle	1
+6479
+	Tail Whip	1
+6480
+	Double Kick	6
+6481
+	Hex	12
+6482
+	Stomp	18
+6483
+	Confuse Ray	24
+6484
+	Haze	30
+6485
+	Shadow Ball	36
+6486
+	Take Down	42
+6487
+	Agility	48
+6488
+	Thrash	54
+6489
+	Disable	60
+6490
+	Double-Edge	66
+6491
+	Nasty Plot	72
+6492
+	
+	Calyrex	
+6493
+	Pound	1
+6494
+	Mega Drain	1
+6495
+	Growth	1
+6496
+	Confusion	1
+6497
+	Life Dew	8
+6498
+	Giga Drain	16
+6499
+	Psyshock	24
+6500
+	Helping Hand	32
+6501
+	Grassy Terrain	40
+6502
+	Psychic Terrain	40
+6503
+	Energy Ball	48
+6504
+	Psychic	56
+6505
+	Leech Seed	64
+6506
+	Heal Pulse	72
+6507
+	Solar Beam	80
+6508
+	Future Sight	88
+6509
+	
+	Calyrex-Ice	
+6510
+	Glacial Lance	1
+6511
+	Icicle Crash	1
+6512
+	Avalanche	1
+6513
+	Iron Defense	1
+6514
+	Taunt	1
+6515
+	Torment	1
+6516
+	Confusion	1
+6517
+	Growth	1
+6518
+	Mega Drain	1
+6519
+	Pound	1
+6520
+	Tail Whip	1
+6521
+	Swords Dance	1
+6522
+	Double-Edge	1
+6523
+	Thrash	1
+6524
+	Stomp	1
+6525
+	Take Down	1
+6526
+	Tackle	1
+6527
+	Mist	1
+6528
+	Double Kick	1
+6529
+	Life Dew	8
+6530
+	Giga Drain	16
+6531
+	Psyshock	24
+6532
+	Helping Hand	32
+6533
+	Grassy Terrain	40
+6534
+	Aromatherapy	40
+6535
+	Energy Ball	48
+6536
+	Psychic	56
+6537
+	Leech Seed	64
+6538
+	Heal Pulse	72
+6539
+	Solar Beam	80
+6540
+	Future Sight	88
+6541
+	
+	Calyrex-Shadow	
+6542
+	Astral Barrage	1
+6543
+	Hex	1
+6544
+	Nasty Plot	1
+6545
+	Shadow Ball	1
+6546
+	Haze	1
+6547
+	Confuse Ray	1
+6548
+	Confusion	1
+6549
+	Growth	1
+6550
+	Mega Drain	1
+6551
+	Agility	1
+6552
+	Stomp	1
+6553
+	Double Kick	1
+6554
+	Disable	1
+6555
+	Tackle	1
+6556
+	Take Down	1
+6557
+	Thrash	1
+6558
+	Pound	1
+6559
+	Double-Edge	1
+6560
+	Tail Whip	1
+6561
+	Life Dew	8
+6562
+	Giga Drain	16
+6563
+	Psyshock	24
+6564
+	Helping Hand	32
+6565
+	Grassy Terrain	40
+6566
+	Psychic Terrain	40
+6567
+	Energy Ball	48
+6568
+	Psychic	56
+6569
+	Leech Seed	64
+6570
+	Heal Pulse	72
+6571
+	Solar Beam	80
+6572
+	Future Sight	88
+6573
+	
+	Wyrdeer	
+6574
+	Psyshield Bash	-3
+6575
+	Tackle	1
+6576
+	Leer	3
+6577
+	Astonish	7
+6578
+	Hypnosis	10
+6579
+	Stomp	13
+6580
+	Sand Attack	16
+6581
+	Take Down	21
+6582
+	Confuse Ray	23
+6583
+	Calm Mind	27
+6584
+	Role Play	32
+6585
+	Zen Headbutt	37
+6586
+	Imprison	49
+6587
+	Double-Edge	55
+6588
+	Megahorn	62
+6589
+	
+	Kleavor	
+6590
+	Stone Axe	-3
+6591
+	Leer	1
+6592
+	Quick Attack	1
+6593
+	Fury Cutter	4
+6594
+	False Swipe	8
+6595
+	Smack Down	12
+6596
+	Double Team	16
+6597
+	Double Hit	20
+6598
+	Slash	24
+6599
+	Focus Energy	28
+6600
+	Agility	32
+6601
+	Rock Slide	36
+6602
+	X-Scissor	40
+6603
+	Swords Dance	44
+6604
+	
+	Ursaluna	
+6605
+	Headlong Rush	-3
+6606
+	Fake Tears	1
+6607
+	Covet	1
+6608
+	Scratch	1
+6609
+	Leer	1
+6610
+	Lick	1
+6611
+	Fury Swipes	8
+6612
+	Payback	13
+6613
+	Sweet Scent	17
+6614
+	Slash	22
+6615
+	Play Nice	25
+6616
+	Play Rough	29
+6617
+	Scary Face	35
+6618
+	Rest	41
+6619
+	Snore	41
+6620
+	High Horsepower	48
+6621
+	Thrash	56
+6622
+	Hammer Arm	64
+6623
+	
+	Basculegion-Male	
+6624
+	Shadow Ball	1
+6625
+	Tail Whip	1
+6626
+	Water Gun	1
+6627
+	Phantom Force	1
+6628
+	Tackle	4
+6629
+	Flail	8
+6630
+	Aqua Jet	12
+6631
+	Bite	16
+6632
+	Scary Face	20
+6633
+	Headbutt	24
+6634
+	Soak	28
+6635
+	Crunch	32
+6636
+	Take Down	36
+6637
+	Uproar	40
+6638
+	Wave Crash	44
+6639
+	Thrash	48
+6640
+	Double-Edge	52
+6641
+	Head Smash	56
+6642
+	
+	Basculegion-Female	
+6643
+	Shadow Ball	1
+6644
+	Tail Whip	1
+6645
+	Water Gun	1
+6646
+	Phantom Force	1
+6647
+	Tackle	4
+6648
+	Flail	8
+6649
+	Aqua Jet	12
+6650
+	Bite	16
+6651
+	Scary Face	20
+6652
+	Headbutt	24
+6653
+	Soak	28
+6654
+	Crunch	32
+6655
+	Take Down	36
+6656
+	Uproar	40
+6657
+	Wave Crash	44
+6658
+	Thrash	48
+6659
+	Double-Edge	52
+6660
+	Head Smash	56
+6661
+	
+	Sneasler	
+6662
+	Dire Claw	-3
+6663
+	Scratch	1
+6664
+	Leer	1
+6665
+	Rock Smash	1
+6666
+	Fling	1
+6667
+	Taunt	6
+6668
+	Quick Attack	12
+6669
+	Metal Claw	18
+6670
+	Poison Jab	24
+6671
+	Brick Break	30
+6672
+	Hone Claws	36
+6673
+	Slash	42
+6674
+	Agility	48
+6675
+	Screech	54
+6676
+	Close Combat	60
+6677
+	
+	Overqwil	
+6678
+	Tackle	1
+6679
+	Poison Sting	1
+6680
+	Harden	4
+6681
+	Bite	8
+6682
+	Fell Stinger	12
+6683
+	Minimize	16
+6684
+	Spikes	20
+6685
+	Brine	24
+6686
+	Barb Barrage	28
+6687
+	Pin Missile	32
+6688
+	Toxic Spikes	36
+6689
+	Stockpile	40
+6690
+	Spit Up	40
+6691
+	Toxic	44
+6692
+	Crunch	48
+6693
+	Acupressure	52
+6694
+	Destiny Bond	56
+6695
+	
+	Enamorus	
+6696
+	Astonish	1
+6697
+	Fairy Wind	1
+6698
+	Torment	5
+6699
+	Flatter	10
+6700
+	Twister	15
+6701
+	Draining Kiss	20
+6702
+	Iron Defense	25
+6703
+	Imprison	30
+6704
+	Mystical Fire	35
+6705
+	Dazzling Gleam	40
+6706
+	Extrasensory	45
+6707
+	Uproar	50
+6708
+	Superpower	55
+6709
+	Healing Wish	60
+6710
+	Moonblast	65
+6711
+	Outrage	70
+6712
+	Springtide Storm	75
+6713
+	
+	Sprigatito	
+6714
+	Scratch	1
+6715
+	Tail Whip	1
+6716
+	Leafage	1
+6717
+	Bite	7
+6718
+	Hone Claws	10
+6719
+	Magical Leaf	13
+6720
+	Quick Attack	15
+6721
+	Seed Bomb	17
+6722
+	U-turn	21
+6723
+	Worry Seed	25
+6724
+	Slash	28
+6725
+	Energy Ball	32
+6726
+	Play Rough	36
+6727
+	
+	Floragato	
+6728
+	Scratch	1
+6729
+	Tail Whip	1
+6730
+	Leafage	1
+6731
+	Bite	7
+6732
+	Hone Claws	10
+6733
+	Magical Leaf	13
+6734
+	Quick Attack	15
+6735
+	Seed Bomb	20
+6736
+	U-turn	24
+6737
+	Worry Seed	28
+6738
+	Slash	33
+6739
+	Energy Ball	38
+6740
+	Play Rough	42
+6741
+	Leaf Storm	46
+6742
+	
+	Meowscarada	
+6743
+	Flower Trick	-3
+6744
+	Leafage	1
+6745
+	Scratch	1
+6746
+	Tail Whip	1
+6747
+	Bite	7
+6748
+	Hone Claws	10
+6749
+	Magical Leaf	13
+6750
+	Quick Attack	15
+6751
+	Seed Bomb	20
+6752
+	U-turn	24
+6753
+	Worry Seed	29
+6754
+	Slash	33
+6755
+	Night Slash	38
+6756
+	Energy Ball	42
+6757
+	Play Rough	47
+6758
+	Knock Off	52
+6759
+	Grassy Terrain	58
+6760
+	Leaf Storm	64
+6761
+	
+	Fuecoco	
+6762
+	Tackle	1
+6763
+	Leer	1
+6764
+	Ember	1
+6765
+	Round	7
+6766
+	Bite	12
+6767
+	Incinerate	15
+6768
+	Yawn	17
+6769
+	Snarl	21
+6770
+	Roar	25
+6771
+	Flamethrower	28
+6772
+	Hyper Voice	32
+6773
+	Fire Blast	36
+6774
+	
+	Crocalor	
+6775
+	Tackle	1
+6776
+	Leer	1
+6777
+	Ember	1
+6778
+	Lick	7
+6779
+	Round	10
+6780
+	Bite	12
+6781
+	Yawn	15
+6782
+	Incinerate	17
+6783
+	Snarl	24
+6784
+	Roar	28
+6785
+	Flamethrower	32
+6786
+	Hyper Voice	38
+6787
+	Will-O-Wisp	42
+6788
+	Fire Blast	47
+6789
+	
+	Skeledirge	
+6790
+	Torch Song	-3
+6791
+	Ember	1
+6792
+	Tackle	1
+6793
+	Leer	1
+6794
+	Lick	7
+6795
+	Round	10
+6796
+	Scary Face	12
+6797
+	Bite	15
+6798
+	Incinerate	17
+6799
+	Snarl	24
+6800
+	Roar	28
+6801
+	Flamethrower	32
+6802
+	Shadow Ball	38
+6803
+	Hyper Voice	42
+6804
+	Will-O-Wisp	47
+6805
+	Hex	47
+6806
+	Fire Blast	58
+6807
+	Overheat	64
+6808
+	
+	Quaxly	
+6809
+	Pound	1
+6810
+	Growl	1
+6811
+	Water Gun	1
+6812
+	Work Up	7
+6813
+	Wing Attack	10
+6814
+	Aqua Jet	13
+6815
+	Double Hit	17
+6816
+	Aqua Cutter	21
+6817
+	Air Slash	24
+6818
+	Focus Energy	28
+6819
+	Acrobatics	31
+6820
+	Liquidation	35
+6821
+	
+	Quaxwell	
+6822
+	Pound	1
+6823
+	Growl	1
+6824
+	Water Gun	1
+6825
+	Double Hit	1
+6826
+	Work Up	7
+6827
+	Wing Attack	10
+6828
+	Aqua Jet	13
+6829
+	Water Pulse	17
+6830
+	Low Sweep	19
+6831
+	Aqua Cutter	23
+6832
+	Air Slash	27
+6833
+	Focus Energy	32
+6834
+	Acrobatics	38
+6835
+	Liquidation	43
+6836
+	Feather Dance	48
+6837
+	
+	Quaquaval	
+6838
+	Aqua Step	-3
+6839
+	Pound	1
+6840
+	Growl	1
+6841
+	Water Gun	1
+6842
+	Double Hit	1
+6843
+	Work Up	7
+6844
+	Wing Attack	10
+6845
+	Aqua Jet	13
+6846
+	Low Sweep	17
+6847
+	Water Pulse	17
+6848
+	Aqua Cutter	21
+6849
+	Air Slash	27
+6850
+	Focus Energy	32
+6851
+	Mega Kick	38
+6852
+	Acrobatics	43
+6853
+	Liquidation	47
+6854
+	Feather Dance	52
+6855
+	Close Combat	58
+6856
+	Wave Crash	64
+6857
+	
+	Lechonk	
+6858
+	Tackle	1
+6859
+	Tail Whip	1
+6860
+	Disarming Voice	5
+6861
+	Echoed Voice	8
+6862
+	Mud Shot	12
+6863
+	Covet	15
+6864
+	Dig	17
+6865
+	Headbutt	21
+6866
+	Yawn	24
+6867
+	Take Down	27
+6868
+	Work Up	30
+6869
+	Uproar	32
+6870
+	Double-Edge	35
+6871
+	
+	Oinkologne	
+6872
+	Tackle	1
+6873
+	Tail Whip	1
+6874
+	Disarming Voice	5
+6875
+	Echoed Voice	8
+6876
+	Mud Shot	12
+6877
+	Covet	15
+6878
+	Dig	17
+6879
+	Headbutt	23
+6880
+	Take Down	26
+6881
+	Yawn	27
+6882
+	Work Up	34
+6883
+	Uproar	38
+6884
+	Double-Edge	42
+6885
+	Earth Power	48
+6886
+	Belch	54
+6887
+		Oinkologne-1	
+6888
+	Tackle	1
+6889
+	Tail Whip	1
+6890
+	Disarming Voice	3
+6891
+	Echoed Voice	6
+6892
+	Mud Shot	9
+6893
+	Covet	12
+6894
+	Dig	15
+6895
+	Headbutt	17
+6896
+	Yawn	23
+6897
+	Take Down	28
+6898
+	Work Up	30
+6899
+	Uproar	34
+6900
+	Double-Edge	39
+6901
+	Earth Power	45
+6902
+	Belch	51
+6903
+	
+	Dudunsparce	
+6904
+	Defense Curl	1
+6905
+	Flail	1
+6906
+	Mud-Slap	4
+6907
+	Rollout	8
+6908
+	Glare	12
+6909
+	Screech	16
+6910
+	Ancient Power	20
+6911
+	Drill Run	24
+6912
+	Yawn	28
+6913
+	Hyper Drill	32
+6914
+	Roost	36
+6915
+	Dragon Rush	40
+6916
+	Coil	44
+6917
+	Double-Edge	48
+6918
+	Endeavor	52
+6919
+	Hurricane	56
+6920
+	Boomburst	62
+6921
+	
+	Tarountula	
+6922
+	Tackle	1
+6923
+	String Shot	1
+6924
+	Struggle Bug	5
+6925
+	Assurance	8
+6926
+	Feint	11
+6927
+	Bug Bite	14
+6928
+	Block	18
+6929
+	Counter	22
+6930
+	Headbutt	25
+6931
+	Sticky Web	29
+6932
+	Gastro Acid	33
+6933
+	Circle Throw	36
+6934
+	Throat Chop	40
+6935
+	Skitter Smack	44
+6936
+	
+	Spidops	
+6937
+	Silk Trap	-3
+6938
+	Tackle	1
+6939
+	String Shot	1
+6940
+	Struggle Bug	5
+6941
+	Assurance	8
+6942
+	Feint	11
+6943
+	Bug Bite	14
+6944
+	Block	19
+6945
+	Counter	24
+6946
+	Headbutt	28
+6947
+	Sticky Web	33
+6948
+	Gastro Acid	37
+6949
+	Circle Throw	41
+6950
+	Throat Chop	45
+6951
+	Skitter Smack	49
+6952
+	
+	Nymble	
+6953
+	Tackle	1
+6954
+	Leer	1
+6955
+	Struggle Bug	4
+6956
+	Astonish	6
+6957
+	Assurance	9
+6958
+	Double Kick	11
+6959
+	Screech	14
+6960
+	Endure	18
+6961
+	Bug Bite	22
+6962
+	Feint	26
+6963
+	Agility	30
+6964
+	Sucker Punch	38
+6965
+	First Impression	41
+6966
+	
+	Lokix	
+6967
+	Lunge	-3
+6968
+	Tackle	1
+6969
+	Leer	1
+6970
+	Low Kick	1
+6971
+	Detect	1
+6972
+	Struggle Bug	4
+6973
+	Astonish	6
+6974
+	Assurance	9
+6975
+	Double Kick	11
+6976
+	Screech	14
+6977
+	Endure	18
+6978
+	Bug Bite	22
+6979
+	Feint	28
+6980
+	Agility	32
+6981
+	Throat Chop	36
+6982
+	Sucker Punch	40
+6983
+	First Impression	44
+6984
+	Bounce	48
+6985
+	Axe Kick	53
+6986
+	
+	Rellor	
+6987
+	Tackle	1
+6988
+	Defense Curl	1
+6989
+	Sand Attack	4
+6990
+	Struggle Bug	7
+6991
+	Rollout	11
+6992
+	Mud Shot	15
+6993
+	Bug Bite	20
+6994
+	Take Down	24
+6995
+	Dig	29
+6996
+	Lunge	35
+6997
+	
+	Rabsca	
+6998
+	Revival Blessing	-3
+6999
+	Tackle	1
+7000
+	Defense Curl	1
+7001
+	Confusion	1
+7002
+	Sand Attack	4
+7003
+	Struggle Bug	7
+7004
+	Rollout	11
+7005
+	Psybeam	15
+7006
+	Bug Bite	20
+7007
+	Take Down	24
+7008
+	Extrasensory	29
+7009
+	Lunge	35
+7010
+	Speed Swap	40
+7011
+	Power Swap	40
+7012
+	Guard Swap	40
+7013
+	Bug Buzz	45
+7014
+	Psychic	50
+7015
+	
+	Greavard	
+7016
+	Tackle	1
+7017
+	Growl	1
+7018
+	Lick	3
+7019
+	Tail Whip	6
+7020
+	Bite	6
+7021
+	Roar	9
+7022
+	Headbutt	12
+7023
+	Dig	16
+7024
+	Rest	24
+7025
+	Crunch	28
+7026
+	Play Rough	32
+7027
+	Helping Hand	37
+7028
+	Phantom Force	41
+7029
+	Charm	46
+7030
+	Double-Edge	52
+7031
+	
+	Houndstone	
+7032
+	Last Respects	-3
+7033
+	Tackle	1
+7034
+	Growl	1
+7035
+	Lick	3
+7036
+	Tail Whip	6
+7037
+	Bite	6
+7038
+	Roar	9
+7039
+	Headbutt	12
+7040
+	Dig	16
+7041
+	Rest	24
+7042
+	Crunch	28
+7043
+	Play Rough	36
+7044
+	Helping Hand	41
+7045
+	Phantom Force	46
+7046
+	Charm	51
+7047
+	Double-Edge	58
+7048
+	
+	Flittle	
+7049
+	Growl	1
+7050
+	Peck	1
+7051
+	Confusion	5
+7052
+	Baby-Doll Eyes	8
+7053
+	Disarming Voice	11
+7054
+	Quick Attack	15
+7055
+	Psybeam	19
+7056
+	Pluck	24
+7057
+	Agility	29
+7058
+	Uproar	34
+7059
+	
+	Espathra	
+7060
+	Lumina Crash	-3
+7061
+	Growl	1
+7062
+	Peck	1
+7063
+	Drill Peck	1
+7064
+	Feather Dance	1
+7065
+	Confusion	5
+7066
+	Baby-Doll Eyes	8
+7067
+	Disarming Voice	11
+7068
+	Quick Attack	15
+7069
+	Psybeam	19
+7070
+	Pluck	24
+7071
+	Agility	29
+7072
+	Uproar	34
+7073
+	Dazzling Gleam	43
+7074
+	Psychic	49
+7075
+	Last Resort	54
+7076
+	
+	Farigiraf	
+7077
+	Tackle	1
+7078
+	Growl	1
+7079
+	Astonish	1
+7080
+	Power Swap	1
+7081
+	Guard Swap	1
+7082
+	Confusion	5
+7083
+	Assurance	10
+7084
+	Stomp	14
+7085
+	Psybeam	19
+7086
+	Agility	23
+7087
+	Double Hit	28
+7088
+	Twin Beam	32
+7089
+	Crunch	37
+7090
+	Baton Pass	41
+7091
+	Nasty Plot	46
+7092
+	Psychic	50
+7093
+	
+	Wiglett	
+7094
+	Sand Attack	1
+7095
+	Water Gun	1
+7096
+	Mud-Slap	4
+7097
+	Wrap	8
+7098
+	Aqua Jet	12
+7099
+	Slam	20
+7100
+	Water Pulse	20
+7101
+	Headbutt	24
+7102
+	Dig	28
+7103
+	Sucker Punch	32
+7104
+	Throat Chop	36
+7105
+	Liquidation	40
+7106
+	
+	Wugtrio	
+7107
+	Sand Attack	1
+7108
+	Wrap	1
+7109
+	Water Gun	1
+7110
+	Mud-Slap	1
+7111
+	Aqua Jet	12
+7112
+	Slam	16
+7113
+	Water Pulse	20
+7114
+	Headbutt	24
+7115
+	Triple Dive	30
+7116
+	Dig	36
+7117
+	Sucker Punch	42
+7118
+	Throat Chop	48
+7119
+	Liquidation	54
+7120
+	
+	Dondozo	
+7121
+	Tackle	1
+7122
+	Supersonic	1
+7123
+	Water Gun	1
+7124
+	Tickle	5
+7125
+	Flail	10
+7126
+	Rest	15
+7127
+	Sleep Talk	15
+7128
+	Dive	20
+7129
+	Noble Roar	25
+7130
+	Soak	30
+7131
+	Body Slam	35
+7132
+	Aqua Tail	40
+7133
+	Rain Dance	45
+7134
+	Order Up	50
+7135
+	Heavy Slam	55
+7136
+	Double-Edge	60
+7137
+	Wave Crash	65
+7138
+	
+	Veluza	
+7139
+	Tackle	1
+7140
+	Aqua Jet	1
+7141
+	Pluck	7
+7142
+	Water Pulse	11
+7143
+	Focus Energy	15
+7144
+	Slash	20
+7145
+	Aqua Cutter	25
+7146
+	Fillet Away	30
+7147
+	Night Slash	35
+7148
+	Psycho Cut	40
+7149
+	Liquidation	45
+7150
+	Crunch	50
+7151
+	Final Gambit	55
+7152
+	
+	Finizen	
+7153
+	Supersonic	1
+7154
+	Water Gun	1
+7155
+	Astonish	7
+7156
+	Focus Energy	10
+7157
+	Aqua Jet	13
+7158
+	Double Hit	17
+7159
+	Dive	21
+7160
+	Charm	25
+7161
+	Acrobatics	29
+7162
+	Encore	34
+7163
+	Aqua Tail	39
+7164
+	Mist	44
+7165
+	Hydro Pump	50
+7166
+	
+	Palafin	
+7167
+	Flip Turn	-3
+7168
+	Jet Punch	1
+7169
+	Supersonic	1
+7170
+	Water Gun	1
+7171
+	Astonish	7
+7172
+	Focus Energy	10
+7173
+	Aqua Jet	13
+7174
+	Double Hit	17
+7175
+	Dive	21
+7176
+	Charm	25
+7177
+	Acrobatics	29
+7178
+	Encore	34
+7179
+	Aqua Tail	39
+7180
+	Mist	44
+7181
+	Hydro Pump	50
+7182
+	Focus Punch	55
+7183
+	Wave Crash	61
+7184
+	
+	Smoliv	
+7185
+	Tackle	1
+7186
+	Sweet Scent	1
+7187
+	Absorb	5
+7188
+	Growth	7
+7189
+	Razor Leaf	10
+7190
+	Helping Hand	13
+7191
+	Flail	16
+7192
+	Mega Drain	20
+7193
+	Grassy Terrain	23
+7194
+	Seed Bomb	27
+7195
+	Energy Ball	30
+7196
+	Leech Seed	34
+7197
+	Terrain Pulse	38
+7198
+	
+	Dolliv	
+7199
+	Tackle	1
+7200
+	Sweet Scent	1
+7201
+	Absorb	5
+7202
+	Growth	7
+7203
+	Razor Leaf	10
+7204
+	Helping Hand	13
+7205
+	Flail	16
+7206
+	Mega Drain	20
+7207
+	Grassy Terrain	23
+7208
+	Seed Bomb	29
+7209
+	Energy Ball	34
+7210
+	Leech Seed	37
+7211
+	Terrain Pulse	42
+7212
+	
+	Arboliva	
+7213
+	Sweet Scent	1
+7214
+	Mirror Coat	1
+7215
+	Safeguard	1
+7216
+	Tackle	1
+7217
+	Absorb	5
+7218
+	Growth	7
+7219
+	Razor Leaf	10
+7220
+	Helping Hand	13
+7221
+	Flail	16
+7222
+	Mega Drain	20
+7223
+	Grassy Terrain	23
+7224
+	Seed Bomb	29
+7225
+	Energy Ball	34
+7226
+	Leech Seed	39
+7227
+	Terrain Pulse	46
+7228
+	Petal Blizzard	52
+7229
+	Petal Dance	58
+7230
+	
+	Capsakid	
+7231
+	Leer	1
+7232
+	Leafage	1
+7233
+	Bite	4
+7234
+	Growth	10
+7235
+	Razor Leaf	13
+7236
+	Sunny Day	17
+7237
+	Bullet Seed	21
+7238
+	Headbutt	24
+7239
+	Zen Headbutt	28
+7240
+	Crunch	38
+7241
+	Seed Bomb	44
+7242
+	Solar Beam	48
+7243
+	
+	Scovillain	
+7244
+	Spicy Extract	-3
+7245
+	Flamethrower	-3
+7246
+	Leer	1
+7247
+	Fire Fang	1
+7248
+	Leafage	1
+7249
+	Bite	4
+7250
+	Growth	10
+7251
+	Razor Leaf	13
+7252
+	Sunny Day	17
+7253
+	Bullet Seed	21
+7254
+	Headbutt	24
+7255
+	Zen Headbutt	28
+7256
+	Worry Seed	33
+7257
+	Crunch	38
+7258
+	Seed Bomb	44
+7259
+	Solar Beam	48
+7260
+	Overheat	48
+7261
+	
+	Tadbulb	
+7262
+	Tackle	1
+7263
+	Mud-Slap	1
+7264
+	Thunder Shock	7
+7265
+	Water Gun	11
+7266
+	Charge	17
+7267
+	Spark	21
+7268
+	Mud Shot	24
+7269
+	Flail	25
+7270
+	Discharge	32
+7271
+	Weather Ball	36
+7272
+	Electric Terrain	40
+7273
+	Sucker Punch	45
+7274
+	Zap Cannon	50
+7275
+	
+	Bellibolt	
+7276
+	Tackle	1
+7277
+	Mud-Slap	1
+7278
+	Slack Off	1
+7279
+	Thunder Shock	7
+7280
+	Water Gun	11
+7281
+	Charge	17
+7282
+	Spark	21
+7283
+	Mud Shot	24
+7284
+	Flail	25
+7285
+	Discharge	32
+7286
+	Weather Ball	36
+7287
+	Electric Terrain	40
+7288
+	Sucker Punch	45
+7289
+	Zap Cannon	50
+7290
+	
+	Varoom	
+7291
+	Lick	1
+7292
+	Poison Gas	1
+7293
+	Smog	4
+7294
+	Taunt	7
+7295
+	Assurance	10
+7296
+	Sludge	13
+7297
+	Gyro Ball	17
+7298
+	Headbutt	21
+7299
+	Screech	25
+7300
+	Iron Head	28
+7301
+	Swagger	32
+7302
+	Poison Jab	36
+7303
+	Uproar	41
+7304
+	Spin Out	46
+7305
+	Gunk Shot	50
+7306
+	
+	Revavroom	
+7307
+	Shift Gear	-3
+7308
+	Magnet Rise	1
+7309
+	Lick	1
+7310
+	Poison Gas	1
+7311
+	Smog	4
+7312
+	Taunt	7
+7313
+	Assurance	10
+7314
+	Sludge	13
+7315
+	Gyro Ball	17
+7316
+	Headbutt	21
+7317
+	Screech	25
+7318
+	Iron Head	28
+7319
+	Swagger	32
+7320
+	Poison Jab	36
+7321
+	Uproar	46
+7322
+	Spin Out	52
+7323
+	Gunk Shot	58
+7324
+	
+	Orthworm	
+7325
+	Tackle	1
+7326
+	Wrap	1
+7327
+	Harden	1
+7328
+	Mud-Slap	7
+7329
+	Smack Down	12
+7330
+	Bulldoze	16
+7331
+	Iron Head	21
+7332
+	Take Down	26
+7333
+	Dig	30
+7334
+	Sandstorm	34
+7335
+	Iron Defense	38
+7336
+	Iron Tail	43
+7337
+	Earthquake	47
+7338
+	Shed Tail	52
+7339
+	
+	Tandemaus	
+7340
+	Pound	1
+7341
+	Baby-Doll Eyes	1
+7342
+	Echoed Voice	5
+7343
+	Helping Hand	8
+7344
+	Super Fang	11
+7345
+	Double Hit	14
+7346
+	Bullet Seed	18
+7347
+	Encore	22
+7348
+	Play Rough	26
+7349
+	Hyper Voice	30
+7350
+	Charm	33
+7351
+	Beat Up	37
+7352
+	Copycat	41
+7353
+	Population Bomb	46
+7354
+	
+	Maushold	
+7355
+	Pound	1
+7356
+	Follow Me	1
+7357
+	Baby-Doll Eyes	1
+7358
+	Tidy Up	1
+7359
+	Echoed Voice	5
+7360
+	Helping Hand	8
+7361
+	Super Fang	11
+7362
+	Double Hit	14
+7363
+	Bullet Seed	18
+7364
+	Encore	22
+7365
+	Play Rough	29
+7366
+	Hyper Voice	33
+7367
+	Charm	37
+7368
+	Beat Up	41
+7369
+	Copycat	46
+7370
+	Population Bomb	53
+7371
+	
+	Cetoddle	
+7372
+	Tackle	1
+7373
+	Powder Snow	1
+7374
+	Growl	6
+7375
+	Echoed Voice	9
+7376
+	Ice Shard	12
+7377
+	Rest	15
+7378
+	Take Down	19
+7379
+	Flail	25
+7380
+	Avalanche	27
+7381
+	Bounce	31
+7382
+	Body Slam	36
+7383
+	Amnesia	40
+7384
+	Ice Spinner	44
+7385
+	Double-Edge	49
+7386
+	Blizzard	53
+7387
+	
+	Cetitan	
+7388
+	Tackle	1
+7389
+	Powder Snow	1
+7390
+	Growl	6
+7391
+	Echoed Voice	9
+7392
+	Ice Shard	12
+7393
+	Rest	15
+7394
+	Take Down	19
+7395
+	Flail	25
+7396
+	Avalanche	27
+7397
+	Bounce	31
+7398
+	Body Slam	36
+7399
+	Amnesia	40
+7400
+	Ice Spinner	44
+7401
+	Double-Edge	49
+7402
+	Blizzard	53
+7403
+	
+	Frigibax	
+7404
+	Tackle	1
+7405
+	Leer	1
+7406
+	Dragon Tail	1
+7407
+	Icy Wind	6
+7408
+	Dragon Breath	12
+7409
+	Focus Energy	18
+7410
+	Bite	24
+7411
+	Ice Fang	29
+7412
+	Dragon Claw	32
+7413
+	Take Down	36
+7414
+	Ice Beam	40
+7415
+	Crunch	44
+7416
+	Icicle Crash	48
+7417
+	
+	Arctibax	
+7418
+	Tackle	1
+7419
+	Leer	1
+7420
+	Dragon Tail	1
+7421
+	Icy Wind	6
+7422
+	Dragon Breath	12
+7423
+	Focus Energy	18
+7424
+	Bite	24
+7425
+	Ice Fang	29
+7426
+	Take Down	40
+7427
+	Ice Beam	45
+7428
+	Crunch	50
+7429
+	Icicle Crash	55
+7430
+	
+	Baxcalibur	
+7431
+	Glaive Rush	-3
+7432
+	Snowscape	1
+7433
+	Breaking Swipe	1
+7434
+	Dragon Tail	1
+7435
+	Ice Shard	1
+7436
+	Tackle	1
+7437
+	Leer	1
+7438
+	Icy Wind	6
+7439
+	Dragon Breath	12
+7440
+	Focus Energy	18
+7441
+	Bite	24
+7442
+	Ice Fang	29
+7443
+	Dragon Claw	35
+7444
+	Take Down	42
+7445
+	Ice Beam	48
+7446
+	Crunch	55
+7447
+	Icicle Crash	62
+7448
+	
+	Tatsugiri	
+7449
+	Water Gun	1
+7450
+	Splash	1
+7451
+	Harden	6
+7452
+	Helping Hand	12
+7453
+	Water Pulse	17
+7454
+	Soak	23
+7455
+	Taunt	28
+7456
+	Memento	34
+7457
+	Muddy Water	39
+7458
+	Nasty Plot	43
+7459
+	Mirror Coat	47
+7460
+	Dragon Pulse	52
+7461
+	
+	Cyclizar	
+7462
+	Tackle	1
+7463
+	Growl	1
+7464
+	Rapid Spin	7
+7465
+	Taunt	11
+7466
+	Breaking Swipe	14
+7467
+	Quick Attack	18
+7468
+	Bite	23
+7469
+	U-turn	27
+7470
+	Shed Tail	31
+7471
+	Dragon Claw	36
+7472
+	Shift Gear	40
+7473
+	Dragon Pulse	45
+7474
+	Double-Edge	51
+7475
+	Dragon Rush	57
+7476
+	
+	Pawmi	
+7477
+	Scratch	1
+7478
+	Growl	1
+7479
+	Thunder Shock	3
+7480
+	Quick Attack	6
+7481
+	Charge	8
+7482
+	Nuzzle	12
+7483
+	Dig	15
+7484
+	Bite	19
+7485
+	Spark	23
+7486
+	Thunder Wave	27
+7487
+	Entrainment	31
+7488
+	Slam	35
+7489
+	Discharge	38
+7490
+	Agility	40
+7491
+	Wild Charge	44
+7492
+	
+	Pawmo	
+7493
+	Arm Thrust	-3
+7494
+	Scratch	1
+7495
+	Growl	1
+7496
+	Thunder Shock	3
+7497
+	Quick Attack	6
+7498
+	Charge	8
+7499
+	Nuzzle	12
+7500
+	Dig	15
+7501
+	Bite	19
+7502
+	Spark	23
+7503
+	Thunder Wave	27
+7504
+	Slam	32
+7505
+	Entrainment	38
+7506
+	Discharge	42
+7507
+	Agility	46
+7508
+	Wild Charge	52
+7509
+	
+	Pawmot	
+7510
+	Revival Blessing	-3
+7511
+	Scratch	1
+7512
+	Growl	1
+7513
+	Wild Charge	1
+7514
+	Thunder Shock	3
+7515
+	Quick Attack	6
+7516
+	Charge	8
+7517
+	Nuzzle	12
+7518
+	Dig	15
+7519
+	Bite	19
+7520
+	Spark	23
+7521
+	Arm Thrust	25
+7522
+	Thunder Wave	29
+7523
+	Slam	33
+7524
+	Entrainment	39
+7525
+	Close Combat	44
+7526
+	Discharge	49
+7527
+	Agility	54
+7528
+	Double Shock	60
+7529
+	
+	Wattrel	
+7530
+	Growl	1
+7531
+	Peck	1
+7532
+	Thunder Shock	4
+7533
+	Quick Attack	7
+7534
+	Pluck	11
+7535
+	Spark	15
+7536
+	Uproar	19
+7537
+	Roost	23
+7538
+	Dual Wingbeat	27
+7539
+	Agility	32
+7540
+	Volt Switch	37
+7541
+	Discharge	43
+7542
+	
+	Kilowattrel	
+7543
+	Electro Ball	-3
+7544
+	Growl	1
+7545
+	Peck	1
+7546
+	Thunder Shock	4
+7547
+	Quick Attack	7
+7548
+	Pluck	11
+7549
+	Spark	15
+7550
+	Uproar	19
+7551
+	Roost	24
+7552
+	Dual Wingbeat	30
+7553
+	Agility	36
+7554
+	Volt Switch	43
+7555
+	Discharge	48
+7556
+	Hurricane	55
+7557
+	
+	Bombirdier	
+7558
+	Wing Attack	1
+7559
+	Leer	1
+7560
+	Peck	1
+7561
+	Memento	1
+7562
+	Hone Claws	1
+7563
+	Thief	7
+7564
+	Rock Throw	11
+7565
+	Whirlwind	16
+7566
+	Pluck	20
+7567
+	Torment	24
+7568
+	Rock Tomb	29
+7569
+	Payback	36
+7570
+	Dual Wingbeat	42
+7571
+	Rock Slide	47
+7572
+	Knock Off	53
+7573
+	Parting Shot	60
+7574
+	
+	Squawkabilly	
+7575
+	Growl	1
+7576
+	Peck	1
+7577
+	Mimic	1
+7578
+	Quick Attack	6
+7579
+	Torment	10
+7580
+	Aerial Ace	13
+7581
+	Fury Attack	17
+7582
+	Taunt	20
+7583
+	Uproar	24
+7584
+	Copycat	27
+7585
+	Fly	30
+7586
+	Facade	34
+7587
+	Swagger	38
+7588
+	Brave Bird	42
+7589
+	Roost	47
+7590
+	Reversal	52
+7591
+	
+	Flamigo	
+7592
+	Peck	1
+7593
+	Copycat	1
+7594
+	Double Kick	5
+7595
+	Detect	9
+7596
+	Wing Attack	12
+7597
+	Focus Energy	15
+7598
+	Low Kick	18
+7599
+	Feint	21
+7600
+	Payback	27
+7601
+	Roost	31
+7602
+	Air Slash	35
+7603
+	Mega Kick	39
+7604
+	Wide Guard	44
+7605
+	Throat Chop	48
+7606
+	Brave Bird	54
+7607
+	
+	Klawf	
+7608
+	Vise Grip	1
+7609
+	Rock Throw	1
+7610
+	Harden	6
+7611
+	Rock Smash	9
+7612
+	Rock Tomb	13
+7613
+	Metal Claw	17
+7614
+	Protect	21
+7615
+	Rock Blast	24
+7616
+	X-Scissor	29
+7617
+	Swords Dance	33
+7618
+	Flail	37
+7619
+	Rock Slide	42
+7620
+	High Horsepower	47
+7621
+	Iron Defense	51
+7622
+	Guillotine	56
+7623
+	
+	Nacli	
+7624
+	Tackle	1
+7625
+	Harden	1
+7626
+	Rock Throw	5
+7627
+	Mud Shot	7
+7628
+	Smack Down	10
+7629
+	Rock Polish	13
+7630
+	Headbutt	16
+7631
+	Iron Defense	20
+7632
+	Recover	25
+7633
+	Rock Slide	30
+7634
+	Stealth Rock	33
+7635
+	Heavy Slam	35
+7636
+	Earthquake	40
+7637
+	Stone Edge	45
+7638
+	
+	Naclstack	
+7639
+	Salt Cure	-3
+7640
+	Tackle	1
+7641
+	Harden	1
+7642
+	Rock Throw	5
+7643
+	Mud Shot	7
+7644
+	Smack Down	10
+7645
+	Rock Polish	13
+7646
+	Headbutt	16
+7647
+	Iron Defense	20
+7648
+	Recover	30
+7649
+	Rock Slide	34
+7650
+	Stealth Rock	38
+7651
+	Heavy Slam	41
+7652
+	Earthquake	45
+7653
+	Stone Edge	51
+7654
+	
+	Garganacl	
+7655
+	Hammer Arm	-3
+7656
+	Block	1
+7657
+	Tackle	1
+7658
+	Wide Guard	1
+7659
+	Harden	1
+7660
+	Rock Blast	1
+7661
+	Rock Throw	5
+7662
+	Mud Shot	7
+7663
+	Rock Tomb	10
+7664
+	Rock Polish	13
+7665
+	Headbutt	16
+7666
+	Salt Cure	24
+7667
+	Recover	30
+7668
+	Rock Slide	34
+7669
+	Stealth Rock	40
+7670
+	Heavy Slam	44
+7671
+	Earthquake	49
+7672
+	Stone Edge	54
+7673
+	Explosion	60
+7674
+	
+	Glimmet	
+7675
+	Rock Throw	1
+7676
+	Harden	1
+7677
+	Smack Down	1
+7678
+	Acid Spray	7
+7679
+	Ancient Power	11
+7680
+	Rock Polish	15
+7681
+	Stealth Rock	18
+7682
+	Venoshock	22
+7683
+	Sandstorm	26
+7684
+	Self-Destruct	29
+7685
+	Rock Slide	33
+7686
+	Power Gem	37
+7687
+	Acid Armor	41
+7688
+	Sludge Wave	46
+7689
+	
+	Glimmora	
+7690
+	Mortal Spin	-3
+7691
+	Smack Down	1
+7692
+	Spiky Shield	1
+7693
+	Toxic Spikes	1
+7694
+	Rock Throw	1
+7695
+	Harden	1
+7696
+	Acid Spray	7
+7697
+	Ancient Power	11
+7698
+	Rock Polish	15
+7699
+	Stealth Rock	18
+7700
+	Venoshock	22
+7701
+	Sandstorm	26
+7702
+	Self-Destruct	29
+7703
+	Rock Slide	33
+7704
+	Power Gem	39
+7705
+	Acid Armor	44
+7706
+	Sludge Wave	50
+7707
+	
+	Shroodle	
+7708
+	Scratch	1
+7709
+	Leer	1
+7710
+	Acid Spray	5
+7711
+	Bite	8
+7712
+	Fury Swipes	8
+7713
+	Switcheroo	11
+7714
+	Poison Fang	14
+7715
+	Flatter	18
+7716
+	Slash	21
+7717
+	U-turn	25
+7718
+	Poison Jab	29
+7719
+	Taunt	33
+7720
+	Substitute	36
+7721
+	Knock Off	40
+7722
+	Gunk Shot	45
+7723
+	
+	Grafaiai	
+7724
+	Doodle	-3
+7725
+	Scratch	1
+7726
+	Leer	1
+7727
+	Acid Spray	5
+7728
+	Fury Swipes	8
+7729
+	Switcheroo	11
+7730
+	Poison Fang	14
+7731
+	Flatter	18
+7732
+	Slash	21
+7733
+	U-turn	25
+7734
+	Poison Jab	33
+7735
+	Taunt	37
+7736
+	Substitute	40
+7737
+	Knock Off	45
+7738
+	Gunk Shot	51
+7739
+	
+	Fidough	
+7740
+	Tackle	1
+7741
+	Growl	1
+7742
+	Lick	3
+7743
+	Tail Whip	6
+7744
+	Covet	8
+7745
+	Bite	11
+7746
+	Baby-Doll Eyes	15
+7747
+	Play Rough	18
+7748
+	Work Up	22
+7749
+	Baton Pass	26
+7750
+	Roar	30
+7751
+	Double-Edge	33
+7752
+	Charm	36
+7753
+	Crunch	40
+7754
+	Last Resort	45
+7755
+	
+	Dachsbun	
+7756
+	Tackle	1
+7757
+	Growl	1
+7758
+	Lick	3
+7759
+	Tail Whip	6
+7760
+	Covet	8
+7761
+	Bite	11
+7762
+	Baby-Doll Eyes	15
+7763
+	Play Rough	18
+7764
+	Work Up	22
+7765
+	Baton Pass	29
+7766
+	Roar	33
+7767
+	Double-Edge	38
+7768
+	Charm	42
+7769
+	Crunch	47
+7770
+	Last Resort	53
+7771
+	
+	Maschiff	
+7772
+	Tackle	1
+7773
+	Leer	1
+7774
+	Scary Face	1
+7775
+	Lick	4
+7776
+	Snarl	7
+7777
+	Hone Claws	10
+7778
+	Bite	14
+7779
+	Roar	18
+7780
+	Headbutt	22
+7781
+	Payback	26
+7782
+	Crunch	31
+7783
+	Swagger	35
+7784
+	Reversal	39
+7785
+	Jaw Lock	43
+7786
+	Double-Edge	49
+7787
+	
+	Mabosstiff	
+7788
+	Comeuppance	-3
+7789
+	Leer	1
+7790
+	Scary Face	1
+7791
+	Tackle	1
+7792
+	Lick	4
+7793
+	Snarl	7
+7794
+	Hone Claws	10
+7795
+	Bite	14
+7796
+	Roar	18
+7797
+	Headbutt	22
+7798
+	Payback	26
+7799
+	Crunch	34
+7800
+	Swagger	39
+7801
+	Reversal	43
+7802
+	Jaw Lock	48
+7803
+	Double-Edge	55
+7804
+	Outrage	60
+7805
+	
+	Bramblin	
+7806
+	Defense Curl	1
+7807
+	Rollout	1
+7808
+	Astonish	1
+7809
+	Absorb	5
+7810
+	Rapid Spin	9
+7811
+	Bullet Seed	13
+7812
+	Infestation	17
+7813
+	Hex	21
+7814
+	Mega Drain	25
+7815
+	Disable	29
+7816
+	Phantom Force	35
+7817
+	Giga Drain	40
+7818
+	Curse	45
+7819
+	Pain Split	50
+7820
+	Power Whip	55
+7821
+	
+	Brambleghast	
+7822
+	Defense Curl	1
+7823
+	Rollout	1
+7824
+	Astonish	1
+7825
+	Absorb	5
+7826
+	Rapid Spin	9
+7827
+	Bullet Seed	13
+7828
+	Infestation	17
+7829
+	Hex	21
+7830
+	Mega Drain	25
+7831
+	Disable	29
+7832
+	Phantom Force	35
+7833
+	Giga Drain	40
+7834
+	Curse	45
+7835
+	Pain Split	50
+7836
+	Power Whip	55
+7837
+		Gimmighoul	
+7838
+	Astonish	1
+7839
+	Tackle	1
+7840
+	
+	Gholdengo	
+7841
+	Tackle	1
+7842
+	Astonish	1
+7843
+	Night Shade	7
+7844
+	Confuse Ray	14
+7845
+	Substitute	21
+7846
+	Metal Sound	28
+7847
+	Shadow Ball	35
+7848
+	Recover	42
+7849
+	Power Gem	49
+7850
+	Make It Rain	56
+7851
+	Nasty Plot	63
+7852
+	Memento	70
+7853
+	
+	Great Tusk	
+7854
+	Horn Attack	1
+7855
+	Defense Curl	1
+7856
+	Rollout	1
+7857
+	Sunny Day	1
+7858
+	Bulldoze	7
+7859
+	Taunt	14
+7860
+	Rapid Spin	21
+7861
+	Brick Break	28
+7862
+	Stomping Tantrum	35
+7863
+	Knock Off	42
+7864
+	Earthquake	49
+7865
+	Giga Impact	56
+7866
+	Close Combat	63
+7867
+	Endeavor	70
+7868
+	Megahorn	77
+7869
+	Head Smash	84
+7870
+	Headlong Rush	91
+7871
+	
+	Brute Bonnet	
+7872
+	Absorb	1
+7873
+	Growth	1
+7874
+	Astonish	1
+7875
+	Stun Spore	7
+7876
+	Mega Drain	14
+7877
+	Synthesis	21
+7878
+	Clear Smog	28
+7879
+	Payback	35
+7880
+	Thrash	42
+7881
+	Giga Drain	49
+7882
+	Sucker Punch	56
+7883
+	Spore	63
+7884
+	Ingrain	70
+7885
+	Rage Powder	77
+7886
+	Solar Beam	91
+7887
+	
+	Sandy Shocks	
+7888
+	Thunder Wave	1
+7889
+	Electric Terrain	1
+7890
+	Supersonic	1
+7891
+	Thunder Shock	1
+7892
+	Spark	7
+7893
+	Bulldoze	14
+7894
+	Charge Beam	21
+7895
+	Tri Attack	28
+7896
+	Screech	35
+7897
+	Heavy Slam	42
+7898
+	Metal Sound	49
+7899
+	Discharge	56
+7900
+	Earth Power	63
+7901
+	Mirror Coat	70
+7902
+	Gravity	77
+7903
+	Zap Cannon	84
+7904
+	Magnetic Flux	91
+7905
+	
+	Scream Tail	
+7906
+	Pound	1
+7907
+	Sing	1
+7908
+	Disable	1
+7909
+	Howl	7
+7910
+	Noble Roar	14
+7911
+	Bite	21
+7912
+	Body Slam	28
+7913
+	Rest	35
+7914
+	Play Rough	42
+7915
+	Hyper Voice	49
+7916
+	Psychic Fangs	56
+7917
+	Crunch	63
+7918
+	Wish	70
+7919
+	Gyro Ball	77
+7920
+	Perish Song	84
+7921
+	Boomburst	91
+7922
+	
+	Flutter Mane	
+7923
+	Confuse Ray	1
+7924
+	Spite	1
+7925
+	Astonish	1
+7926
+	Psybeam	7
+7927
+	Mean Look	14
+7928
+	Memento	21
+7929
+	Wish	28
+7930
+	Dazzling Gleam	35
+7931
+	Shadow Ball	42
+7932
+	Mystical Fire	49
+7933
+	Power Gem	56
+7934
+	Psyshock	63
+7935
+	Phantom Force	70
+7936
+	Pain Split	77
+7937
+	Moonblast	84
+7938
+	Perish Song	91
+7939
+	
+	Slither Wing	
+7940
+	Gust	1
+7941
+	Ember	1
+7942
+	Bug Bite	1
+7943
+	Poison Powder	7
+7944
+	Stun Spore	7
+7945
+	Flame Charge	14
+7946
+	Stomp	21
+7947
+	Low Sweep	28
+7948
+	Morning Sun	35
+7949
+	Lunge	42
+7950
+	Superpower	49
+7951
+	Bulk Up	56
+7952
+	Dual Wingbeat	63
+7953
+	First Impression	70
+7954
+	Whirlwind	77
+7955
+	Leech Life	84
+7956
+	Thrash	91
+7957
+	
+	Roaring Moon	
+7958
+	Dragon Breath	1
+7959
+	Leer	1
+7960
+	Bite	1
+7961
+	Focus Energy	1
+7962
+	Incinerate	7
+7963
+	Headbutt	14
+7964
+	Scary Face	21
+7965
+	Dragon Claw	28
+7966
+	Zen Headbutt	35
+7967
+	Flamethrower	42
+7968
+	Night Slash	49
+7969
+	Dragon Dance	56
+7970
+	Dragon Rush	63
+7971
+	Fly	70
+7972
+	Throat Chop	77
+7973
+	Roost	84
+7974
+	Double-Edge	91
+7975
+	
+	Iron Treads	
+7976
+	Horn Attack	1
+7977
+	Defense Curl	1
+7978
+	Rollout	1
+7979
+	Electric Terrain	1
+7980
+	Bulldoze	7
+7981
+	Rapid Spin	21
+7982
+	Iron Head	28
+7983
+	Stomping Tantrum	35
+7984
+	Knock Off	42
+7985
+	Earthquake	49
+7986
+	Heavy Slam	56
+7987
+	Wild Charge	63
+7988
+	Endeavor	70
+7989
+	Megahorn	77
+7990
+	Giga Impact	84
+7991
+	Steel Roller	91
+7992
+	
+	Iron Moth	
+7993
+	Gust	1
+7994
+	Whirlwind	1
+7995
+	Ember	1
+7996
+	Acid Spray	1
+7997
+	Struggle Bug	7
+7998
+	Fire Spin	14
+7999
+	Take Down	21
+8000
+	Lunge	28
+8001
+	Screech	35
+8002
+	Discharge	42
+8003
+	Sludge Wave	49
+8004
+	Fiery Dance	56
+8005
+	Metal Sound	63
+8006
+	Morning Sun	70
+8007
+	Hurricane	77
+8008
+	Bug Buzz	84
+8009
+	Overheat	91
+8010
+	
+	Iron Hands	
+8011
+	Sand Attack	1
+8012
+	Tackle	1
+8013
+	Focus Energy	1
+8014
+	Arm Thrust	1
+8015
+	Fake Out	7
+8016
+	Whirlwind	14
+8017
+	Thunder Punch	21
+8018
+	Slam	28
+8019
+	Force Palm	35
+8020
+	Seismic Toss	42
+8021
+	Charge	49
+8022
+	Wild Charge	56
+8023
+	Close Combat	63
+8024
+	Detect	70
+8025
+	Heavy Slam	77
+8026
+	Belly Drum	84
+8027
+	Focus Punch	91
+8028
+	
+	Iron Jugulis	
+8029
+	Electric Terrain	1
+8030
+	Work Up	1
+8031
+	Focus Energy	1
+8032
+	Tri Attack	1
+8033
+	Air Cutter	1
+8034
+	Roar	7
+8035
+	Assurance	14
+8036
+	Dragon Breath	21
+8037
+	Snarl	28
+8038
+	Crunch	35
+8039
+	Hyper Voice	42
+8040
+	Air Slash	56
+8041
+	Knock Off	63
+8042
+	Dark Pulse	70
+8043
+	Outrage	77
+8044
+	Dragon Pulse	84
+8045
+	Hyper Beam	91
+8046
+	
+	Iron Thorns	
+8047
+	Rock Throw	1
+8048
+	Fire Fang	1
+8049
+	Ice Fang	1
+8050
+	Iron Defense	1
+8051
+	Thunder Fang	1
+8052
+	Screech	7
+8053
+	Rock Tomb	21
+8054
+	Bite	28
+8055
+	Charge	35
+8056
+	Rock Slide	42
+8057
+	Sandstorm	49
+8058
+	Wild Charge	56
+8059
+	Pin Missile	63
+8060
+	Earthquake	70
+8061
+	Stealth Rock	77
+8062
+	Stone Edge	84
+8063
+	Giga Impact	91
+8064
+	
+	Iron Bundle	
+8065
+	Present	1
+8066
+	Powder Snow	7
+8067
+	Whirlpool	14
+8068
+	Take Down	21
+8069
+	Drill Peck	28
+8070
+	Helping Hand	35
+8071
+	Freeze-Dry	42
+8072
+	Flip Turn	49
+8073
+	Ice Beam	56
+8074
+	Agility	63
+8075
+	Snowscape	70
+8076
+	Hydro Pump	77
+8077
+	Aurora Veil	84
+8078
+	Blizzard	91
+8079
+	
+	Iron Valiant	
+8080
+	Disable	1
+8081
+	Double Team	1
+8082
+	Shadow Sneak	1
+8083
+	Fury Cutter	1
+8084
+	Hypnosis	7
+8085
+	Feint	14
+8086
+	Future Sight	21
+8087
+	Dazzling Gleam	28
+8088
+	Psycho Cut	35
+8089
+	Night Slash	42
+8090
+	Leaf Blade	49
+8091
+	Moonblast	56
+8092
+	Close Combat	63
+8093
+	Knock Off	70
+8094
+	Destiny Bond	77
+8095
+	Wide Guard	84
+8096
+	Quick Guard	84
+8097
+	Spirit Break	91
+8098
+	
+	Ting-Lu	
+8099
+	Mean Look	1
+8100
+	Sand Tomb	1
+8101
+	Spite	1
+8102
+	Spikes	5
+8103
+	Payback	10
+8104
+	Stomp	15
+8105
+	Bulldoze	20
+8106
+	Whirlwind	25
+8107
+	Taunt	30
+8108
+	Thrash	35
+8109
+	Dark Pulse	40
+8110
+	Stomping Tantrum	45
+8111
+	Ruination	50
+8112
+	Throat Chop	55
+8113
+	Rock Slide	60
+8114
+	Memento	65
+8115
+	Earthquake	70
+8116
+	Fissure	75
+8117
+	
+	Chien-Pao	
+8118
+	Spite	1
+8119
+	Powder Snow	1
+8120
+	Mean Look	1
+8121
+	Icy Wind	5
+8122
+	Payback	10
+8123
+	Mist	15
+8124
+	Haze	15
+8125
+	Ice Shard	20
+8126
+	Swords Dance	25
+8127
+	Snowscape	30
+8128
+	Night Slash	35
+8129
+	Dark Pulse	40
+8130
+	Icicle Crash	45
+8131
+	Ruination	50
+8132
+	Sucker Punch	55
+8133
+	Sacred Sword	60
+8134
+	Recover	65
+8135
+	Throat Chop	70
+8136
+	Sheer Cold	75
+8137
+	
+	Wo-Chien	
+8138
+	Absorb	1
+8139
+	Spite	1
+8140
+	Mean Look	1
+8141
+	Tickle	5
+8142
+	Payback	10
+8143
+	Poison Powder	15
+8144
+	Stun Spore	15
+8145
+	Mega Drain	20
+8146
+	Leech Seed	25
+8147
+	Growth	30
+8148
+	Ingrain	35
+8149
+	Dark Pulse	40
+8150
+	Giga Drain	45
+8151
+	Ruination	50
+8152
+	Foul Play	55
+8153
+	Power Whip	60
+8154
+	Grassy Terrain	65
+8155
+	Knock Off	70
+8156
+	Leaf Storm	75
+8157
+	
+	Chi-Yu	
+8158
+	Ember	1
+8159
+	Spite	1
+8160
+	Mean Look	1
+8161
+	Flame Wheel	5
+8162
+	Payback	10
+8163
+	Will-O-Wisp	15
+8164
+	Flame Charge	20
+8165
+	Incinerate	25
+8166
+	Confuse Ray	30
+8167
+	Nasty Plot	35
+8168
+	Dark Pulse	40
+8169
+	Lava Plume	45
+8170
+	Ruination	50
+8171
+	Bounce	55
+8172
+	Swagger	60
+8173
+	Inferno	65
+8174
+	Memento	70
+8175
+	Overheat	75
+8176
+	
+	Koraidon	
+8177
+	Sunny Day	1
+8178
+	Breaking Swipe	1
+8179
+	Rock Smash	7
+8180
+	Ancient Power	14
+8181
+	Drain Punch	21
+8182
+	Brick Break	28
+8183
+	Agility	35
+8184
+	Dragon Claw	42
+8185
+	Flamethrower	49
+8186
+	Collision Course	56
+8187
+	Screech	63
+8188
+	Counter	70
+8189
+	Outrage	77
+8190
+	Close Combat	84
+8191
+	Flare Blitz	91
+8192
+	Giga Impact	98
+8193
+	
+	Miraidon	
+8194
+	Thunder Shock	1
+8195
+	Dragon Breath	1
+8196
+	Electric Terrain	1
+8197
+	Shock Wave	7
+8198
+	Charge	14
+8199
+	Parabolic Charge	21
+8200
+	Discharge	28
+8201
+	Agility	35
+8202
+	Dragon Pulse	42
+8203
+	Electro Drift	56
+8204
+	Metal Sound	63
+8205
+	Mirror Coat	70
+8206
+	Outrage	77
+8207
+	Thunder	84
+8208
+	Overheat	91
+8209
+	Hyper Beam	98
+8210
+	
+	Tinkatink	
+8211
+	Astonish	1
+8212
+	Fairy Wind	1
+8213
+	Baby-Doll Eyes	5
+8214
+	Metal Claw	8
+8215
+	Covet	11
+8216
+	Rock Smash	14
+8217
+	Draining Kiss	17
+8218
+	Sweet Kiss	21
+8219
+	Brutal Swing	24
+8220
+	Slam	27
+8221
+	Flash Cannon	31
+8222
+	Play Rough	35
+8223
+	Fake Out	39
+8224
+	Flatter	43
+8225
+	Skitter Smack	47
+8226
+	Knock Off	52
+8227
+	
+	Tinkatuff	
+8228
+	Astonish	1
+8229
+	Fairy Wind	1
+8230
+	Baby-Doll Eyes	5
+8231
+	Metal Claw	8
+8232
+	Covet	11
+8233
+	Rock Smash	14
+8234
+	Draining Kiss	17
+8235
+	Sweet Kiss	21
+8236
+	Brutal Swing	24
+8237
+	Slam	27
+8238
+	Flash Cannon	31
+8239
+	Play Rough	35
+8240
+	Fake Out	39
+8241
+	Flatter	43
+8242
+	Skitter Smack	47
+8243
+	Knock Off	52
+8244
+	
+	Tinkaton	
+8245
+	Gigaton Hammer	-3
+8246
+	Fairy Wind	1
+8247
+	Astonish	1
+8248
+	Baby-Doll Eyes	5
+8249
+	Metal Claw	8
+8250
+	Covet	11
+8251
+	Rock Smash	14
+8252
+	Draining Kiss	17
+8253
+	Sweet Kiss	21
+8254
+	Brutal Swing	24
+8255
+	Slam	27
+8256
+	Flash Cannon	31
+8257
+	Play Rough	35
+8258
+	Fake Out	39
+8259
+	Flatter	43
+8260
+	Skitter Smack	47
+8261
+	Knock Off	52
+8262
+	
+	Charcadet	
+8263
+	Leer	1
+8264
+	Ember	1
+8265
+	Astonish	1
+8266
+	Clear Smog	8
+8267
+	Fire Spin	12
+8268
+	Will-O-Wisp	16
+8269
+	Night Shade	20
+8270
+	Flame Charge	24
+8271
+	Incinerate	28
+8272
+	Lava Plume	32
+8273
+	
+	Armarouge	
+8274
+	Psyshock	-3
+8275
+	Leer	1
+8276
+	Ember	1
+8277
+	Mystical Fire	1
+8278
+	Astonish	1
+8279
+	Wide Guard	1
+8280
+	Clear Smog	8
+8281
+	Fire Spin	12
+8282
+	Will-O-Wisp	16
+8283
+	Night Shade	20
+8284
+	Flame Charge	24
+8285
+	Incinerate	28
+8286
+	Lava Plume	32
+8287
+	Calm Mind	37
+8288
+	Ally Switch	42
+8289
+	Flamethrower	48
+8290
+	Expanding Force	56
+8291
+	Armor Cannon	62
+8292
+	
+	Ceruledge	
+8293
+	Shadow Claw	-3
+8294
+	Leer	1
+8295
+	Ember	1
+8296
+	Astonish	1
+8297
+	Clear Smog	8
+8298
+	Fire Spin	12
+8299
+	Will-O-Wisp	16
+8300
+	Night Shade	20
+8301
+	Flame Charge	24
+8302
+	Incinerate	28
+8303
+	Lava Plume	32
+8304
+	Swords Dance	37
+8305
+	Ally Switch	42
+8306
+	Bitter Blade	48
+8307
+	Psycho Cut	56
+8308
+	Flare Blitz	62
+8309
+	
+	Toedscool	
+8310
+	Wrap	1
+8311
+	Mud-Slap	1
+8312
+	Absorb	4
+8313
+	Poison Powder	8
+8314
+	Stun Spore	8
+8315
+	Supersonic	12
+8316
+	Tackle	15
+8317
+	Mega Drain	16
+8318
+	Screech	20
+8319
+	Mud Shot	24
+8320
+	Hex	28
+8321
+	Seed Bomb	32
+8322
+	Spore	36
+8323
+	Growth	40
+8324
+	Giga Drain	44
+8325
+	Earth Power	48
+8326
+	Power Whip	52
+8327
+	
+	Toedscruel	
+8328
+	Reflect Type	1
+8329
+	Wrap	1
+8330
+	Mud-Slap	1
+8331
+	Absorb	4
+8332
+	Stun Spore	8
+8333
+	Poison Powder	8
+8334
+	Supersonic	12
+8335
+	Tackle	15
+8336
+	Mega Drain	16
+8337
+	Screech	20
+8338
+	Mud Shot	24
+8339
+	Hex	28
+8340
+	Seed Bomb	34
+8341
+	Spore	40
+8342
+	Growth	44
+8343
+	Giga Drain	48
+8344
+	Earth Power	54
+8345
+	Power Whip	58
+8346
+	
+	Kingambit	
+8347
+	Kowtow Cleave	-3
+8348
+	Metal Burst	1
+8349
+	Metal Claw	1
+8350
+	Fury Cutter	1
+8351
+	Scratch	1
+8352
+	Leer	1
+8353
+	Torment	15
+8354
+	Scary Face	20
+8355
+	Assurance	25
+8356
+	Metal Sound	30
+8357
+	Slash	35
+8358
+	Night Slash	40
+8359
+	Iron Defense	45
+8360
+	Retaliate	50
+8361
+	Iron Head	57
+8362
+	Swords Dance	64
+8363
+	Guillotine	71
+8364
+	
+	Clodsire	
+8365
+	Amnesia	-3
+8366
+	Tail Whip	1
+8367
+	Poison Sting	1
+8368
+	Toxic Spikes	4
+8369
+	Mud Shot	8
+8370
+	Poison Tail	12
+8371
+	Slam	16
+8372
+	Yawn	21
+8373
+	Poison Jab	24
+8374
+	Sludge Wave	30
+8375
+	Megahorn	36
+8376
+	Toxic	40
+8377
+	Earthquake	48
+8378
+	
+	Annihilape	
+8379
+	Shadow Punch	-3
+8380
+	Scratch	1
+8381
+	Leer	1
+8382
+	Counter	1
+8383
+	Fling	1
+8384
+	Focus Energy	1
+8385
+	Fury Swipes	5
+8386
+	Low Kick	8
+8387
+	Seismic Toss	12
+8388
+	Swagger	17
+8389
+	Cross Chop	22
+8390
+	Assurance	26
+8391
+	Thrash	30
+8392
+	Rage Fist	35
+8393
+	Close Combat	39
+8394
+	Screech	44
+8395
+	Stomping Tantrum	48
+8396
+	Outrage	53
+8397
+	Final Gambit	57
