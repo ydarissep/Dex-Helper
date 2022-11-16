@@ -1751,7 +1751,8 @@ Charmander
 822
 	Entrainment
 823
-	Flabébé
+	
+	Flabebe
 824
 	Endeavor
 825
