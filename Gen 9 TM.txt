@@ -4542,6 +4542,7 @@
 2249
 	Trailblaze
 2250
+	
 	Tauros-Paldea-1
 2251
 	Body Slam
@@ -4614,6 +4615,7 @@
 2285
 	Trailblaze
 2286
+	
 	Tauros-Paldea-2
 2287
 	Body Slam
@@ -4698,6 +4700,7 @@
 2327
 	Trailblaze
 2328
+	
 	Tauros-Paldea-3
 2329
 	Body Slam
